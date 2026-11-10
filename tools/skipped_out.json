@@ -90,6 +90,18 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 515,
+  "title": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告",
+  "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6650.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 516,
+  "title": "广东水利电力职业技术学院2026年项目制教师招聘公告",
+  "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6649.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 517,
   "title": "广州华商职业学院实训室管理员招聘启事",
   "sourceUrl": "https://rsc.gzhsvc.edu.cn/info/1065/1957.htm",
@@ -99,7 +111,7 @@
   "id": 518,
   "title": "11-092026广东江门南粤学院2026-2027学年招聘公告查看详情>>",
   "sourceUrl": "https://www1.bitzh.edu.cn:8081/info/3103/5491.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: SSLError"
  },
  {
   "id": 519,
@@ -276,12 +288,6 @@
   "reason": "页面没有岗位表附件"
  },
  {
-  "id": 892,
-  "title": "珠海市教育局2026年10月面向社会公开招聘直属学校事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3951675.html",
-  "reason": "公告页打不开: SSLError"
- },
- {
   "id": 893,
   "title": "深圳大学心理学院唐苏勤课题组诚聘研究助理",
   "sourceUrl": "https://hr.szu.edu.cn/info/1016/25261.htm",
@@ -303,7 +309,7 @@
   "id": 897,
   "title": "高层次人才招聘",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/gccrczp",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 898,
@@ -318,6 +324,12 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 907,
+  "title": "广东科学技术职业学院2026年正高级教师招聘公告",
+  "sourceUrl": "https://www.gdit.edu.cn/rsc/2026/1020/c958a121940/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 908,
   "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
   "sourceUrl": "https://hr.szu.edu.cn/info/1016/25251.htm",
@@ -327,7 +339,7 @@
   "id": 910,
   "title": "博士后人才招聘",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/bshpy/bshrczp.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 911,
@@ -375,7 +387,7 @@
   "id": 920,
   "title": "关于岭南师范学院2026年公开招聘博士第二轮滚动招聘有关事项的公告",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2123/17032.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 921,
@@ -417,7 +429,7 @@
   "id": 932,
   "title": "肇庆医学院2026年编外临聘人员招聘公告",
   "sourceUrl": "https://rsc.zqmc.edu.cn/info/1249/2096.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 933,
@@ -459,7 +471,7 @@
   "id": 940,
   "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第2号）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/rczp1/content_59489",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 943,
@@ -495,7 +507,7 @@
   "id": 949,
   "title": "广东理工学院2027年教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4521.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 951,
@@ -543,19 +555,13 @@
   "id": 958,
   "title": "广东理工学院2027年银龄教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4491.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 959,
   "title": "广州理工学院2026年秋季专任教师招聘公告",
   "sourceUrl": "https://www.gzist.edu.cn/info/1376/23421.htm",
   "reason": "页面没有岗位表附件"
- },
- {
-  "id": 960,
-  "title": "珠海市教育局2026年秋季面向社会公开招聘直属学校事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3939191.html",
-  "reason": "公告页打不开: SSLError"
  },
  {
   "id": 962,
@@ -567,7 +573,7 @@
   "id": 965,
   "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第三批）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/gccrczp/content_59110",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 966,
@@ -591,7 +597,7 @@
   "id": 970,
   "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第1号）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/rczp1/content_58885",
-  "reason": "附件解析不出岗位; 1.2026年第三批校编专任教师各岗位微信群二维码.pdf: HTTPError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 971,
@@ -627,7 +633,13 @@
   "id": 986,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第四批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0824/c3612a108527/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 991,
+  "title": "广东建设职业技术学院2026年公开招聘博士研究生公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4943820.html",
+  "reason": "附件解析不出岗位; 附件：1.广东建设职业技术学院2026年公开招聘博士研究生岗: ConnectionError"
  },
  {
   "id": 993,
@@ -642,12 +654,6 @@
   "reason": "页面没有岗位表附件"
  },
  {
-  "id": 1004,
-  "title": "江门市艺术中学公开选聘教师公告",
-  "sourceUrl": "http://www.jiangmen.gov.cn/bmpd/jmsjyj/zwgk/tzgg/content/post_3532531.html",
-  "reason": "附件解析不出岗位; 附件1.xls: XLRDError"
- },
- {
   "id": 1007,
   "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
   "sourceUrl": "https://www.gzucm.edu.cn/info/1461/121891.htm",
@@ -657,7 +663,7 @@
   "id": 1009,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第三批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0805/c3612a108419/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1011,
@@ -675,7 +681,7 @@
   "id": 1019,
   "title": "广东艺术职业学院2026年公开招聘青年博士及骨干教师公告2026-07-27",
   "sourceUrl": "https://www.gdddc.edu.cn/info/2483/13356.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1020,
@@ -762,22 +768,28 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1050,
+  "title": "广东第二师范学院2026年第二批B类岗位教师招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0714/c3612a108147/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1051,
   "title": "广东第二师范学院基础教育集团2026年度优秀校长人才储备常年招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108099/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1052,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第二批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108098/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1053,
   "title": "关于公布星海音乐学院2026年第一批公开招聘考试安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1065.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1056,
@@ -795,19 +807,13 @@
   "id": 1062,
   "title": "(07-10)星海音乐学院2026年第三批公开招聘工作人员公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1076.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1063,
   "title": "广东肇庆航空职业学院关于招聘党务干部、思政教师及辅导员的启事2026-07-10",
   "sourceUrl": "https://gdzqac.edu.cn/articles/show/1980",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1064,
-  "title": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "reason": "公告页打不开: SSLError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1066,
@@ -879,7 +885,7 @@
   "id": 1083,
   "title": "罗定职业技术学院2026年招聘高层次人才公告",
   "sourceUrl": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=2143164ece02409fbfd24c53a4319e44&catalogueId=3622fa5929964a519ab06c1b6e2976aa",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1084,
@@ -945,7 +951,7 @@
   "id": 1104,
   "title": "关于发布岭南师范学院2026年公开招聘博士会议评审安排的通知",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2123/16792.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1109,
@@ -966,18 +972,6 @@
   "reason": "页面没有岗位表附件"
  },
  {
-  "id": 1112,
-  "title": "珠海市第二中学2026年关于招聘博士研究生学历编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918408.html",
-  "reason": "公告页打不开: SSLError"
- },
- {
-  "id": 1113,
-  "title": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "reason": "公告页打不开: SSLError"
- },
- {
   "id": 1114,
   "title": "深圳大学心理学院吴健辉教授-迟新丽副教授联合诚聘博士后",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24281.htm",
@@ -993,7 +987,7 @@
   "id": 1118,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0623/c3612a107651/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1123,
@@ -1029,13 +1023,19 @@
   "id": 1130,
   "title": "广东第二师范学院2026年第二批C类岗位人员招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0616/c3612a107455/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1132,
   "title": "广州大学2026年第一次公开招聘合同制A岗工作人员拟",
   "sourceUrl": "http://www.gzhu.edu.cn/info/1055/35567.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1133,
+  "title": "广东第二师范学院2026年第一批教师公开招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0615/c3612a107420/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1135,
@@ -1059,13 +1059,13 @@
   "id": 1143,
   "title": "星海音乐学院2026年科研助理招聘公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1078.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1144,
   "title": "百万英才汇南粤：广东艺术职业学院2026年公开招聘思政课专任教师公告2026-06-10",
   "sourceUrl": "https://www.gdddc.edu.cn/info/2483/13124.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1145,
@@ -1083,7 +1083,7 @@
   "id": 1149,
   "title": "关于公布星海音乐学院2026年第二批公开招聘业务考核安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1063.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1153,
@@ -1173,7 +1173,7 @@
   "id": 1187,
   "title": "广东水利电力职业技术学院2026年银龄教师招聘公告",
   "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-05-26/content-6417.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1188,
@@ -1197,7 +1197,7 @@
   "id": 1195,
   "title": "广东生态工程职业学院2026年公开招聘事业编制外工作人员（第二批）考试安排公告发表时间：2026-05-22",
   "sourceUrl": "http://gdsty.edu.cn/rencaiindex_detail_83.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1196,
@@ -1209,7 +1209,7 @@
   "id": 1197,
   "title": "佛山市华英学校2026年上半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7160681.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1199,
@@ -1239,19 +1239,19 @@
   "id": 1212,
   "title": "佛山市中心业余体育学校2026年上半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7157228.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1213,
   "title": "佛山市第一中学2026年公开招聘教师（第二轮）公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7157218.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1214,
   "title": "广东外语外贸大学2026年公开招聘体育专业教师综合测评通知",
   "sourceUrl": "https://rsc.gdufs.edu.cn/info/1017/12939.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: SSLError"
  },
  {
   "id": 1216,
@@ -1260,10 +1260,16 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1217,
+  "title": "十万人才大招引——惠州市教育局2026年公开招聘市直公办中小学教师公告",
+  "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5769612.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1218,
   "title": "广东第二师范学院基础教育集团2026年面向全国诚聘优秀储备校长公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0514/c3612a106410/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1223,
@@ -1281,19 +1287,13 @@
   "id": 1230,
   "title": "星海音乐学院2026年公开招聘后勤综合服务岗（电气或机电专业技术）人员公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1064.htm",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1234,
-  "title": "珠海市北京师范大学香山中学2026年春季面向社会公开招聘事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3902833.html",
-  "reason": "附件解析不出岗位; 附件：1.珠海市北京师范大学香山中学2026年春季面向社会公: XLRDError; 附件：5.招聘咨询电话和监督电话.doc: ValueError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1235,
   "title": "潮州市教育局直属单位赴“百万英才汇南粤”2026年教育人才专题招聘活动公开招聘教师公告 2026-04-24",
   "sourceUrl": "https://www.chaozhou.gov.cn/zwgk/szfgz/sjyj/tzgg/content/post_3989803.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1236,
@@ -1335,13 +1335,25 @@
   "id": 1242,
   "title": "广东第二师范学院2026年第一批C类岗位人员招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0420/c3612a105739/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 1244,
+  "title": "广东第二师范学院2026年公开招聘辅导员公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0417/c3612a105672/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1245,
   "title": "暨南大学2026年博士后全球招聘公告",
   "sourceUrl": "https://hrdam.jnu.edu.cn/2026/0413/c264a853500/page.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1246,
+  "title": "广东第二师范学院2026年第一批年薪制管理、教辅人员招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0410/c3612a105527/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1247,
@@ -1378,6 +1390,18 @@
   "title": "华南师范大学国际交流合作处2026年招聘非事业编制人员启事",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260316/1012.html",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1253,
+  "title": "广东第二师范学院2026年第一批B类岗位教师招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0316/c3612a104771/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 1254,
+  "title": "广东第二师范学院2026年B类岗位管理人员招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0316/c3612a104770/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1255,
@@ -1419,13 +1443,13 @@
   "id": 1261,
   "title": "关于公布星海音乐学院2025年第三批公开招聘考试相关事项的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1077.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1262,
   "title": "岭南师范学院饮食中心2026年公开招聘特色风味班组厨师公告（第一批）",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2153/16232.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1264,
@@ -1527,7 +1551,7 @@
   "id": 1280,
   "title": "关于百万英才汇南粤——广东省惠州市教育局2025年赴高校公开招聘市直公办中小学校教师（深圳场）考试安排的通知",
   "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5684837.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1281,
@@ -1563,7 +1587,7 @@
   "id": 1286,
   "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州市教育局下属事业单位直接业务考核公告",
   "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5677385.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1288,
@@ -1611,7 +1635,7 @@
   "id": 1295,
   "title": "佛山市华英学校2026年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6908897.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1296,
@@ -1647,19 +1671,19 @@
   "id": 1301,
   "title": "广东理工学院2026年教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2941.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1302,
   "title": "广东理工学院2026年银龄教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2951.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1303,
   "title": "佛山市华英学校2025年下半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6891158.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1304,
@@ -1725,7 +1749,7 @@
   "id": 1314,
   "title": "佛山市第一中学2026年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6796324.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1315,
@@ -1797,7 +1821,7 @@
   "id": 1326,
   "title": "佛山市华英学校2025年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6658878.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1327,
@@ -1815,7 +1839,7 @@
   "id": 1329,
   "title": "岭南师范学院饮食中心2025年公开招聘特色风味班组厨师公告（第三批）",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2153/15662.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1330,
@@ -1905,19 +1929,19 @@
   "id": 1345,
   "title": "2025年佛山市第一中学公开招聘紧缺教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6592334.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1346,
   "title": "广东理工机器人产业学院教师招聘1人",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2841.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1347,
   "title": "广东理工学院2025年秋季招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2831.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1348,
@@ -2031,13 +2055,13 @@
   "id": 1367,
   "title": "佛山市第一中学2025年公开招聘教师（第二轮）公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6270827.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1368,
   "title": "广州理工学院省工程技术研究中心招聘公告",
   "sourceUrl": "https://www.gzist.edu.cn/info/1376/19542.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 1369,
@@ -2103,7 +2127,7 @@
   "id": 1379,
   "title": "佛山市第一中学2025年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6186475.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1380,
@@ -2128,6 +2152,12 @@
   "title": "广州应用科技学院高层次人才引进公告",
   "sourceUrl": "http://www.gzasc.edu.cn/rsc/info/1018/2274.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1384,
+  "title": "佛山市教育局关于市教育局教学研究室选调教研员的公告",
+  "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_5981071.html",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1385,
@@ -2158,6 +2188,12 @@
   "title": "深圳大学“百人计划”教师招聘公告",
   "sourceUrl": "https://hr.szu.edu.cn/info/1013/22601.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1390,
+  "title": "佛山市教育局教学研究室公开招聘教研员的公告",
+  "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_5689586.html",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1391,
