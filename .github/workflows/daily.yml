@@ -51,14 +51,7 @@ jobs:
       - name: 🚨 Verify official-only (hard gate)
         run: |
           cd tools
-          python -c "
-          import re,json,sys
-          raw=open('../crawler/data_anns.js',encoding='utf-8').read()
-          jobs=json.loads(re.search(r'window\.REAL_JOBS\s*=\s*(\[.*\]);',raw,re.S).group(1))
-          bad=[j for j in jobs if any(d in j.get('sourceUrl','') for d in ('job910','offcn','gongkaoleida','qgsydw','huatu','eol.cn'))]
-          print('total',len(jobs),'third-party',len(bad))
-          sys.exit(1 if bad else 0)
-          "
+          python verify_official.py
 
       - name: 📋 Parse job positions from attachments
         run: |
