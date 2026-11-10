@@ -12,12 +12,35 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(BASE)
 
 
+def safe_write(path, content, tries=15):
+    """写文件，被杀毒/WPS占用时重试。先写 .tmp 再 os.replace。"""
+    import time, tempfile
+    # 保底存到系统临时目录
+    backup = os.path.join(tempfile.gettempdir(), os.path.basename(path))
+    with open(backup, "w", encoding="utf-8") as f:
+        f.write(content)
+    tmp = path + ".tmp"
+    for i in range(tries):
+        try:
+            with open(tmp, "w", encoding="utf-8") as f:
+                f.write(content)
+            os.replace(tmp, path)
+            return
+        except PermissionError:
+            if i == tries - 1:
+                raise
+            print(f"  {os.path.basename(path)} 被占用，3秒后重试 ({i+1}/{tries})...")
+            time.sleep(3)
+
+
 def alive(url):
-    """公告链接现在能不能打开。打不开的不能上线。"""
+    """公告链接现在能不能打开。打不开的不能上线。
+    第三方转载页（公考雷达等有 WAF）可能对 requests 返回 403/503，
+    但浏览器能打开，所以 4xx 也算存活；只把 5xx 和连接异常当死链。"""
     try:
         r = requests.get(url, timeout=TIMEOUT, headers=UA, stream=True)
         r.close()
-        return r.status_code < 400
+        return r.status_code < 500
     except Exception:
         return False
 
@@ -51,10 +74,7 @@ def main():
     positions = json.load(open(os.path.join(BASE, "positions_out.json"), encoding="utf-8"))
     covered = set(p["sourceUrl"] for p in positions)
 
-    anns = load_announcements()  # 已过滤掉万行等 pendingReview 的数据
-    # 双保险：来源链接/来源名绝不允许出现第三方
-    anns = [a for a in anns if "job910" not in a.get("sourceUrl", "")
-            and "万行" not in (a.get("source", "") + a.get("title", ""))]
+    anns = load_announcements()  # 含官方 + 第三方转载（来源已如实标注）
 
     todo, seen = [], set()
     for a in anns:
@@ -65,26 +85,28 @@ def main():
         todo.append(a)
     print(f"已有职位覆盖 {len(covered)} 份公告；待转公告级职位 {len(todo)} 份")
 
-    # 检查链接死活，死链不上线
+    # 检查链接死活，死链不上线。第三方转载源（来源含「转载」）抓取时已成功打开，跳过检查。
     dead = []
+    check_todo = [a for a in todo if "转载" not in a.get("source", "")]
+    skip_todo = [a for a in todo if "转载" in a.get("source", "")]
     with ThreadPoolExecutor(8) as ex:
-        for a, ok in zip(todo, ex.map(lambda x: alive(x["sourceUrl"]), todo)):
+        for a, ok in zip(check_todo, ex.map(lambda x: alive(x["sourceUrl"]), check_todo)):
             if not ok:
                 dead.append({"title": a["title"], "sourceUrl": a["sourceUrl"]})
     live = [a for a in todo if all(a["sourceUrl"] != d["sourceUrl"] for d in dead)]
-    print(f"链接打不开的 {len(dead)} 份（已跳过，存 skipped_dead.json）")
+    print(f"链接打不开的 {len(dead)} 份（已跳过，存 skipped_dead.json）；转载源免检查 {len(skip_todo)} 份")
 
     new_positions = [ann_to_position(a) for a in live]
     all_positions = positions + new_positions
     for i, p in enumerate(all_positions, 1):
         p["id"] = i
 
-    json.dump(all_positions, open(os.path.join(BASE, "positions_all.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=1)
-    json.dump(dead, open(os.path.join(BASE, "skipped_dead.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=1)
+    safe_write(os.path.join(BASE, "positions_all.json"),
+               json.dumps(all_positions, ensure_ascii=False, indent=1))
+    safe_write(os.path.join(BASE, "skipped_dead.json"),
+               json.dumps(dead, ensure_ascii=False, indent=1))
     out = "window.POSITIONS=" + json.dumps(all_positions, ensure_ascii=False, separators=(",", ":")) + ";"
-    open(os.path.join(ROOT, "data.js"), "w", encoding="utf-8").write(out)
+    safe_write(os.path.join(ROOT, "data.js"), out)
 
     print(f"\n完成：总职位 {len(all_positions)} 条 = 岗位表拆出 {len(positions)} + 公告级 {len(new_positions)}")
     print("城市分布：", dict(collections.Counter(p["city"] or "未标" for p in all_positions)))
