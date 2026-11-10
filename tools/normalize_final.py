@@ -3,7 +3,7 @@
   1. edu/stage/establishment 归一化 + 详见原文→未标明
   2. 同校同职位同公告的去重
   3. 校名→城市映射补齐未标明城市
-  4. 按广东省车牌顺序排序（粤A→粤W）
+  4. 按万行教师网广东频道城市顺序排序（21 市）
 让前端筛选器干净、语义一致。"""
 import json, re, os
 from collections import Counter, defaultdict
@@ -11,10 +11,10 @@ from collections import Counter, defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_JS = os.path.join(ROOT, "data.js")
 
-# 广东省车牌官方顺序（粤A→粤W，21 市）
+# 万行教师网（job910）广东地区频道城市顺序，共 21 市
 GD_CITIES = [
-    "广州", "深圳", "珠海", "汕头", "佛山", "韶关", "湛江", "肇庆",
-    "江门", "茂名", "惠州", "梅州", "汕尾", "河源", "阳江", "清远",
+    "广州", "韶关", "深圳", "珠海", "汕头", "佛山", "江门", "湛江",
+    "茂名", "肇庆", "惠州", "梅州", "汕尾", "河源", "阳江", "清远",
     "东莞", "中山", "潮州", "揭阳", "云浮",
 ]
 
@@ -195,14 +195,14 @@ def main():
     # 3. 校名→城市补齐
     pos = fix_city_by_school(pos)
 
-    # 4. 按车牌顺序排序
+    # 4. 按万行顺序排序
     pos = sort_by_plate_order(pos)
 
     out = "window.POSITIONS=" + json.dumps(pos, ensure_ascii=False, separators=(",", ":")) + ";"
     open(DATA_JS, "w", encoding="utf-8").write(out)
 
     print(f"\n✅ 归一化完成: {before} → {len(pos)} 条（去重 {before - len(pos)}）")
-    print(f"\n📊 车牌顺序城市分布：")
+    print(f"\n📊 万行顺序城市分布：")
     c = Counter(p.get("city", "未标明") for p in pos)
     for city in GD_CITIES:
         n = c.get(city, 0)
