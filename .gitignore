@@ -1,0 +1,8 @@
+# 附件缓存（下载的岗位表原件，不进仓库）
+tools/附件缓存/
+# Python 缓存
+__pycache__/
+*.pyc
+# 系统杂项
+.DS_Store
+Thumbs.db
