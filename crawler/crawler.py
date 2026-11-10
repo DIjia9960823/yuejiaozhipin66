@@ -1285,12 +1285,14 @@ def main():
             all_jobs.extend(jobs)
             source_records.append(info)
 
-    # 万行教师网 · 职位 ID 扫描（全自动补充大量民办/培训机构的教师岗位）
-    try:
-        job910_jobs = crawl_job910()
-        all_jobs.extend(job910_jobs)
-    except Exception as e:
-        log("\n[异常] 万行扫描失败：%s" % e)
+    # ===== 第三方源已停用（2026-11-10 新规矩：只收官方原文，不收第三方转载）=====
+    # 万行教师网、中公、事业单位网、公考雷达都只能当"发现渠道"，
+    # 入库必须反推到官方原文。反推逻辑在 crawler/reverse.py。
+    # try:
+    #     job910_jobs = crawl_job910()
+    #     all_jobs.extend(job910_jobs)
+    # except Exception as e:
+    #     log("\n[异常] 万行扫描失败：%s" % e)
 
     # 高校官网 · 各校「人才招聘 / 人事处」栏目（一手官方源）
     try:
@@ -1300,11 +1302,11 @@ def main():
     except Exception as e:
         log("\n[异常] 高校官网源失败：%s" % e)
 
-    # 万行按 ID 增量扫，每次只扫新的一段；把上一版扫到的万行岗位带回来，避免整批消失
-    prev_job910 = load_prev_job910()
-    if prev_job910:
-        log("    带回上一版万行岗位 %d 条" % len(prev_job910))
-        all_jobs.extend(prev_job910)
+    # ===== 停用：不再带回旧的万行岗位（第三方数据已全部删除）=====
+    # prev_job910 = load_prev_job910()
+    # if prev_job910:
+    #     log("    带回上一版万行岗位 %d 条" % len(prev_job910))
+    #     all_jobs.extend(prev_job910)
 
     days = {s["name"]: (PRIVATE_RECENT_DAYS if "民办" in s["name"] else RECENT_DAYS)
             for s in SOURCES}
