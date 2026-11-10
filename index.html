@@ -19,7 +19,8 @@
 }
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-  font-size:14px; color:var(--gray-800); background:var(--gray-50); line-height:1.6; }
+  font-size:14px; color:var(--gray-800); background:var(--gray-50); line-height:1.6;
+  overflow-x:clip; /* 裁掉探出屏幕的元素（收藏抽屉），防手机端横向跑偏；clip 不产生滚动容器，吸顶导航不受影响 */ }
 a { color:inherit; text-decoration:none; }
 button { cursor:pointer; font-family:inherit; }
 
@@ -70,7 +71,8 @@ button { cursor:pointer; font-family:inherit; }
 .job-title .code { font-size:12px; color:var(--gray-400); font-weight:400; margin-left:4px; }
 .school { font-size:13px; color:var(--gray-500); margin-top:2px;
   white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-.dl { flex-shrink:0; font-size:12px; padding-top:2px; }
+.dl { flex-shrink:0; font-size:12px; padding-top:2px; text-align:right; }
+.pub { font-size:11px; color:var(--gray-400); padding-top:1px; }
 .dl-ok { color:var(--success); }
 .dl-soon { color:var(--warning); font-weight:600; }
 .dl-over { color:var(--gray-400); text-decoration:line-through; }
@@ -108,7 +110,7 @@ button { cursor:pointer; font-family:inherit; }
 .mask { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:199; }
 .mask.show { display:block; }
 .modal { display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%); z-index:200;
-  width:min(640px,92vw); max-height:86vh; overflow:auto; background:#fff; border-radius:var(--radius-lg);
+  width:92vw; max-width:640px; max-height:86vh; overflow:auto; background:#fff; border-radius:var(--radius-lg);
   padding:24px 26px; box-shadow:0 12px 40px rgba(0,0,0,.18); }
 .modal.show { display:block; }
 .m-close { position:absolute; right:14px; top:10px; font-size:22px; color:var(--gray-400); background:none; border:none; }
@@ -139,10 +141,10 @@ button { cursor:pointer; font-family:inherit; }
 .fav-tab:hover { background:var(--primary-dark); }
 .fav-tab .fav-count { background:#fff; color:var(--primary); border-radius:999px;
   padding:1px 7px; margin-top:8px; font-size:12px; letter-spacing:0; }
-.fav-panel { position:fixed; top:0; right:-360px; width:320px; height:100vh; background:#fff;
-  box-shadow:-4px 0 16px rgba(0,0,0,.12); z-index:300; transition:right .25s ease;
+.fav-panel { position:fixed; top:0; right:0; transform:translateX(105%); width:min(320px,85vw); height:100vh; background:#fff;
+  box-shadow:-4px 0 16px rgba(0,0,0,.12); z-index:300; transition:transform .25s ease;
   display:flex; flex-direction:column; }
-.fav-panel.open { right:0; }
+.fav-panel.open { transform:none; }
 .fav-panel-header { display:flex; align-items:center; justify-content:space-between;
   padding:14px 18px; border-bottom:1px solid var(--gray-200); font-size:15px; font-weight:600; }
 .fav-panel-close { background:none; border:none; font-size:16px; color:var(--gray-500); }
@@ -379,7 +381,9 @@ function render(){
       + '<div class="card-top"><div style="min-width:0;">'
       +   '<div class="job-title">'+esc(p.job)+(p.code?'<span class="code">'+esc(p.code)+'</span>':'')+'</div>'
       +   '<div class="school">'+esc(p.school)+' · '+esc(p.city||'详见公告')+'</div>'
-      + '</div><div class="dl '+dl.cls+'">'+esc(dl.text)+'</div></div>'
+      + '</div><div style="flex-shrink:0;"><div class="dl '+dl.cls+'">'+esc(dl.text)+'</div>'
+      + (p.recordedAt?'<div class="pub">发布 '+esc(p.recordedAt)+'</div>':'')
+      + '</div></div>'
       + '<div class="tags">'
       +   (p.establishment ? '<span class="tag '+(p.establishment==='正式编'?'tag-formal':'tag-contract')+'">'+esc(p.establishment)+'</span>' : '')
       +   (p.stage ? '<span class="tag tag-stage">'+esc(p.stage)+'</span>' : '')
@@ -431,6 +435,7 @@ function openModal(idx){
     + row('专业要求', p.major)
     + row('编制性质', p.establishment)
     + row('工作地点', p.city)
+    + row('发布日期', p.recordedAt)
     + row('报名截止', p.deadline)
     + row('其他说明', p.other);
   document.getElementById('mLink').href = p.sourceUrl;
@@ -448,13 +453,13 @@ document.getElementById('mClose').addEventListener('click', closeModal);
 /* ===== 下载职位表（真 Excel 格式 .xls，代码/日期列强制文本，WPS 不会乱猜）===== */
 function exportJobs(){
   if(!lastList.length){ alert('当前没有职位可以导出，请先调整筛选条件'); return; }
-  var head = ['城市','学校','岗位','岗位代码','招聘人数','学段','编制性质','学历要求','学位要求','专业要求','其他说明','报名截止','来源公告','原文链接'];
-  var txtCols = {3:1, 4:1, 11:1};  // 岗位代码、招聘人数、报名截止 强制按文本，防变日期/科学计数
+  var head = ['城市','学校','岗位','岗位代码','招聘人数','学段','编制性质','学历要求','学位要求','专业要求','其他说明','发布日期','报名截止','来源公告','原文链接'];
+  var txtCols = {3:1, 4:1, 11:1, 12:1};  // 岗位代码、招聘人数、发布日期、报名截止 强制按文本，防变日期/科学计数
   function cell(v, forceTxt){
     return '<td' + (forceTxt ? ' style="mso-number-format:\'\\@\'"' : '') + '>' + esc(v==null?'':v) + '</td>';
   }
   var bodyRows = lastList.map(function(p){
-    var vals = [p.city, p.school, p.job, p.code, p.num, p.stage, p.establishment, p.edu, p.degree, p.major, p.other, p.deadline, p.annTitle, p.sourceUrl];
+    var vals = [p.city, p.school, p.job, p.code, p.num, p.stage, p.establishment, p.edu, p.degree, p.major, p.other, p.recordedAt, p.deadline, p.annTitle, p.sourceUrl];
     return '<tr>' + vals.map(function(v,i){ return cell(v, txtCols[i]); }).join('') + '</tr>';
   }).join('');
   var html = '<html xmlns:x="urn:schemas-microsoft-com:office:excel"><head><meta charset="utf-8"></head><body>'
