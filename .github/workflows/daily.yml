@@ -54,15 +54,7 @@ jobs:
           echo "=== data.js size ==="
           wc -c < data.js
           echo "=== position count ==="
-          python -c "import json,re; s=open('data.js').read(); print(len(re.findall(r'\{\"id\":', s)), 'positions')"
-          echo "=== 城市分布 ==="
-          python -c "
-import json, collections
-s=open('data.js').read()
-import re; lst=json.loads(s[s.index('['):])
-c=collections.Counter(p.get('city','未标') for p in lst)
-for city,n in c.most_common(): print(f'  {city}: {n}')
-"
+          grep -o '"id":' data.js | wc -l
 
       - name: ⬆️ Commit & push
         run: |
