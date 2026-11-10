@@ -380,6 +380,7 @@ def process(ann):
         p["city"] = fix_city(p["school"], ann.get("title", ""), ann.get("city", ""))
         p["establishment"] = guess_establishment(ann)
         p["deadline"] = ann.get("deadline", "")
+        p["recordedAt"] = ann.get("recordedAt", "")
         p["annTitle"] = ann.get("title", "")
         p["sourceUrl"] = url
     return all_pos, None
