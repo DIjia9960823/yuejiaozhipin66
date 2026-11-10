@@ -1282,10 +1282,26 @@ def main():
             all_jobs.extend(jobs)
             source_records.append(info)
 
-    # ===== 第三方源：万行教师网（转载，来源如实标注）=====
+    # ===== 万行教师网：只当"发现渠道"，绝不入库 =====
+    # 抓到的岗位存到 discovered_thirdparty.json，供人工/后续反推官方原文用。
+    # 抽查 data_anns.js 里任何一条万行链接都不许出现。
     try:
         job910_jobs = crawl_job910()
-        all_jobs.extend(job910_jobs)
+        if job910_jobs:
+            disc_path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                     "discovered_thirdparty.json")
+            try:
+                old = json.load(open(disc_path, encoding="utf-8"))
+            except Exception:
+                old = []
+            seen_titles = {(x.get("title"), x.get("sourceUrl")) for x in old}
+            for j in job910_jobs:
+                if (j.get("title"), j.get("sourceUrl")) not in seen_titles:
+                    old.append(j)
+            with open(disc_path, "w", encoding="utf-8") as f:
+                json.dump(old, f, ensure_ascii=False, indent=1)
+            log("    万行发现 %d 条，已写入 discovered_thirdparty.json（不入库，等反推官方原文）"
+                % len(job910_jobs))
     except Exception as e:
         log("\n[异常] 万行扫描失败：%s" % e)
 
@@ -1297,11 +1313,7 @@ def main():
     except Exception as e:
         log("\n[异常] 高校官网源失败：%s" % e)
 
-    # 带回上一版的万行岗位（万行按 ID 增量扫描，不带回旧的会整批消失）
-    prev_job910 = load_prev_job910()
-    if prev_job910:
-        log("    带回上一版万行岗位 %d 条" % len(prev_job910))
-        all_jobs.extend(prev_job910)
+    # 不再带回上一版万行岗位：万行是第三方，只能进 discovered_thirdparty.json，不入库
 
     days = {s["name"]: (PRIVATE_RECENT_DAYS if "民办" in s["name"] else RECENT_DAYS)
             for s in SOURCES}
