@@ -283,33 +283,24 @@ def main():
         log("  %-4s 新增 %d 条" % (city, got))
 
     if added:
-        # 先把抓到的新公告存到系统临时目录（项目目录可能被杀毒扫描锁着）
-        import tempfile
-        added_file = os.path.join(tempfile.gettempdir(), "offcn_added.json")
-        with open(added_file, "w", encoding="utf-8") as f:
-            json.dump(added, f, ensure_ascii=False, indent=2)
-        log("    已暂存 %d 条到 %s" % (len(added), added_file))
-        merged = existing + added
-        new_json = json.dumps(merged, ensure_ascii=False, indent=2)
-        out = raw[:m.start(1)] + new_json + raw[m.end(1):]
-        # 写回 data_anns.js：杀毒可能短暂锁文件，重试几次
-        tmp = OUT_FILE + ".tmp"
-        for attempt in range(5):
-            try:
-                with open(tmp, "w", encoding="utf-8") as f:
-                    f.write(out)
-                os.replace(tmp, OUT_FILE)
-                break
-            except PermissionError:
-                if attempt < 4:
-                    log("    写文件被锁，第 %d 次重试..." % (attempt + 1))
-                    time.sleep(3)
-                else:
-                    raise
+        # 中公是第三方，只当"发现渠道"：写进发现清单，绝不碰 data_anns.js。
+        disc = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "discovered_offcn.json")
+        try:
+            old = json.load(open(disc, encoding="utf-8"))
+        except Exception:
+            old = []
+        seen_urls = {x.get("sourceUrl") for x in old}
+        for a in added:
+            if a.get("sourceUrl") not in seen_urls:
+                old.append(a)
+        with open(disc, "w", encoding="utf-8") as f:
+            json.dump(old, f, ensure_ascii=False, indent=1)
+        log("    发现 %d 条，已写入 discovered_offcn.json（不入库，等反推官方原文）" % len(added))
 
     log("-" * 56)
-    log("新增 %d 条，已存在跳过 %d 条，过期跳过 %d 条" % (len(added), skipped_dup, skipped_old))
-    log("data_anns.js 现在共 %d 条公告" % (len(existing) + len(added)))
+    log("发现 %d 条，已存在跳过 %d 条，过期跳过 %d 条" % (len(added), skipped_dup, skipped_old))
+    log("⛔ 第三方数据不入库，data_anns.js 未改动（共 %d 条官方公告）" % len(existing))
     log("耗时 %.1f 秒" % (datetime.now() - start).total_seconds())
 
 
