@@ -55,10 +55,23 @@ COL_MAP = {
 
 
 def load_announcements():
+    """只返回官方原文公告。第三方转载（万行/公考雷达/中公等）在这里就被挡掉，
+    后面所有步骤都不可能再拿到第三方链接。"""
+    from official_rule import is_official
     s = open(DATA_JS, encoding="utf-8").read()
     i = s.index("[")
     jobs, _ = json.JSONDecoder().raw_decode(s[i:])
-    return [j for j in jobs if not j.get("pendingReview")]
+    ok, bad = [], 0
+    for j in jobs:
+        if j.get("pendingReview"):
+            continue
+        if is_official(j.get("sourceUrl", ""), j.get("source", "")):
+            ok.append(j)
+        else:
+            bad += 1
+    if bad:
+        print(f"⛔ 拦截第三方转载 {bad} 条（不入库）")
+    return ok
 
 
 def find_attachments(page_url):
@@ -442,12 +455,9 @@ def dump_json(obj, path, tries=15):
 
 
 def main():
-    anns = load_announcements()
-    # 第三方转载页（万行/公考雷达等）不会有官方岗位表附件，跳过附件解析，
-    # 它们会在 ann_to_positions.py 里转成公告级职位。
-    official = [a for a in anns if "转载" not in a.get("source", "")]
-    third_party = len(anns) - len(official)
-    print(f"可见公告 {len(anns)} 条（官方 {len(official)} / 转载 {third_party}），开始拆职位...")
+    anns = load_announcements()  # 已只含官方原文
+    print(f"官方公告 {len(anns)} 条，开始拆职位...")
+    official = anns
     positions, skipped = [], []
     with ThreadPoolExecutor(6) as ex:
         for ann, (pos, reason) in zip(official, ex.map(process, official)):
