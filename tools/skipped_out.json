@@ -45,13 +45,13 @@
   "id": 9,
   "title": "华南农业大学-韶关学院博士后创新实践基地2026年全职博士后招聘公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3742.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 10,
   "title": "韶关学院2026年教学科研人员招聘公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3722.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 11,
@@ -90,6 +90,18 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 515,
+  "title": "广东水利电力职业技术学院继续教育学院项目制教师招聘公告",
+  "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6650.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 516,
+  "title": "广东水利电力职业技术学院2026年项目制教师招聘公告",
+  "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-11-09/content-6649.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 517,
   "title": "广州华商职业学院实训室管理员招聘启事",
   "sourceUrl": "https://rsc.gzhsvc.edu.cn/info/1065/1957.htm",
@@ -99,7 +111,7 @@
   "id": 518,
   "title": "11-092026广东江门南粤学院2026-2027学年招聘公告查看详情>>",
   "sourceUrl": "https://www1.bitzh.edu.cn:8081/info/3103/5491.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: SSLError"
  },
  {
   "id": 519,
@@ -297,7 +309,7 @@
   "id": 897,
   "title": "高层次人才招聘",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/gccrczp",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 898,
@@ -312,6 +324,12 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 907,
+  "title": "广东科学技术职业学院2026年正高级教师招聘公告",
+  "sourceUrl": "https://www.gdit.edu.cn/rsc/2026/1020/c958a121940/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 908,
   "title": "深圳大学黄飞课题组（植物代谢表观方向）招聘副研究员",
   "sourceUrl": "https://hr.szu.edu.cn/info/1016/25251.htm",
@@ -321,7 +339,7 @@
   "id": 910,
   "title": "博士后人才招聘",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/bshpy/bshrczp.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 911,
@@ -363,19 +381,19 @@
   "id": 919,
   "title": "广东科技学院公开招聘心理咨询中心干事公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20261009/6989.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 920,
   "title": "关于岭南师范学院2026年公开招聘博士第二轮滚动招聘有关事项的公告",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2123/17032.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 921,
   "title": "广东科技学院公开招聘紧缺人才公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 922,
@@ -406,6 +424,12 @@
   "title": "[09-29]广东石油化工学院2026年公开招聘辅导员（",
   "sourceUrl": "https://site.gdupt.edu.cn/renshichu/info/1045/6421.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 930,
+  "title": "惠州学院2026年公开招聘教学法、课程与教学论师资公告",
+  "sourceUrl": "https://rsc.hzu.edu.cn/2026/0928/c180a281187/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 932,
@@ -453,7 +477,7 @@
   "id": 940,
   "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第2号）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/rczp1/content_59489",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 943,
@@ -477,7 +501,7 @@
   "id": 947,
   "title": "韶关学院医学院附属医院2026年公开招聘医护人员",
   "sourceUrl": "https://www.sgu.edu.cn:443/rczpw/info/1172/3922.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 948,
@@ -489,7 +513,7 @@
   "id": 949,
   "title": "广东理工学院2027年教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4521.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 951,
@@ -537,7 +561,7 @@
   "id": 958,
   "title": "广东理工学院2027年银龄教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/4491.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 959,
@@ -555,7 +579,7 @@
   "id": 965,
   "title": "广东科贸职业学院2026年高层次人才招聘考试公告（第三批）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/gccrczp/content_59110",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 966,
@@ -579,7 +603,7 @@
   "id": 970,
   "title": "广东科贸职业学院2026年第三批公开招聘校编工作人员考试公告（第1号）",
   "sourceUrl": "https://www.gdkm.edu.cn/rlzyb/rczp/rczp1/content_58885",
-  "reason": "附件解析不出岗位; 1.2026年第三批校编专任教师各岗位微信群二维码.pdf: HTTPError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 971,
@@ -597,7 +621,7 @@
   "id": 982,
   "title": "广东省事业单位公开招聘人员办法（粤府",
   "sourceUrl": "https://rsc.dgpt.edu.cn/info/1013/1551.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 983,
@@ -615,7 +639,7 @@
   "id": 986,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第四批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0824/c3612a108527/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 993,
@@ -630,12 +654,6 @@
   "reason": "页面没有岗位表附件"
  },
  {
-  "id": 1004,
-  "title": "江门市艺术中学公开选聘教师公告",
-  "sourceUrl": "http://www.jiangmen.gov.cn/bmpd/jmsjyj/zwgk/tzgg/content/post_3532531.html",
-  "reason": "附件解析不出岗位; 附件1.xls: XLRDError"
- },
- {
   "id": 1007,
   "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
   "sourceUrl": "https://www.gzucm.edu.cn/info/1461/121891.htm",
@@ -645,7 +663,7 @@
   "id": 1009,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第三批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0805/c3612a108419/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1011,
@@ -663,7 +681,7 @@
   "id": 1019,
   "title": "广东艺术职业学院2026年公开招聘青年博士及骨干教师公告2026-07-27",
   "sourceUrl": "https://www.gdddc.edu.cn/info/2483/13356.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1020,
@@ -723,7 +741,7 @@
   "id": 1037,
   "title": "广东科技学院办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250809/5897.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1041,
@@ -750,22 +768,28 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1050,
+  "title": "广东第二师范学院2026年第二批B类岗位教师招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0714/c3612a108147/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1051,
   "title": "广东第二师范学院基础教育集团2026年度优秀校长人才储备常年招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108099/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1052,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第二批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108098/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1053,
   "title": "关于公布星海音乐学院2026年第一批公开招聘考试安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1065.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1056,
@@ -783,13 +807,13 @@
   "id": 1062,
   "title": "(07-10)星海音乐学院2026年第三批公开招聘工作人员公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1076.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1063,
   "title": "广东肇庆航空职业学院关于招聘党务干部、思政教师及辅导员的启事2026-07-10",
   "sourceUrl": "https://gdzqac.edu.cn/articles/show/1980",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1066,
@@ -861,13 +885,13 @@
   "id": 1083,
   "title": "罗定职业技术学院2026年招聘高层次人才公告",
   "sourceUrl": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=2143164ece02409fbfd24c53a4319e44&catalogueId=3622fa5929964a519ab06c1b6e2976aa",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1084,
   "title": "韶关学院2026年公开招聘高层次人才（博士）资格初审结果及通讯评审工作安排通知",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3862.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1085,
@@ -897,7 +921,7 @@
   "id": 1092,
   "title": "韶关学院2026年公开招聘高层次人才（博士）资格",
   "sourceUrl": "https://www.sgu.edu.cn:443/rczpw/info/1031/3862.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1094,
@@ -927,7 +951,7 @@
   "id": 1104,
   "title": "关于发布岭南师范学院2026年公开招聘博士会议评审安排的通知",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2123/16792.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1109,
@@ -939,19 +963,13 @@
   "id": 1110,
   "title": "韶关学院2026年公开招聘高层次人才（博士）公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3842.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1111,
   "title": "东莞理工学院2026年公开招聘专职辅导员",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/8013.htm",
   "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1113,
-  "title": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "reason": "附件解析不出岗位; 附件：1．珠海市北京师范大学香山中学2026年夏季面向社会公: XLRDError; 附件：5．招聘咨询电话和监督电话.doc: ValueError"
  },
  {
   "id": 1114,
@@ -969,7 +987,7 @@
   "id": 1118,
   "title": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0623/c3612a107651/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1123,
@@ -1005,7 +1023,7 @@
   "id": 1130,
   "title": "广东第二师范学院2026年第二批C类岗位人员招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0616/c3612a107455/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1132,
@@ -1014,10 +1032,16 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1133,
+  "title": "广东第二师范学院2026年第一批教师公开招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0615/c3612a107420/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1135,
   "title": "东莞职业技术学院2026年公开招聘事业编制专职辅导员的公告",
   "sourceUrl": "https://rsc.dgpt.edu.cn/info/1007/1558.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1140,
@@ -1035,13 +1059,13 @@
   "id": 1143,
   "title": "星海音乐学院2026年科研助理招聘公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1078.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1144,
   "title": "百万英才汇南粤：广东艺术职业学院2026年公开招聘思政课专任教师公告2026-06-10",
   "sourceUrl": "https://www.gdddc.edu.cn/info/2483/13124.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1145,
@@ -1059,13 +1083,13 @@
   "id": 1149,
   "title": "关于公布星海音乐学院2026年第二批公开招聘业务考核安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1063.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1153,
   "title": "顺德职业技术大学诚聘设计学院、商贸与外语学院院长",
   "sourceUrl": "https://www.sdpt.edu.cn/info/1153/22478.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1156,
@@ -1143,13 +1167,13 @@
   "id": 1185,
   "title": "韶关学院总务后勤部专职驾驶员招聘公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3812.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1187,
   "title": "广东水利电力职业技术学院2026年银龄教师招聘公告",
   "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-05-26/content-6417.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1188,
@@ -1173,7 +1197,7 @@
   "id": 1195,
   "title": "广东生态工程职业学院2026年公开招聘事业编制外工作人员（第二批）考试安排公告发表时间：2026-05-22",
   "sourceUrl": "http://gdsty.edu.cn/rencaiindex_detail_83.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1196,
@@ -1185,7 +1209,7 @@
   "id": 1197,
   "title": "佛山市华英学校2026年上半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7160681.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1199,
@@ -1215,13 +1239,13 @@
   "id": 1212,
   "title": "佛山市中心业余体育学校2026年上半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7157228.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1213,
   "title": "佛山市第一中学2026年公开招聘教师（第二轮）公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_7157218.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1214,
@@ -1236,40 +1260,40 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1217,
+  "title": "十万人才大招引——惠州市教育局2026年公开招聘市直公办中小学教师公告",
+  "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5769612.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1218,
   "title": "广东第二师范学院基础教育集团2026年面向全国诚聘优秀储备校长公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0514/c3612a106410/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1223,
   "title": "关于《惠州学院2026年硕士专任教师公开招聘公告》的补充通知",
   "sourceUrl": "https://rsc.hzu.edu.cn/2026/0513/c180a277541/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1224,
   "title": "关于《惠州学院2026年公开招聘工作人员公告》的补充通知",
   "sourceUrl": "https://rsc.hzu.edu.cn/2026/0513/c180a277540/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1230,
   "title": "星海音乐学院2026年公开招聘后勤综合服务岗（电气或机电专业技术）人员公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1064.htm",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1234,
-  "title": "珠海市北京师范大学香山中学2026年春季面向社会公开招聘事业编制教师公告",
-  "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3902833.html",
-  "reason": "附件解析不出岗位; 附件：1.珠海市北京师范大学香山中学2026年春季面向社会公: XLRDError; 附件：5.招聘咨询电话和监督电话.doc: ValueError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1235,
   "title": "潮州市教育局直属单位赴“百万英才汇南粤”2026年教育人才专题招聘活动公开招聘教师公告 2026-04-24",
   "sourceUrl": "https://www.chaozhou.gov.cn/zwgk/szfgz/sjyj/tzgg/content/post_3989803.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1236,
@@ -1311,13 +1335,31 @@
   "id": 1242,
   "title": "广东第二师范学院2026年第一批C类岗位人员招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0420/c3612a105739/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 1243,
+  "title": "韶关学院2026年公开招聘辅导员公告",
+  "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3752.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 1244,
+  "title": "广东第二师范学院2026年公开招聘辅导员公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0417/c3612a105672/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1245,
   "title": "暨南大学2026年博士后全球招聘公告",
   "sourceUrl": "https://hrdam.jnu.edu.cn/2026/0413/c264a853500/page.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1246,
+  "title": "广东第二师范学院2026年第一批年薪制管理、教辅人员招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0410/c3612a105527/page.htm",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1247,
@@ -1356,10 +1398,22 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1253,
+  "title": "广东第二师范学院2026年第一批B类岗位教师招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0316/c3612a104771/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
+  "id": 1254,
+  "title": "广东第二师范学院2026年B类岗位管理人员招聘公告",
+  "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0316/c3612a104770/page.htm",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1255,
   "title": "惠州学院2026年硕士专任教师公开招聘公告",
   "sourceUrl": "https://rsc.hzu.edu.cn/2026/0313/c180a275005/page.htm",
-  "reason": "附件解析不出岗位"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1256,
@@ -1395,13 +1449,13 @@
   "id": 1261,
   "title": "关于公布星海音乐学院2025年第三批公开招聘考试相关事项的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1077.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1262,
   "title": "岭南师范学院饮食中心2026年公开招聘特色风味班组厨师公告（第一批）",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2153/16232.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1264,
@@ -1485,7 +1539,7 @@
   "id": 1277,
   "title": "广东科技学院品牌中心公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260114/5929.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1278,
@@ -1503,7 +1557,7 @@
   "id": 1280,
   "title": "关于百万英才汇南粤——广东省惠州市教育局2025年赴高校公开招聘市直公办中小学校教师（深圳场）考试安排的通知",
   "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5684837.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1281,
@@ -1539,7 +1593,7 @@
   "id": 1286,
   "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州市教育局下属事业单位直接业务考核公告",
   "sourceUrl": "http://jyj.huizhou.gov.cn/zwgk/rsgz/content/post_5677385.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1288,
@@ -1587,7 +1641,7 @@
   "id": 1295,
   "title": "佛山市华英学校2026年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6908897.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1296,
@@ -1623,19 +1677,19 @@
   "id": 1301,
   "title": "广东理工学院2026年教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2941.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1302,
   "title": "广东理工学院2026年银龄教师招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2951.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1303,
   "title": "佛山市华英学校2025年下半年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6891158.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1304,
@@ -1677,7 +1731,7 @@
   "id": 1310,
   "title": "韶关学院2025年公开招聘高层次人才直接业务考核的通知",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3662.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1311,
@@ -1701,7 +1755,7 @@
   "id": 1314,
   "title": "佛山市第一中学2026年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6796324.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1315,
@@ -1725,7 +1779,7 @@
   "id": 1318,
   "title": "韶关学院2025年公开招聘高层次人才公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3622.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1319,
@@ -1743,7 +1797,7 @@
   "id": 1321,
   "title": "广东科技学院2025年秋季公开招聘博士研究生公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250710/4896.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1322,
@@ -1773,7 +1827,7 @@
   "id": 1326,
   "title": "佛山市华英学校2025年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6658878.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1327,
@@ -1791,7 +1845,7 @@
   "id": 1329,
   "title": "岭南师范学院饮食中心2025年公开招聘特色风味班组厨师公告（第三批）",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2153/15662.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1330,
@@ -1863,7 +1917,7 @@
   "id": 1342,
   "title": "广东科技学院教师发展中心诚聘工作人员",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250617/3887.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1343,
@@ -1881,19 +1935,19 @@
   "id": 1345,
   "title": "2025年佛山市第一中学公开招聘紧缺教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6592334.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1346,
   "title": "广东理工机器人产业学院教师招聘1人",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2841.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1347,
   "title": "广东理工学院2025年秋季招聘简章",
   "sourceUrl": "https://rsc.gdlgxy.edu.cn/info/1161/2831.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1348,
@@ -1983,7 +2037,7 @@
   "id": 1362,
   "title": "广州大学2025年第一次公开招聘编制内辅导员公告",
   "sourceUrl": "https://rsc.gzhu.edu.cn/info/1018/5131.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1363,
@@ -2007,7 +2061,7 @@
   "id": 1367,
   "title": "佛山市第一中学2025年公开招聘教师（第二轮）公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6270827.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1368,
@@ -2067,19 +2121,19 @@
   "id": 1377,
   "title": "广东科技学院国际教育学院诚聘英才",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20241212/3839.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1378,
   "title": "广东博思云科教技术有限公司国际教育事务部诚聘英才",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20241212/3838.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1379,
   "title": "佛山市第一中学2025年公开招聘教师公告",
   "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_6186475.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1380,
@@ -2106,16 +2160,22 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1384,
+  "title": "佛山市教育局关于市教育局教学研究室选调教研员的公告",
+  "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_5981071.html",
+  "reason": "公告页打不开: ConnectionError"
+ },
+ {
   "id": 1385,
   "title": "广东科技学院学校办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240603/3777.html",
-  "reason": "公告页打不开: ConnectTimeout"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1386,
   "title": "广东南博教育研究院招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240319/3754.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1387,
@@ -2134,6 +2194,12 @@
   "title": "深圳大学“百人计划”教师招聘公告",
   "sourceUrl": "https://hr.szu.edu.cn/info/1013/22601.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1390,
+  "title": "佛山市教育局教学研究室公开招聘教研员的公告",
+  "sourceUrl": "http://edu.foshan.gov.cn/gg/zhaopinxinxi/content/post_5689586.html",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1391,
@@ -2175,1380 +2241,6 @@
   "id": 1397,
   "title": "广东交通职业技术学院高层次人才引进、遴选及考核办法（试行）",
   "sourceUrl": "https://rsc.gdcp.edu.cn/info/1151/5422.htm",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1398,
-  "title": "2026广东广州市海珠区教育系统高校毕业生招聘85人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473790.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1399,
-  "title": "2026下半年广东清远市直教育系统招聘94人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473136.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1400,
-  "title": "2026广东水利电力职业技术学院继续教育学院项目制教师招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473892.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1401,
-  "title": "2026广东医科大学非事业编制合同制人员招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473890.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1402,
-  "title": "2026广东水利电力职业技术学院项目制教师招聘55人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473841.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1403,
-  "title": "2026广东广州市天河区培艺学校招聘道法老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473823.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1404,
-  "title": "2026广东财贸职业学院校编教职工招聘19人公告（第三批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473811.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1405,
-  "title": "2026广东广州市天河区同仁艺体实验中学招聘教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473806.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1407,
-  "title": "2026广东广州市天河区东风实验小学招聘数学教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473675.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1408,
-  "title": "2026广东广州民航职业技术学院博士学位教师招聘29人公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473469.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1409,
-  "title": "2026年10月广东广州市天河区奥体东小学编外聘用制专任教师招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473185.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1410,
-  "title": "2026广东广州市天河区凤凰中学招聘初中历史老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473162.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1411,
-  "title": "2026广东广州市天河区培艺学校招聘小学英语教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472829.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1412,
-  "title": "2026广东广州市天河区凤凰中学招聘初中英语教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472819.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1413,
-  "title": "2026广东广州大学附属中学校园招聘16人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472724.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1414,
-  "title": "2026年10月广东广州市天河区智谷第一实验学校编外聘用制专任教师招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472710.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1415,
-  "title": "2026广东广州市天河区东明荔园小学招聘数学老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472695.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1416,
-  "title": "2026广东广州市教育系统校园招聘395人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472674.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1417,
-  "title": "2026年10月广东广州市天河区侨乐小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472635.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1418,
-  "title": "2026年10月广东广州市天河区体育西路小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472614.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1419,
-  "title": "2026广东广东生态工程职业学院招聘事业编制外工作人员9人公告（第五批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472606.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1420,
-  "title": "2026广东女子职业技术学院招聘合同制人员15人公告（第三批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472494.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1421,
-  "title": "2026广东金融学院大数据与人工智能学院招聘合同聘用制专任教师公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472491.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1422,
-  "title": "2026广东广州工程技术职业学院招聘合同制人员3人公告（第二次）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472454.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1423,
-  "title": "2026广东工程职业技术学院招聘非事业编制工作人员39人公告（第三批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472348.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1424,
-  "title": "2026年9月广东广州市天河区先烈东小学招聘编外聘用制英语教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472278.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1425,
-  "title": "2026年9月广东广州市天河区智谷第一实验学校编外聘用制专任教师招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472276.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1426,
-  "title": "2026广东建设职业技术学院校编（非事业编制）招聘16人公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472263.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1427,
-  "title": "2026广东广东文艺职业学院合同制人员招聘1人公告（第四批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472231.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1428,
-  "title": "2026广东广州体育学院招聘非事业编制工作人员2人公告（第四批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472208.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1429,
-  "title": "2026年9月广东广州市天河区棠下小学招聘编外聘用制专任教师1公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472042.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1430,
-  "title": "2026年9月广东广州市第十八中学招聘编外聘用制专任教师4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472041.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1431,
-  "title": "2026年9月广东广州市天河区华融小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472040.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1432,
-  "title": "2026年9月广东广州市天河区天英小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472017.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1433,
-  "title": "2026年9月广东广州市天河区体育西路小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472016.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1434,
-  "title": "2026年9月广东广州市天河区珠村小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472015.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1435,
-  "title": "2026年09月广东广州市天河区棠东小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472014.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1436,
-  "title": "2026年9月广东广州市骏景中学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472013.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1437,
-  "title": "2026年9月广东广州市天河区前进小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472012.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1438,
-  "title": "2026年9月广东广州市天河区昌乐小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472011.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1439,
-  "title": "2026年9月广东广州市天河第一小学招聘编外聘用制专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471999.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1441,
-  "title": "2026广东韶关南雄市高层次和急需紧缺专业人才招聘19人公告（教师9人，编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471312.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1442,
-  "title": "2026广东深圳市宝安区中英公学招聘初三语文教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473891.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1443,
-  "title": "2026广东深圳市宝安区冠群实验学校招聘初中数学1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473888.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1444,
-  "title": "2026广东深圳第三高级中学招聘初中道德与法治教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473887.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1445,
-  "title": "2026广东深圳市第七高级中学专任教师招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473738.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1446,
-  "title": "2026年11月广东深圳中学面向2027年应届毕业生招聘教师18人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473737.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1447,
-  "title": "2026广东深圳市南山区海印长城幼儿园人员招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473654.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1448,
-  "title": "2026年10月广东深圳市罗湖区教育系统公办幼儿园招聘财务岗位人员3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473558.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1449,
-  "title": "2026广东北京师范大学南山附属学校小学部招聘语文教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473484.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1450,
-  "title": "2026广东深圳市宝安区冠群实验学校招聘初中数学、小学科学教师2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473311.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1451,
-  "title": "2026下半年广东深圳信息职业技术大学博士层次员额制教师招聘53人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473108.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1452,
-  "title": "2026广东深圳北理莫斯科大学艺术中心招聘公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473067.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1453,
-  "title": "2026广东深圳市南山区蓓蕾幼教集团招聘5人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473066.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1454,
-  "title": "2026广东深圳市南山区教育幼儿园招聘公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472813.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1455,
-  "title": "2026广东深圳职业技术大学招聘35人公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472593.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1456,
-  "title": "2026广东深圳北理莫斯科大学俄语中心招聘俄语教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472497.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1457,
-  "title": "2026广东深圳北理莫斯科大学学生工作部专职辅导员招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472473.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1458,
-  "title": "2026广东深圳理工大学招聘行政管理人员招聘3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472406.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1459,
-  "title": "2026年9月广东深圳大学选聘高层次人才1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472390.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1460,
-  "title": "2026广东深圳新华外国语学校招聘初中化学老师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472358.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1461,
-  "title": "2026广东深圳大学选聘高层次人才1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472355.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1462,
-  "title": "2026秋季广东深圳市福民学校招聘中小学数学教师2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472255.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1463,
-  "title": "2026广东深圳北理莫斯科大学汉语中心兼职教师招聘公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472169.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1464,
-  "title": "2026广东深圳北理莫斯科大学英语中心招聘公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472111.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1465,
-  "title": "2026广东深圳市第二职业技术学校招聘财务人员1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472050.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1466,
-  "title": "2026秋季广东深圳市宝安区翻身实验学校（东校区）招聘初中各科优秀教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471849.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1467,
-  "title": "2026广东深圳市宝安区翻身实验学校（西校区）招聘初中和高中教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471848.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1468,
-  "title": "2026广东深圳市第七高级中学招聘专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471821.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1469,
-  "title": "2026广东深圳市宝安区崛起诚信实验学校招聘小学英语教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471800.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1470,
-  "title": "2026秋季广东深圳市福民学校招聘教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471799.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1471,
-  "title": "2026广东深圳市罗湖区侨香实验学校招聘心理教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471708.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1472,
-  "title": "2026广东深圳市罗湖区新华外国语学校招聘体育老师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471541.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1473,
-  "title": "2026广东深圳市桃源居中澳实验学校招聘初高中教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471494.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1474,
-  "title": "2026广东深圳市宝安区水田实验学校招聘初中各科优秀教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471486.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1475,
-  "title": "2026广东深圳市宝安区冠群实验学校招聘初中数学、小学心理健康教师3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471485.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1476,
-  "title": "2026广东深圳市宝安区翻身实验学校（西校区）招聘小学、初中和高中教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471475.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1477,
-  "title": "2026秋季学期广东深圳市宝安区鹤洲学校招聘初中历史老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471474.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1478,
-  "title": "2026广东深圳市宝安区化雨中英文小学招聘小学语文、英语、心理、体育教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471473.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1479,
-  "title": "2026广东深圳市第三高级中学招聘初中物理教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471422.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1480,
-  "title": "2026广东深圳市罗湖区莲城学校招聘3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471370.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1481,
-  "title": "2026广东深圳大学附属中学招聘优秀教师及教辅人员公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471243.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1482,
-  "title": "2026广东深圳市罗湖区莲城学校招聘中小学体育教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471160.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1483,
-  "title": "2026广东深圳高级中学（集团）中心校区招聘生活老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470956.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1484,
-  "title": "2026广东深圳市第三高级中学招聘高中生活老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470953.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1485,
-  "title": "2026年8月广东深圳市龙华区教育局招聘公办幼儿园教职工355人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470862.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1486,
-  "title": "2026年8月广东深圳市第七高级中学招聘专任教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470851.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1487,
-  "title": "2026年10月广东珠海市教育局招聘直属学校事业编制教师178人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473223.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1490,
-  "title": "2026广东珠海市横琴粤澳深度合作区招聘事业编制教师6人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472790.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1491,
-  "title": "2026秋季广东珠海市斗门区乐行幼儿园招聘合同制教职工1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472703.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1492,
-  "title": "2026下半年广东珠海高新区招聘公办学校事业编制教师40人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472629.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1493,
-  "title": "2026秋季广东珠海市教育局招聘直属学校事业编制教师68人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471904.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1494,
-  "title": "2026广东珠海市斗门区2所公办幼儿园招聘合同制教职工3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471119.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1495,
-  "title": "2026广东珠海高新区招聘公办幼儿园合同制教职员14人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470846.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1496,
-  "title": "2026广东汕头大学法学院招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473520.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1497,
-  "title": "2026广东汕头大学招聘附属幼儿园教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473317.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1498,
-  "title": "2026广东汕头大学精神卫生中心招聘31人公告（第四批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472639.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1499,
-  "title": "2026广东职业技术学院针织、电力类非事业编制教师招聘3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473739.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1500,
-  "title": "2026广东佛山市顺德第一中学高中数学教师招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472665.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1501,
-  "title": "2026广东职业技术学院非事业编制副高以上高技能人才招聘5人公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471956.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1502,
-  "title": "2026广东职业技术学院非事业编制教师招聘4人公告（第三批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471867.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1503,
-  "title": "2026广东省财经职业技术学校招聘3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471372.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1504,
-  "title": "2026广东佛山市南海区民政综合服务中心招聘合同制专任教师3人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471242.html",
-  "reason": "附件解析不出岗位"
- },
- {
-  "id": 1505,
-  "title": "2026广东佛山市顺德德胜学校招聘优秀教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470921.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1506,
-  "title": "2026广东佛山市顺德区北滘中学招聘生活老师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470918.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1507,
-  "title": "2026广东佛山市南海区大沥高级中学招聘优秀化学教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470836.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1508,
-  "title": "2026广东江门职业技术学院招聘辅导员7人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473717.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1509,
-  "title": "2026下半年广东江门台山市医疗卫生机构招聘编外人员34人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473467.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1510,
-  "title": "2026广东江门台山市部分学校招聘急需紧缺人才8人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473103.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1511,
-  "title": "2026广东江门市江海区招聘高层次优秀教育人才2人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472969.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1512,
-  "title": "2026广东江门市华侨中学招聘教辅人员公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472968.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1513,
-  "title": "2026广东江门市新会技师学院编外教辅人员招聘4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471817.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1514,
-  "title": "2026广东江门开平市教育系统招聘急需紧缺人才教师9人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471362.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1515,
-  "title": "2026夏季广东江门市直教育系统事业单位招聘高层次和急需紧缺人才6人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471045.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1517,
-  "title": "2026秋季广东湛江市教育局直属事业单位招聘工作人员87人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473215.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1518,
-  "title": "2026广东湛江市教育局直属学校岭南师范学院附属中学招聘17人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471423.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1519,
-  "title": "2026广东茂名信宜市中小学心理健康教育指导中心选聘教师4人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472254.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1520,
-  "title": "2026广东茂名市茂南区羊角镇中心学校招聘购买人力资源服务教师9人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471154.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1521,
-  "title": "2026广东茂名化州市新安中学招聘临聘教师公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470891.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1522,
-  "title": "2026广东肇庆学院招聘劳动合同制人员2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472729.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1523,
-  "title": "2026广东肇庆学院教学科研人员招聘118人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472052.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1524,
-  "title": "2026广东肇庆市高要区公办中小学招聘教育服务人员200人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471263.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1525,
-  "title": "2026广东肇庆市技师学院招聘高技能人才4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471036.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1526,
-  "title": "2026广东惠州城市职业学院合同制教师招聘18人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472702.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1527,
-  "title": "2026广东惠州学院招聘教学法、课程与教学论师资3人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472594.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1528,
-  "title": "2026广东惠州市惠阳区教育系统招募见习生138人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471634.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1529,
-  "title": "2026广东梅州市嘉应学院招聘16人公告（第二轮）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471826.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1530,
-  "title": "2026广东梅州市技师学院招聘编外工作人员1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471611.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1531,
-  "title": "2026广东汕尾职业技术学院招聘专任教师5人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472043.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1532,
-  "title": "2026广东河源市连平县招聘临聘教师29人公告（第二批）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471619.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1533,
-  "title": "2026秋季学期广东河源市东源县教育系统招聘临聘教职员182人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471453.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1534,
-  "title": "2026广东河源市紫金中学招聘临聘办公室文员1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470895.html",
-  "reason": "附件解析不出岗位; 附件1： 广东省紫金中学2025年公开招聘编外人员岗位表.x: BadZipFile"
- },
- {
-  "id": 1535,
-  "title": "2026广东阳江市阳西县第二幼儿园就业见习岗位招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473061.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1536,
-  "title": "2026广东清远市清城区教育系统招聘编外教师160人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473856.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1537,
-  "title": "2026下半年广东清远市清新区招聘高层次教育人才50人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473783.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1538,
-  "title": "2026广东清远市清新区教育局招聘劳动合同制编外教师45人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471410.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1539,
-  "title": "2026广东清远连州市教师发展中心招聘教研员4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470870.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1540,
-  "title": "2026广东东莞市麻涌镇大盛小学招聘产假代课英语教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472585.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1541,
-  "title": "2026广东东莞市麻涌镇大步实验小学招聘小学数学教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472459.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1542,
-  "title": "2026广东东莞市麻涌镇招聘小学体育教师（篮球方向）1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471952.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1543,
-  "title": "2026广东东莞市大湾区大学信息科学技术学院行政专员招聘1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471476.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1544,
-  "title": "2026广东中山市东凤镇中心幼儿园招聘雇员2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473428.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1545,
-  "title": "2026广东中山市东凤镇佛奥幼儿园招聘保育员1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473013.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1546,
-  "title": "2026广东中山市阜沙镇第一幼儿园招聘教师1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/472336.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1547,
-  "title": "2026秋季学期广东中山市石岐街道中心幼儿园招聘保育员1人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/09/471672.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1548,
-  "title": "2026广东中山市翠雅学校招聘初中合同制教师4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471457.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1549,
-  "title": "2026广东中山市香山幼儿园教育集团招聘教师、保育员9人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471118.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1550,
-  "title": "2026广东中山市板芙镇招聘公办中小学校编外教职员40人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471085.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1551,
-  "title": "2026广东中山市坦洲华特雅学校教师招聘4人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471049.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1552,
-  "title": "2026广东中山市纪雅学校教师招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470901.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1553,
-  "title": "2026广东中山市东凤镇中心幼儿园招聘2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/470834.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1554,
-  "title": "2026至2027学年度广东潮州市潮安区教育系统招聘临聘教师350人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/08/471081.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1555,
-  "title": "2026广东工业大学揭阳校区招聘聘用制职员2人公告",
-  "sourceUrl": "https://gd.offcn.com/html/2026/11/473807.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1556,
-  "title": "2026广东云浮市招聘教育人才12公告（河南专场，编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/473033.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1557,
-  "title": "2026秋季广东北京师范大学云浮实验学校招聘教师36人公告（编制）",
-  "sourceUrl": "https://gd.offcn.com/html/2026/10/472757.html",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1561,
-  "title": "【招聘】深圳市光明区高级中学招聘（高中物理）购买教育服务教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3195206",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1562,
-  "title": "广东职业技术学院招聘专任教师3名",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3195147",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1563,
-  "title": "深圳市南山区朗麓家园第一幼儿园教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194882",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1564,
-  "title": "广州市天河外国语学校2026年11月公开招聘编外聘用制专任教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194807",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1565,
-  "title": "东莞市第六高级中学招募英语银龄教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194578",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1566,
-  "title": "广州市第一一三中学陶育实验学校2026年11月公开招聘编外聘用制专任教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194492",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1567,
-  "title": "2026年广州市花都区第一幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194233",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1568,
-  "title": "珠海市香洲区杨匏安幼儿园合同制及顶岗教职工招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194187",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1569,
-  "title": "深圳市宝安区西乡固戍第二幼儿园2026年11月公开招聘公办幼儿园短期配班教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194186",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1570,
-  "title": "佛山市顺德区桂洲中学招聘高中数学、物理临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3194025",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1571,
-  "title": "深圳市龙岗区横岗街道天颂雅苑幼儿园招聘启事",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3193988",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1572,
-  "title": "珠海市前山中学公开招聘临聘教师公告（四）（新增岗位1个）",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3193585",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1573,
-  "title": "广州开发区外国语学校临聘教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3193560",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1574,
-  "title": "广钢华标幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3193017",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1575,
-  "title": "深圳市宝安区沙井荣御幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192952",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1576,
-  "title": "珠海市香山学校公开招聘1名短期临聘音乐教师的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192877",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1577,
-  "title": "2026年秋季珠海市香洲区石花中学公开招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192854",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1578,
-  "title": "深圳市龙岗区教科院附属实验学校2026-2027学年第三方购买服务教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192460",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1579,
-  "title": "深圳市光明区外国语学校凤华幼儿园关于2026年11月公开招聘公办幼儿园工作人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192371",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1580,
-  "title": "狮山镇罗村小学招聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192370",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1581,
-  "title": "广州市景中实验中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192369",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1582,
-  "title": "广州市第四十一中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3192323",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1583,
-  "title": "深圳市第三高级中学关于招聘初中道德与法治教师的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191910",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1584,
-  "title": "广州市花都区圆玄小学数学专任教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191410",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1585,
-  "title": "狮山镇官窑中心小学招聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191409",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1586,
-  "title": "盐步中心小学语文教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191408",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1587,
-  "title": "广州市第五中学和广州市五中附属初级中学联合参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190696",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1588,
-  "title": "广东外语外贸大学信息科学与技术学院(网络空间安全学院)公开招聘高层次人才公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3189368",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1589,
-  "title": "广州市花都区风神实验小学招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3188409",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1590,
-  "title": "广州铁路职业技术学院2026年第二批院编工作人员招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3187511",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1591,
-  "title": "广州市白云区石门街中心幼儿园（含雍云邸园区）招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3187330",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1592,
-  "title": "北京师范大学广州实验学校关于公开招聘临聘教师的公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3187290",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1593,
-  "title": "广州南沙人力资源发展有限公司招聘中小学教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3186829",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1594,
-  "title": "广州市花都区秀全中学招聘临聘教师启事",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3186591",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1595,
-  "title": "广州市花都区新雅街雅瑶小学招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3186492",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1596,
-  "title": "广东机电职业技术学院2026年第三批公开招聘工作人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185663",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1597,
-  "title": "广大附中花都学校2026学年招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3184736",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1598,
-  "title": "广州市花都区新华街横潭小学招聘临聘心理教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3184735",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1599,
-  "title": "广州市花都区花山镇花山初级中学招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3184734",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1600,
-  "title": "天河区东风实验小学招聘数学教师",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3183532",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1601,
-  "title": "广州市育才中学2026“优才计划”教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3183201",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1602,
-  "title": "南方医科大学康复医学院教学科研岗招聘通知",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3182629",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1603,
-  "title": "广州市白云艺术中学教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3182497",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1604,
-  "title": "广州市花都区新雅街新雅小学信息技术教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3181660",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1605,
-  "title": "2026年华南师范大学附属荔湾小学招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3181172",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1606,
-  "title": "翁源县新江镇中心幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3119781",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1607,
-  "title": "浈江区犁市大为中学2026年秋季临聘数学教师招聘",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3105943",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1608,
-  "title": "韶关市浈江区乐园镇中心幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3081468",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1609,
-  "title": "乳源瑶族自治县金禧小学2026年公开招聘教学辅助人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3076049",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1610,
-  "title": "深圳市宝安区福海新田第二幼儿园招聘公办幼儿园短期教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191396",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1611,
-  "title": "深圳市宝安区中英公学高薪诚聘初三语文教师",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3191062",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1612,
-  "title": "深圳市福田区福华幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190848",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1613,
-  "title": "深圳市福田区新沙幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190718",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1614,
-  "title": "福田第三幼儿园（石厦）招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190105",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1615,
-  "title": "深圳市龙岗区平湖街道中心幼儿园招聘启事",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190101",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1616,
-  "title": "深圳市福田区第四幼儿园2026年11月招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3189743",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1617,
-  "title": "深圳实验学校中学部招聘道德与法治临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3188572",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1618,
-  "title": "深圳市宝安区沙井金沙幼儿园2026年11月公开招聘工作人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3188508",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1619,
-  "title": "深圳市福田区天安实验幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3186587",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1620,
-  "title": "深圳市宝安区西乡和樾府幼儿园2026年11月公开招聘短期教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185834",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1621,
-  "title": "深圳市大鹏外国语小学面向社会公开招聘优秀教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185742",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1622,
-  "title": "深圳小学光明学校中心校区（初中）招聘购买服务历史教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185569",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1623,
-  "title": "深圳市龙岗区吉华街道第一幼儿教育集团分园尚水天成幼儿园招聘启事",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185137",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1624,
-  "title": "深圳市南山区海印长城幼儿园人员招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3183803",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1625,
-  "title": "深圳市龙岗区南湾街道第一幼儿教育集团分园沙塘布幼儿园招聘启事",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3182902",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1626,
-  "title": "深圳市光明区公明中学招聘购买服务人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3181184",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1627,
-  "title": "北京师范大学南山附属学校小学部招聘语文教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3180342",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1628,
-  "title": "深圳市宝安区松岗街道中心幼儿园（集团）2026年10月公开招聘工作人员公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3179997",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1629,
-  "title": "深圳市福田区天健天骄幼儿园招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3179713",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1630,
-  "title": "珠海市香洲区第十五小学公开招聘临聘教师公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3190231",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1631,
-  "title": "珠海市香洲南屏幼教集团教职工招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3186583",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1632,
-  "title": "珠海市金湾区汇海幼儿园2026年代产假教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3185260",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1633,
-  "title": "珠海市金湾区红旗镇中心幼儿园2026年代产假教师招聘公告",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3183285",
-  "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1634,
-  "title": "珠海市香洲区杨匏安中学2026年公开招聘英语临聘教师公告（第六批）",
-  "sourceUrl": "https://www.gongkaoleida.com/article/3183120",
   "reason": "页面没有岗位表附件"
  }
 ]
