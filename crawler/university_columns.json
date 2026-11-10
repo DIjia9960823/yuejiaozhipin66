@@ -1,0 +1,2422 @@
+{
+ "广东建设职业技术学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdcvi.edu.cn/xyxx/xxyw/index.htm",
+  "note": "ok",
+  "columns": []
+ },
+ "广东体育职业技术学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdtzy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "惠州工程职业学院（中职班）": {
+  "own": "公办",
+  "city": "惠州市",
+  "site": "https://www.hzevc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东创新科技职业学院": {
+  "own": "民办",
+  "city": "东莞市",
+  "site": "http://www.gdcxxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://www.gdcxxy.edu.cn/rsc/rczp/index.html",
+    "title": "人才招聘_人事处",
+    "hits": 12,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "http://www.gdcxxy.edu.cn/rsc/",
+    "title": "人事处",
+    "hits": 2,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "惠州卫生职业技术学院(中职班)": {
+  "own": "公办",
+  "city": "惠州市",
+  "site": "https://www.hzhsp.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "香港城市大学（东莞）": {
+  "own": "公办",
+  "city": "东莞市",
+  "site": "https://www.cityu-dg.edu.cn/home",
+  "note": "ok",
+  "columns": []
+ },
+ "广东交通职业技术学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdcp.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdcp.edu.cn/rczp.htm",
+    "title": "人才招聘-广东交通职业技术学院",
+    "hits": 17,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "中山火炬职业技术学院": {
+  "own": "公办",
+  "city": "中山市",
+  "site": "https://www.zstp.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.zstp.edu.cn/rczp/zpgg.htm",
+    "title": "招聘公告-中山火炬职业技术学院",
+    "hits": 9,
+    "text": "招聘公告",
+    "score": 2
+   }
+  ]
+ },
+ "广东科技学院": {
+  "own": "民办",
+  "city": "东莞市",
+  "site": "https://www.gdust.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdust.edu.cn/rsc/rcyj/rcyj/?_d_id=88e31a395889affdbb095fc393e686",
+    "title": "人才引进-广东科技学院—人事处",
+    "hits": 10,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdust.edu.cn/rsc/?_d_id=88ef1a395889af108c095fc393e686",
+    "title": "广东科技学院—人事处",
+    "hits": 2,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "东莞理工学院": {
+  "own": "公办",
+  "city": "东莞市",
+  "site": "https://www.dgut.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rs.dgut.edu.cn/",
+    "title": "人力资源部 - 东莞理工学院",
+    "hits": 10,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东云浮中医药职业学院": {
+  "own": "公办",
+  "city": "云浮市",
+  "site": "https://www.gdyfvccm.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "电子科技大学中山学院": {
+  "own": "民办",
+  "city": "中山市",
+  "site": "https://www.zsc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州卫生职业技术学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzws.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzws.edu.cn/rs",
+    "title": "广州卫生职业技术学院人事处（党委教师工作部）",
+    "hits": 4,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "罗定职业技术学院": {
+  "own": "公办",
+  "city": "云浮市",
+  "site": "https://www.ldpoly.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.ldpoly.edu.cn/",
+    "title": "人力资源部",
+    "hits": 15,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "广东东软学院": {
+  "own": "民办",
+  "city": "佛山市",
+  "site": "https://www.nuit.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "东莞职业技术学院": {
+  "own": "公办",
+  "city": "东莞市",
+  "site": "https://www.dgpt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.dgpt.edu.cn/rczp.htm",
+    "title": "人才招聘-人事处",
+    "hits": 16,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.dgpt.edu.cn/index.htm",
+    "title": "人事处",
+    "hits": 3,
+    "text": "人事处（党委组织部）",
+    "score": 1
+   }
+  ]
+ },
+ "广东文艺职业学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdla.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdla.edu.cn/rsc/",
+    "title": "人力资源部",
+    "hits": 15,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "广东环境保护工程职业学院": {
+  "own": "公办",
+  "city": "佛山市",
+  "site": "https://www.gdpepe.edu.cn/list_1.html",
+  "note": "ok",
+  "columns": []
+ },
+ "顺德职业技术大学": {
+  "own": "公办",
+  "city": "佛山市",
+  "site": "https://www.sdpt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.sdpt.edu.cn/rczp.htm",
+    "title": "人才招聘-顺德职业技术大学",
+    "hits": 11,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东职业技术学院": {
+  "own": "公办",
+  "city": "佛山市",
+  "site": "https://www.gdpt.edu.cn/main",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdpt.edu.cn/al_8/189",
+    "title": "人力资源部",
+    "hits": 4,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdpt.edu.cn/al_1/14",
+    "title": "广东职业技术学院",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   },
+   {
+    "url": "https://www.gdpt.edu.cn/rsc",
+    "title": "人力资源部",
+    "hits": 7,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "中山大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.sysu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rcb.sysu.edu.cn/",
+    "title": "首页 | 中山大学人才招聘网",
+    "hits": 19,
+    "text": "招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.sysu.edu.cn/szdw1/ys.htm",
+    "title": "院士-中山大学 SUN YAT-SEN UNIVERSITY",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "华南农业大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://scau.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.scau.edu.cn/6122/list.htm",
+    "title": "招聘公告",
+    "hits": 19,
+    "text": "招聘",
+    "score": 2
+   }
+  ]
+ },
+ "华南理工大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.scut.edu.cn/new",
+  "note": "打不开",
+  "columns": []
+ },
+ "南方医科大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.smu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://portal.smu.edu.cn/renshi/",
+    "title": "南方医科大学人事处",
+    "hits": 12,
+    "text": "人事处（党委教师工作部、人才工作办公室）",
+    "score": 1
+   }
+  ]
+ },
+ "华南农业大学珠江学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.scauzj.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.scauzj.edu.cn/",
+    "title": "华南农业大学珠江学院-人事处",
+    "hits": 5,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "华南师范大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.scnu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.scnu.edu.cn/rencaizhaopin/",
+    "title": "人才招聘 - 华南师范大学人力资源处",
+    "hits": 18,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东司法警官职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdjpvc.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广东南华工商职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.nhic.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.nhic.edu.cn/rsc/rczp/zpxx.htm",
+    "title": "招聘信息-人力资源部（教师工作部、教师发展中心）",
+    "hits": 20,
+    "text": "招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.nhic.edu.cn/rsc/rczp/zpxx.htm",
+    "title": "招聘信息-人力资源部（教师工作部、教师发展中心）",
+    "hits": 20,
+    "text": "招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东培正学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.peizheng.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东外语外贸大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdufs.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gdufs.edu.cn/",
+    "title": "广东外语外贸大学人力资源部",
+    "hits": 11,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.gdufs.edu.cn/",
+    "title": "广东外语外贸大学人力资源部",
+    "hits": 11,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "广东外语外贸大学南国商学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gwng.edu.cn/main.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gwng.edu.cn/rsc/992/list.htm",
+    "title": "人才招聘",
+    "hits": 15,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东岭南职业技术学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://lnc.edu.cn/?_=1636428612796",
+  "note": "ok",
+  "columns": []
+ },
+ "中山职业技术学院": {
+  "own": "公办",
+  "city": "中山市",
+  "site": "https://www.zspt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.zspt.edu.cn/jy/",
+    "title": "中山职业技术学院就业信息网",
+    "hits": 8,
+    "text": "毕业生招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.zspt.edu.cn/zszp/rczp1.htm",
+    "title": "人才招聘-中山职业技术学院",
+    "hits": 36,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东工程职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdep.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东工贸职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdgm.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东技术师范大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gpnu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gpnu.edu.cn/rczp.htm",
+    "title": "人才招聘-人力资源部（教师工作部）",
+    "hits": 11,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东机电职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdmec.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdmec.edu.cn/info/1309/49756.htm",
+    "title": "人才招聘-广东机电职业技术学院",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东理工职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdpi.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdpi.edu.cn/rczp.htm",
+    "title": "人才招聘-广东理工职业学院",
+    "hits": 23,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东工业大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdut.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.gdut.edu.cn/",
+    "title": "广东工业大学教工部、人事处",
+    "hits": 5,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东生态工程职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "http://gdsty.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://gdsty.edu.cn/rencaiindex.html",
+    "title": "广东生态工程职业学院",
+    "hits": 73,
+    "text": "[ 人才招聘 ]",
+    "score": 2
+   },
+   {
+    "url": "http://gdsty.edu.cn/view/department_9.html",
+    "title": "人力资源部-广东生态工程职业学院",
+    "hits": 9,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "广东科学技术职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdit.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdit.edu.cn/rsc/958/list.htm",
+    "title": "人才招聘",
+    "hits": 16,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东白云学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.baiyunu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rlzy.baiyunu.edu.cn/",
+    "title": "广东白云学院-人事处",
+    "hits": 7,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东水利电力职业技术学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdsdxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdsdxy.edu.cn/html/964/",
+    "title": "人才招聘信息_广东水利电力职业技术学院欢迎您！",
+    "hits": 39,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东科贸职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdkm.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdkm.edu.cn/rlzyb/rczp",
+    "title": "人才招聘_党委教工部（人力资源部、教发中心）",
+    "hits": 26,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdkm.edu.cn/rlzyb/jsfz",
+    "title": "教师发展_党委教工部（人力资源部、教发中心）",
+    "hits": 3,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广东第二师范学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdei.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdei.edu.cn/rsc/zpgg/list.htm",
+    "title": "招聘公告",
+    "hits": 18,
+    "text": "人才招聘与师德师风建...",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdei.edu.cn/xnzcgbrmwryzpxx/list.htm",
+    "title": "人员招聘信息",
+    "hits": 11,
+    "text": "人员招聘信息",
+    "score": 2
+   }
+  ]
+ },
+ "广东行政职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdxzzy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdxzzy.edu.cn/zpgg.htm",
+    "title": "招聘公告-广东行政职业学院",
+    "hits": 20,
+    "text": "招聘公告",
+    "score": 2
+   }
+  ]
+ },
+ "广东艺术职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdddc.edu.cn/xxgk2/jbxx.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdddc.edu.cn/szjs/rczp.htm",
+    "title": "人才招聘-广东艺术职业学院",
+    "hits": 15,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdddc.edu.cn/szjs/szdw.htm",
+    "title": "师资队伍-广东艺术职业学院",
+    "hits": 4,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广东药科大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdpu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdpu.edu.cn/rczp/gccrczp.htm",
+    "title": "高层次人才招聘-广东药科大学 GUANGDONG PHARMACEUTICAL UNIVERSITY",
+    "hits": 23,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdpu.edu.cn/rczp/sybzryzp.htm",
+    "title": "事业编制人员招聘-广东药科大学 GUANGDONG PHARMACEUTICAL UNIVERSITY",
+    "hits": 26,
+    "text": "事业编制人员招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdpu.edu.cn/rczp/cbryzp.htm",
+    "title": "参编人员招聘-广东药科大学 GUANGDONG PHARMACEUTICAL UNIVERSITY",
+    "hits": 17,
+    "text": "参编人员招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdpu.edu.cn/rczp/qtgwzp.htm",
+    "title": "其他岗位招聘-广东药科大学 GUANGDONG PHARMACEUTICAL UNIVERSITY",
+    "hits": 22,
+    "text": "其他岗位招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东警官学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdppla.edu.cn/index/jxky.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdppla.edu.cn/wxts.htm",
+    "title": "温馨提示-广东警官学院",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广东邮电职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gupt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东金融学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gduf.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东轻工职业技术大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdipu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gdipu.edu.cn/rczp.htm",
+    "title": "人才招聘-人力资源部",
+    "hits": 10,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东青年职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdxzzy.edu.cn/info/1006/11113.htm",
+  "note": "ok",
+  "columns": []
+ },
+ "广东财经大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdufe.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdufe.edu.cn/",
+    "title": "广东财经大学",
+    "hits": 3,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.gdufe.edu.cn/4717/list.htm",
+    "title": "人才招聘",
+    "hits": 24,
+    "text": "英才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.gdufe.edu.cn/bshzp/list.htm",
+    "title": "博士后招聘",
+    "hits": 14,
+    "text": "博士后招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.gdufe.edu.cn/4712/list.htm",
+    "title": "高层次人才引进",
+    "hits": 13,
+    "text": "高层次人才引进",
+    "score": 1
+   }
+  ]
+ },
+ "广东食品药品职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "http://www.gdyzy.edu.cn/index.do",
+  "note": "ok",
+  "columns": []
+ },
+ "广东省外语艺术职业学院（中职部）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gtcfla.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州体育学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzsport.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://zp.gzsport.edu.cn/",
+    "title": "广州体育学院公开招聘网",
+    "hits": 30,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州体育职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gztzy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州华南商贸职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.scbt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州东华职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzdhxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzdhxy.edu.cn/jycyxxw/tel/list.aspx",
+    "title": "就业创业信息网",
+    "hits": 6,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzdhxy.edu.cn/PanoramaCampus/list.aspx",
+    "title": "广州东华职业学院",
+    "hits": 12,
+    "text": "人事招聘",
+    "score": 2
+   }
+  ]
+ },
+ "大湾区大学": {
+  "own": "公办",
+  "city": "东莞市",
+  "site": "https://www.gbu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gbu.edu.cn/recruitment.html",
+    "title": "人才招聘-大湾区大学",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州华商学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzhs.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gzhs.edu.cn/",
+    "title": "广州华商学院人事处",
+    "hits": 22,
+    "text": "人事处（党委教师工作部）",
+    "score": 1
+   },
+   {
+    "url": "https://www.gzhs.edu.cn/rcyj.htm",
+    "title": "人才引进-广州华商学院",
+    "hits": 15,
+    "text": "人才引进",
+    "score": 1
+   }
+  ]
+ },
+ "佛山职业技术学院": {
+  "own": "公办",
+  "city": "佛山市",
+  "site": "https://www.fspt.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广州医科大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzhmu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://zpxt.gzhmu.edu.cn/gzykdx/recruit/a.epx?action=index&entityId=HR_RECRUIT_RESUME",
+    "title": "广州医科大学",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://nsxz.gzhmu.edu.cn/",
+    "title": "广州医科大学-南山学者",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广州华商职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzhsvc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gzhsvc.edu.cn/rczp.htm",
+    "title": "人才招聘-广州华商职业学院人事与质量部",
+    "hits": 9,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "佛山大学": {
+  "own": "公办",
+  "city": "佛山市",
+  "site": "https://www.fosu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.fosu.edu.cn/",
+    "title": "佛山大学 | 欢迎您！",
+    "hits": 3,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广州华立学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.hualixy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.hualixy.edu.cn/xsh",
+    "title": "人才招聘_广州华立学院",
+    "hits": 22,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.hualixy.edu.cn/rsc",
+    "title": "人事处",
+    "hits": 9,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广州华立科技职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzhlxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzhlxy.edu.cn/csrs/",
+    "title": "人事处-广州华立科技职业学院",
+    "hits": 9,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzhlxy.edu.cn/csrs/",
+    "title": "人事处-广州华立科技职业学院",
+    "hits": 9,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广州城市理工学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gcut.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广州城市职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gcp.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gcp.edu.cn/index/zpgg.htm",
+    "title": "招聘公告-广州城市职业学院",
+    "hits": 10,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州商学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gcc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.gcc.edu.cn/rczp/index.htm",
+    "title": "广州商学院人事处",
+    "hits": 7,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州城建职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzccc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsw.gzccc.edu.cn/",
+    "title": "广州城建职业学院-人事处",
+    "hits": 8,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州南方学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.nfu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rlzyb.nfu.edu.cn/rczp/gccrczp.htm",
+    "title": "高层次人才招聘- 广州南方学院党委教师工作部人事干部处",
+    "hits": 17,
+    "text": "高层次人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rlzyb.nfu.edu.cn/rczp/szrczp.htm",
+    "title": "师资人才招聘- 广州南方学院党委教师工作部人事干部处",
+    "hits": 17,
+    "text": "专任教师招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rlzyb.nfu.edu.cn/rczp/gljfryzp.htm",
+    "title": "管理教辅人员招聘- 广州南方学院党委教师工作部人事干部处",
+    "hits": 20,
+    "text": "管理人员招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州幼儿师范高等专科学校": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzptc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzptc.edu.cn/szdw/rczp.htm",
+    "title": "人才招聘-广州幼儿师范高等专科学校",
+    "hits": 8,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzptc.edu.cn/szdw/dwgk.htm",
+    "title": "队伍概况-广州幼儿师范高等专科学校",
+    "hits": 5,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "东莞城市学院": {
+  "own": "民办",
+  "city": "东莞市",
+  "site": "https://www.dgcu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.dgcu.edu.cn/job/004000.html",
+    "title": "招聘信息",
+    "hits": 22,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "https://www.dgcu.edu.cn/job/004001.html",
+    "title": "其它招聘",
+    "hits": 11,
+    "text": "其它招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州康大职业技术学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzkdp.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzkdp.edu.cn/",
+    "title": "广州康大职业技术学院",
+    "hits": 6,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广州中医药大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzucm.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzucm.edu.cn/zpzb/gkzp.htm",
+    "title": "公开招聘-广州中医药大学",
+    "hits": 21,
+    "text": "公开招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzucm.edu.cn/zpzb/xnzp.htm",
+    "title": "校内招聘-广州中医药大学",
+    "hits": 12,
+    "text": "校内招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东农工商职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdaib.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广州松田职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzst.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzst.edu.cn/rsc/GroupDynamics/list_subjectid_20.html",
+    "title": "招聘信息-人事处-广州松田职业学院",
+    "hits": 7,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzst.edu.cn/rsc/index.html",
+    "title": "首页-人事处-广州松田职业学院",
+    "hits": 19,
+    "text": "人事处",
+    "score": 1
+   },
+   {
+    "url": "https://www.gzst.edu.cn/",
+    "title": "广州松田职业学院",
+    "hits": 2,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广州民航职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gcac.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.gcac.edu.cn/recruit_site/desktop/index.do;jsessionid=1onqqvzgrhxt71s2gm5huoremc",
+    "title": "人才招聘系统",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东酒店管理职业技术学院": {
+  "own": "民办",
+  "city": "东莞市",
+  "site": "https://www.gdjdxy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东女子职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gdfs.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "仲恺农业工程学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.zhku.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.zhku.edu.cn/",
+    "title": "仲恺农业工程学院人力资源部(教师工作部)",
+    "hits": 5,
+    "text": "人力资源部（教师工作部）",
+    "score": 1
+   }
+  ]
+ },
+ "广州大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "http://www.gzhu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://rsc.gzhu.edu.cn/",
+    "title": "广州大学人事处",
+    "hits": 12,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "http://www.gzhu.edu.cn/rczp1.htm",
+    "title": "人才招聘-广州大学",
+    "hits": 22,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "http://www.gzhu.edu.cn/rczp1/gccrczpgg.htm",
+    "title": "高层次人才招聘公告-广州大学",
+    "hits": 22,
+    "text": "高层次人才招聘公告",
+    "score": 2
+   },
+   {
+    "url": "http://www.gzhu.edu.cn/rczp1/bshzpgg.htm",
+    "title": "博士后招聘公告-广州大学",
+    "hits": 16,
+    "text": "博士后招聘公告",
+    "score": 2
+   }
+  ]
+ },
+ "广州科技贸易职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzkmu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州美术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzarts.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州职业技术大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzhpu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州涉外经济职业技术学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gziec.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州科技职业技术大学": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gkd.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gkd.edu.cn/rsc/channels/409.html",
+    "title": "人事处\r\n|\r\n人才招聘\r\n|",
+    "hits": 37,
+    "text": "2026年人才招聘公告",
+    "score": 2
+   },
+   {
+    "url": "https://www.gkd.edu.cn/rsc/",
+    "title": "广州科技职业技术大学-人事处",
+    "hits": 16,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广州航海学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzmtu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.gzmtu.edu.cn/rczp.htm",
+    "title": "人才招聘-人力资源部（党委教师工作部）",
+    "hits": 12,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州理工学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzist.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzist.edu.cn/rcyj/zpqs.htm",
+    "title": "招聘启事-广州理工学院",
+    "hits": 18,
+    "text": "招聘启事",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzist.edu.cn/rcyj.htm",
+    "title": "人才引进-广州理工学院",
+    "hits": 6,
+    "text": "人才引进",
+    "score": 1
+   }
+  ]
+ },
+ "广州软件学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzus.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzus.edu.cn/rczp.htm",
+    "title": "人才招聘-广州软件学院",
+    "hits": 4,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.gzus.edu.cn/jxky/szdw.htm",
+    "title": "师资队伍-广州软件学院",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广州铁路职业技术学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gtxy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "星海音乐学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.xhcom.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.xhcom.edu.cn/index.htm",
+    "title": "人力资源部",
+    "hits": 11,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "私立华联学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.hlu.edu.cn/index.html",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.hlu.edu.cn/edu/jobs/5.html",
+    "title": "人才招聘-私立华联学院",
+    "hits": 3,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "惠州城市职业学院": {
+  "own": "公办",
+  "city": "惠州市",
+  "site": "https://www.hzc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "惠州经济职业技术学院": {
+  "own": "民办",
+  "city": "惠州市",
+  "site": "https://www.hzec.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "香港科技大学（广州）": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.hkust-gz.edu.cn/zh/?variant=zh-cn",
+  "note": "ok",
+  "columns": []
+ },
+ "惠州学院": {
+  "own": "公办",
+  "city": "惠州市",
+  "site": "https://www.hzu.edu.cn/main.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.hzu.edu.cn/180/list.htm",
+    "title": "招聘公告",
+    "hits": 18,
+    "text": "招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.hzu.edu.cn/161/list.htm",
+    "title": "人才招聘",
+    "hits": 14,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "嘉应学院": {
+  "own": "公办",
+  "city": "梅州市",
+  "site": "http://www.jyu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "揭阳职业技术学院": {
+  "own": "公办",
+  "city": "揭阳市",
+  "site": "https://www.jyc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东梅州职业技术学院": {
+  "own": "公办",
+  "city": "梅州市",
+  "site": "http://gdmzvtc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://gdmzvtc.edu.cn/rczp/zpxx.htm",
+    "title": "招聘信息-广东梅州职业技术学院",
+    "hits": 9,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东汕头幼儿师范高等专科学校": {
+  "own": "公办",
+  "city": "汕头市",
+  "site": "https://www.gdstpec.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdstpec.edu.cn/xinxigongkai/zpgg.htm",
+    "title": "招聘公告-广东汕头幼儿师范高等专科学校",
+    "hits": 14,
+    "text": "招聘公告",
+    "score": 2
+   }
+  ]
+ },
+ "汕头大学": {
+  "own": "公办",
+  "city": "汕头市",
+  "site": "https://www.stu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "潮汕职业技术学院": {
+  "own": "民办",
+  "city": "揭阳市",
+  "site": "https://www.cspi.edu.cn/m/index.html",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.cspi.edu.cn/m/view.php?aid=26247",
+    "title": "招聘信息汇总_潮汕职业技术学院",
+    "hits": 7,
+    "text": "招聘信息汇总",
+    "score": 2
+   },
+   {
+    "url": "https://www.cspi.edu.cn/m/view.php?aid=26229",
+    "title": "潮汕学院2026年校园现场招聘会成功举办_潮汕职业技术学院",
+    "hits": 4,
+    "text": "潮汕学院2026年校园现场招聘会成功举办",
+    "score": 2
+   },
+   {
+    "url": "https://www.cspi.edu.cn/m/view.php?aid=26219",
+    "title": "招聘信息汇总_潮汕职业技术学院",
+    "hits": 7,
+    "text": "招聘信息汇总",
+    "score": 2
+   },
+   {
+    "url": "https://www.cspi.edu.cn/m/view.php?aid=26197",
+    "title": "招聘信息汇总_潮汕职业技术学院",
+    "hits": 7,
+    "text": "招聘信息汇总",
+    "score": 2
+   }
+  ]
+ },
+ "汕头职业技术学院": {
+  "own": "公办",
+  "city": "汕头市",
+  "site": "https://www.stpt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东以色列理工学院": {
+  "own": "公办",
+  "city": "汕头市",
+  "site": "https://www.gtiit.edu.cn/welcome.aspx",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gtiit.edu.cn/recruit_research_support.aspx",
+    "title": "科研支持人员 - 招聘信息 - 广东以色列理工学院",
+    "hits": 13,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "https://www.gtiit.edu.cn/recruit.aspx",
+    "title": "招聘信息 - 招聘信息 - 广东以色列理工学院",
+    "hits": 6,
+    "text": " 招聘信息",
+    "score": 2
+   }
+  ]
+ },
+ "广州应用科技学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzasc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://www.gzasc.edu.cn/rsc/",
+    "title": "广州应用科技学院人事处",
+    "hits": 6,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广东南方职业学院": {
+  "own": "民办",
+  "city": "江门市",
+  "site": "https://www.gdnfu.edu.cn/index.html",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdnfu.edu.cn/a/xingzhengjigou/renshichu.html",
+    "title": "广东南方职业学院",
+    "hits": 6,
+    "text": "人事处（教师发展中心）",
+    "score": 1
+   }
+  ]
+ },
+ "广东江门中医药职业学院": {
+  "own": "公办",
+  "city": "江门市",
+  "site": "https://www.gdjmcmc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdjmcmc.edu.cn/rczp/",
+    "title": "人才招聘",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "暨南大学": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.jnu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hrdam.jnu.edu.cn/343/list.htm",
+    "title": "博士后招聘启事",
+    "hits": 12,
+    "text": "博士后招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东江门幼儿师范高等专科学校": {
+  "own": "公办",
+  "city": "江门市",
+  "site": "https://www.jmpec.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东江门南粤学院": {
+  "own": "民办",
+  "city": "江门市",
+  "site": "https://www1.bitzh.edu.cn:8081",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www1.bitzh.edu.cn:8081/szdw/rczp1.htm",
+    "title": "人才招聘-广东江门南粤学院（原北京理工大学珠海学院）",
+    "hits": 6,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www1.bitzh.edu.cn:8081/",
+    "title": "广东江门南粤学院（原北京理工大学珠海学院）",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "江门职业技术学院": {
+  "own": "公办",
+  "city": "江门市",
+  "site": "https://www.jmpt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "河源职业技术学院": {
+  "own": "公办",
+  "city": "河源市",
+  "site": "https://www.hypt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "南方科技大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.sustech.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.sustech.edu.cn/",
+    "title": "南方科技大学",
+    "hits": 3,
+    "text": "师资队伍",
+    "score": 1
+   },
+   {
+    "url": "https://www.sustech.edu.cn/zh/faculty/",
+    "title": "两院院士 - 师资概况 - 南方科技大学",
+    "hits": 3,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "深圳信息职业技术大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.suit-sz.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.suit-sz.edu.cn/rczp/rczp.htm",
+    "title": "人才招聘-深圳信息职业技术大学",
+    "hits": 22,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "深圳城市职业学院": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.szcp.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州华夏职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzhxtc.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广州南洋理工职业学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gznylg.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "深圳技术大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.sztu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "深圳大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.szu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.szu.edu.cn/",
+    "title": "深圳大学人力资源部",
+    "hits": 18,
+    "text": "人力资源",
+    "score": 1
+   },
+   {
+    "url": "https://www.szu.edu.cn/szdw/jsjj.htm",
+    "title": "教师简介-深圳大学",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "五邑大学": {
+  "own": "公办",
+  "city": "江门市",
+  "site": "https://www.wyu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.wyu.edu.cn/hr/info/1592/5851.htm",
+    "title": "五邑大学2026年海内外人才招聘简章-五邑大学人力资源管理处",
+    "hits": 8,
+    "text": "五邑大学招聘简章",
+    "score": 2
+   },
+   {
+    "url": "https://www.wyu.edu.cn/hr/",
+    "title": "五邑大学人力资源管理处",
+    "hits": 9,
+    "text": "人力资源管理处",
+    "score": 1
+   }
+  ]
+ },
+ "香港中文大学（深圳）": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.cuhk.edu.cn/zh-hans",
+  "note": "打不开",
+  "columns": []
+ },
+ "广东财贸职业学院": {
+  "own": "公办",
+  "city": "清远市",
+  "site": "http://www.gdcmxy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州珠江职业技术学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "http://www.gzzjxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://www.gzzjxy.edu.cn/news/1552.html",
+    "title": "就业创业e站专区-广州珠江职业技术学院网站",
+    "hits": 11,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "http://www.gzzjxy.edu.cn/news2/1386.html",
+    "title": "人事处-广州珠江职业技术学院网站",
+    "hits": 3,
+    "text": "人事处",
+    "score": 1
+   },
+   {
+    "url": "http://www.gzzjxy.edu.cn/news2/1387.html",
+    "title": "人事处-广州珠江职业技术学院网站",
+    "hits": 5,
+    "text": "人才引进",
+    "score": 1
+   }
+  ]
+ },
+ "深圳北理莫斯科大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.smbu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.smbu.edu.cn/xwgk/rczp.htm",
+    "title": "人才招聘-深圳北理莫斯科大学",
+    "hits": 23,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.smbu.edu.cn/jcjy/rczp.htm",
+    "title": "人才招聘-深圳北理莫斯科大学",
+    "hits": 14,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.smbu.edu.cn/szdw.htm",
+    "title": "师资队伍-深圳北理莫斯科大学",
+    "hits": 6,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "清远职业技术学院": {
+  "own": "公办",
+  "city": "清远市",
+  "site": "https://www.qypt.edu.cn/xxgk1/xyjj.htm",
+  "note": "ok",
+  "columns": []
+ },
+ "广东医科大学": {
+  "own": "公办",
+  "city": "湛江市",
+  "site": "https://www.gdmu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdmu.edu.cn/rczp1.htm",
+    "title": "人才招聘-广东医科大学",
+    "hits": 15,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东文理职业学院": {
+  "own": "民办",
+  "city": "湛江市",
+  "site": "https://www.gdwlxy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdwlxy.edu.cn/Html/Article/list_578.html",
+    "title": "人才招聘-人事处-广东文理职业学院（院校代码：14126）【院校代码-14126】",
+    "hits": 6,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东海洋大学": {
+  "own": "公办",
+  "city": "湛江市",
+  "site": "http://gdou.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://zp.gdou.edu.cn/rsfw/sys/zpglxt/extranet/index.do",
+    "title": "广东海洋大学\r\n\t\t\t人才招聘",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "湛江幼儿师范专科学校": {
+  "own": "公办",
+  "city": "湛江市",
+  "site": "https://www.zhjpec.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东新安职业技术学院": {
+  "own": "民办",
+  "city": "深圳市",
+  "site": "https://www.gaoxiaoji.com/university/uni-637842b76e22/website",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gaoxiaoji.com/",
+    "title": "高校集 - 全国高校官网导航与职位招聘数据库",
+    "hits": 13,
+    "text": "集 高校集 高校招聘信息导航",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/recruitments",
+    "title": "高校招聘公告 - 多维度筛选 - 高校集",
+    "hits": 20,
+    "text": "招聘公告",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/university/uni-637842b76e22",
+    "title": "广东新安职业技术学院招聘信息汇总｜2026年教师/博士/博士后岗位招聘公告 - 高校集",
+    "hits": 5,
+    "text": "广东新安职业技术学院招聘信息汇总 →",
+    "score": 2
+   }
+  ]
+ },
+ "湛江科技学院": {
+  "own": "民办",
+  "city": "湛江市",
+  "site": "https://www.zjkju.edu.cn/wengine-auth/human-verify?c=DRUFLbRm0__BgyJwMHoWPAIMwjd200SQWsVZi4I19-4%3D&from=https%3A%2F%2Fwww.zjkju.edu.cn%2Flist3.jsp%3Furltype%3Dtree.TreeTempUrl%26wbtreeid%3D1201&webId=1",
+  "note": "ok",
+  "columns": []
+ },
+ "岭南师范学院": {
+  "own": "公办",
+  "city": "湛江市",
+  "site": "https://www.lingnan.edu.cn/index.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://d.lingnan.edu.cn/rsc/rczp.htm",
+    "title": "人才招聘-岭南师范学院人事处",
+    "hits": 37,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://d.lingnan.edu.cn/rsc/index.htm",
+    "title": "岭南师范学院人事处",
+    "hits": 18,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "深圳理工大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.suat-sz.edu.cn/index.htm",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "http://rczpw.suat-sz.edu.cn/index.htm",
+    "title": "人才招聘-深圳理工大学",
+    "hits": 20,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.suat-sz.edu.cn/jcjy/rczp.htm",
+    "title": "人才招聘-深圳理工大学",
+    "hits": 9,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "北京师范大学珠海分校": {
+  "own": "民办",
+  "city": "珠海市",
+  "site": "https://www.bnuz.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.bnuz.edu.cn/",
+    "title": "北京师范大学珠海分校 | Beijing Normal University,Zhuhai",
+    "hits": 3,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "北师香港浸会大学": {
+  "own": "公办",
+  "city": "珠海市",
+  "site": "https://www.bnbu.edu.cn/index.htm",
+  "note": "ok",
+  "columns": []
+ },
+ "广州工商学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzgs.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广东潮州卫生健康职业学院": {
+  "own": "公办",
+  "city": "潮州市",
+  "site": "https://www.gdczwzy.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdczwzy.edu.cn/xydt/zpxx.htm",
+    "title": "招聘信息-广东潮州卫生健康职业学院",
+    "hits": 14,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "https://www.gdczwzy.edu.cn/jxgk/szdw.htm",
+    "title": "师资队伍-广东潮州卫生健康职业学院",
+    "hits": 2,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广东亚视演艺职业学院": {
+  "own": "民办",
+  "city": "肇庆市",
+  "site": "https://www.gdatv.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gdatv.edu.cn/channels/78.html",
+    "title": "广东亚视演艺职业学院-人才招聘",
+    "hits": 5,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "珠海艺术职业学院": {
+  "own": "民办",
+  "city": "珠海市",
+  "site": "https://www.zhac.edu.cn/ArtWeb/index.aspx",
+  "note": "ok",
+  "columns": []
+ },
+ "广东理工学院": {
+  "own": "民办",
+  "city": "肇庆市",
+  "site": "https://www.gdlgxy.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广州工程技术职业学院": {
+  "own": "公办",
+  "city": "广州市",
+  "site": "https://www.gzvtc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gzvtc.edu.cn/rczp/zpxx.htm",
+    "title": "招聘信息-广州工程技术职业学院",
+    "hits": 33,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东工商职业技术大学": {
+  "own": "民办",
+  "city": "肇庆市",
+  "site": "https://www.gdbtu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rlzy.gdbtu.edu.cn/",
+    "title": "人力资源处",
+    "hits": 2,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东肇庆航空职业学院": {
+  "own": "民办",
+  "city": "肇庆市",
+  "site": "https://gdzqac.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://gdzqac.edu.cn/articles/list/31",
+    "title": "招聘信息_招聘信息 广东肇庆航空职业学院",
+    "hits": 6,
+    "text": "招聘信息",
+    "score": 2
+   }
+  ]
+ },
+ "肇庆学院": {
+  "own": "公办",
+  "city": "肇庆市",
+  "site": "https://www.zqu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.zqu.edu.cn/",
+    "title": "肇庆学院人力资源部",
+    "hits": 17,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广州现代信息工程职业技术学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.gzmiec.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "广东碧桂园职业学院": {
+  "own": "民办",
+  "city": "清远市",
+  "site": "https://www.bgypt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://hr.bgypt.edu.cn/cpyc",
+    "title": "诚聘英才_广东碧桂园职业学院人事处",
+    "hits": 10,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://jyc.bgypt.edu.cn/zpxx",
+    "title": "招聘信息_就业与合作发展处",
+    "hits": 12,
+    "text": "招聘信息",
+    "score": 2
+   },
+   {
+    "url": "https://hr.bgypt.edu.cn/",
+    "title": "广东碧桂园职业学院人事处",
+    "hits": 7,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ },
+ "广东茂名农林科技职业学院": {
+  "own": "公办",
+  "city": "茂名市",
+  "site": "https://www.gdafc.edu.cn",
+  "note": "打不开",
+  "columns": []
+ },
+ "肇庆医学院": {
+  "own": "公办",
+  "city": "肇庆市",
+  "site": "https://www.zqmc.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://rsc.zqmc.edu.cn/rczp.htm",
+    "title": "人才招聘-肇庆医学院人力资源部",
+    "hits": 6,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://rsc.zqmc.edu.cn/",
+    "title": "肇庆医学院人力资源部",
+    "hits": 9,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "深圳职业技术大学": {
+  "own": "公办",
+  "city": "深圳市",
+  "site": "https://www.szpu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.szpu.edu.cn/jyjx1/rczp.htm",
+    "title": "人才招聘-深圳职业技术大学",
+    "hits": 12,
+    "text": "人才招聘",
+    "score": 2
+   },
+   {
+    "url": "https://www.szpu.edu.cn/jyjx1/szdw.htm",
+    "title": "师资队伍-深圳职业技术大学",
+    "hits": 7,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "珠海城市职业技术学院": {
+  "own": "公办",
+  "city": "珠海市",
+  "site": "https://www.zhcpt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东茂名幼儿师范专科学校": {
+  "own": "公办",
+  "city": "茂名市",
+  "site": "https://gdpnc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "广东石油化工学院": {
+  "own": "公办",
+  "city": "茂名市",
+  "site": "https://www.gdupt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://site.gdupt.edu.cn/renshichu/",
+    "title": "广东石油化工学院人力资源部",
+    "hits": 7,
+    "text": "人力资源部",
+    "score": 1
+   }
+  ]
+ },
+ "广东松山职业技术学院": {
+  "own": "公办",
+  "city": "韶关市",
+  "site": "https://www.gdsspt.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "韶关学院": {
+  "own": "公办",
+  "city": "韶关市",
+  "site": "https://www.sgu.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.sgu.edu.cn:443/rczpw/",
+    "title": "韶关学院人才招聘网",
+    "hits": 12,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "茂名职业技术学院": {
+  "own": "公办",
+  "city": "茂名市",
+  "site": "https://www.mmpt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.mmpt.edu.cn/rsc/",
+    "title": "组织人事部",
+    "hits": 11,
+    "text": "人事招聘",
+    "score": 2
+   }
+  ]
+ },
+ "广东茂名健康职业学院": {
+  "own": "公办",
+  "city": "茂名市",
+  "site": "https://www.gdhvc.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "韩山师范学院": {
+  "own": "公办",
+  "city": "潮州市",
+  "site": "https://www.gaoxiaoji.com/university/uni-5bd16743f21f/website",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gaoxiaoji.com/",
+    "title": "高校集 - 全国高校官网导航与职位招聘数据库",
+    "hits": 13,
+    "text": "集 高校集 高校招聘信息导航",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/recruitments",
+    "title": "高校招聘公告 - 多维度筛选 - 高校集",
+    "hits": 20,
+    "text": "招聘公告",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/university/uni-5bd16743f21f",
+    "title": "韩山师范学院招聘信息汇总｜2026年教师/博士/博士后岗位招聘公告 - 高校集",
+    "hits": 5,
+    "text": "韩山师范学院招聘信息汇总 →",
+    "score": 2
+   }
+  ]
+ },
+ "珠海格力职业学院": {
+  "own": "民办",
+  "city": "珠海市",
+  "site": "https://www.gaoxiaoji.com/university/uni-d17b4fff33b5/website",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.gaoxiaoji.com/",
+    "title": "高校集 - 全国高校官网导航与职位招聘数据库",
+    "hits": 13,
+    "text": "集 高校集 高校招聘信息导航",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/recruitments",
+    "title": "高校招聘公告 - 多维度筛选 - 高校集",
+    "hits": 20,
+    "text": "招聘公告",
+    "score": 2
+   },
+   {
+    "url": "https://www.gaoxiaoji.com/university/uni-d17b4fff33b5",
+    "title": "珠海格力职业学院招聘信息汇总｜2026年教师/博士/博士后岗位招聘公告 - 高校集",
+    "hits": 5,
+    "text": "珠海格力职业学院招聘信息汇总 →",
+    "score": 2
+   }
+  ]
+ },
+ "珠海科技学院": {
+  "own": "民办",
+  "city": "珠海市",
+  "site": "https://www.zcst.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.zcst.edu.cn/4595/list.htm",
+    "title": "师资队伍",
+    "hits": 3,
+    "text": "师资队伍",
+    "score": 1
+   }
+  ]
+ },
+ "广州新华学院": {
+  "own": "民办",
+  "city": "广州市",
+  "site": "https://www.xhsysu.edu.cn",
+  "note": "ok",
+  "columns": []
+ },
+ "汕尾职业技术学院": {
+  "own": "公办",
+  "city": "汕尾市",
+  "site": "https://www.swpt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://www.swpt.edu.cn/xxgk1/rczp.htm",
+    "title": "人才招聘-汕尾职业技术学院",
+    "hits": 19,
+    "text": "人才招聘",
+    "score": 2
+   }
+  ]
+ },
+ "阳江职业技术学院": {
+  "own": "公办",
+  "city": "阳江市",
+  "site": "https://yjpt.edu.cn",
+  "note": "ok",
+  "columns": [
+   {
+    "url": "https://zzb.yjpt.edu.cn/",
+    "title": "党委组织部（人力资源部、党委教师工作部）",
+    "hits": 5,
+    "text": "人事处",
+    "score": 1
+   }
+  ]
+ }
+}
