@@ -1191,7 +1191,7 @@
   "id": 1199,
   "title": "深圳职业技术大学博士后招聘公告（长期招聘）05-212026",
   "sourceUrl": "https://www.szpu.edu.cn/info/1025/22744.htm",
-  "reason": "公告页打不开: SSLError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1200,
@@ -2109,13 +2109,13 @@
   "id": 1385,
   "title": "广东科技学院学校办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240603/3777.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectTimeout"
  },
  {
   "id": 1386,
   "title": "广东南博教育研究院招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240319/3754.html",
-  "reason": "公告页打不开: ConnectTimeout"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1387,
@@ -3105,6 +3105,450 @@
   "id": 1557,
   "title": "2026秋季广东北京师范大学云浮实验学校招聘教师36人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472757.html",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1561,
+  "title": "【招聘】深圳市光明区高级中学招聘（高中物理）购买教育服务教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3195206",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1562,
+  "title": "广东职业技术学院招聘专任教师3名",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3195147",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1563,
+  "title": "深圳市南山区朗麓家园第一幼儿园教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194882",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1564,
+  "title": "广州市天河外国语学校2026年11月公开招聘编外聘用制专任教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194807",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1565,
+  "title": "东莞市第六高级中学招募英语银龄教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194578",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1566,
+  "title": "广州市第一一三中学陶育实验学校2026年11月公开招聘编外聘用制专任教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194492",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1567,
+  "title": "2026年广州市花都区第一幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194233",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1568,
+  "title": "珠海市香洲区杨匏安幼儿园合同制及顶岗教职工招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194187",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1569,
+  "title": "深圳市宝安区西乡固戍第二幼儿园2026年11月公开招聘公办幼儿园短期配班教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194186",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1570,
+  "title": "佛山市顺德区桂洲中学招聘高中数学、物理临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194025",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1571,
+  "title": "深圳市龙岗区横岗街道天颂雅苑幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193988",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1572,
+  "title": "珠海市前山中学公开招聘临聘教师公告（四）（新增岗位1个）",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193585",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1573,
+  "title": "广州开发区外国语学校临聘教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193560",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1574,
+  "title": "广钢华标幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193017",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1575,
+  "title": "深圳市宝安区沙井荣御幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192952",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1576,
+  "title": "珠海市香山学校公开招聘1名短期临聘音乐教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192877",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1577,
+  "title": "2026年秋季珠海市香洲区石花中学公开招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192854",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1578,
+  "title": "深圳市龙岗区教科院附属实验学校2026-2027学年第三方购买服务教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192460",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1579,
+  "title": "深圳市光明区外国语学校凤华幼儿园关于2026年11月公开招聘公办幼儿园工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192371",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1580,
+  "title": "狮山镇罗村小学招聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192370",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1581,
+  "title": "广州市景中实验中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192369",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1582,
+  "title": "广州市第四十一中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192323",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1583,
+  "title": "深圳市第三高级中学关于招聘初中道德与法治教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191910",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1584,
+  "title": "广州市花都区圆玄小学数学专任教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191410",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1585,
+  "title": "狮山镇官窑中心小学招聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191409",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1586,
+  "title": "盐步中心小学语文教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191408",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1587,
+  "title": "广州市第五中学和广州市五中附属初级中学联合参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190696",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1588,
+  "title": "广东外语外贸大学信息科学与技术学院(网络空间安全学院)公开招聘高层次人才公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3189368",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1589,
+  "title": "广州市花都区风神实验小学招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188409",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1590,
+  "title": "广州铁路职业技术学院2026年第二批院编工作人员招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187511",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1591,
+  "title": "广州市白云区石门街中心幼儿园（含雍云邸园区）招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187330",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1592,
+  "title": "北京师范大学广州实验学校关于公开招聘临聘教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187290",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1593,
+  "title": "广州南沙人力资源发展有限公司招聘中小学教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186829",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1594,
+  "title": "广州市花都区秀全中学招聘临聘教师启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186591",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1595,
+  "title": "广州市花都区新雅街雅瑶小学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186492",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1596,
+  "title": "广东机电职业技术学院2026年第三批公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185663",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1597,
+  "title": "广大附中花都学校2026学年招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184736",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1598,
+  "title": "广州市花都区新华街横潭小学招聘临聘心理教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184735",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1599,
+  "title": "广州市花都区花山镇花山初级中学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184734",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1600,
+  "title": "天河区东风实验小学招聘数学教师",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183532",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1601,
+  "title": "广州市育才中学2026“优才计划”教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183201",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1602,
+  "title": "南方医科大学康复医学院教学科研岗招聘通知",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182629",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1603,
+  "title": "广州市白云艺术中学教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182497",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1604,
+  "title": "广州市花都区新雅街新雅小学信息技术教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181660",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1605,
+  "title": "2026年华南师范大学附属荔湾小学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181172",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1606,
+  "title": "翁源县新江镇中心幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3119781",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1607,
+  "title": "浈江区犁市大为中学2026年秋季临聘数学教师招聘",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3105943",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1608,
+  "title": "韶关市浈江区乐园镇中心幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3081468",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1609,
+  "title": "乳源瑶族自治县金禧小学2026年公开招聘教学辅助人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3076049",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1610,
+  "title": "深圳市宝安区福海新田第二幼儿园招聘公办幼儿园短期教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191396",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1611,
+  "title": "深圳市宝安区中英公学高薪诚聘初三语文教师",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191062",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1612,
+  "title": "深圳市福田区福华幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190848",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1613,
+  "title": "深圳市福田区新沙幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190718",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1614,
+  "title": "福田第三幼儿园（石厦）招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190105",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1615,
+  "title": "深圳市龙岗区平湖街道中心幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190101",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1616,
+  "title": "深圳市福田区第四幼儿园2026年11月招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3189743",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1617,
+  "title": "深圳实验学校中学部招聘道德与法治临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188572",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1618,
+  "title": "深圳市宝安区沙井金沙幼儿园2026年11月公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188508",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1619,
+  "title": "深圳市福田区天安实验幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186587",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1620,
+  "title": "深圳市宝安区西乡和樾府幼儿园2026年11月公开招聘短期教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185834",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1621,
+  "title": "深圳市大鹏外国语小学面向社会公开招聘优秀教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185742",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1622,
+  "title": "深圳小学光明学校中心校区（初中）招聘购买服务历史教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185569",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1623,
+  "title": "深圳市龙岗区吉华街道第一幼儿教育集团分园尚水天成幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185137",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1624,
+  "title": "深圳市南山区海印长城幼儿园人员招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183803",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1625,
+  "title": "深圳市龙岗区南湾街道第一幼儿教育集团分园沙塘布幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182902",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1626,
+  "title": "深圳市光明区公明中学招聘购买服务人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181184",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1627,
+  "title": "北京师范大学南山附属学校小学部招聘语文教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3180342",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1628,
+  "title": "深圳市宝安区松岗街道中心幼儿园（集团）2026年10月公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3179997",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1629,
+  "title": "深圳市福田区天健天骄幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3179713",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1630,
+  "title": "珠海市香洲区第十五小学公开招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190231",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1631,
+  "title": "珠海市香洲南屏幼教集团教职工招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186583",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1632,
+  "title": "珠海市金湾区汇海幼儿园2026年代产假教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185260",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1633,
+  "title": "珠海市金湾区红旗镇中心幼儿园2026年代产假教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183285",
+  "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1634,
+  "title": "珠海市香洲区杨匏安中学2026年公开招聘英语临聘教师公告（第六批）",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183120",
   "reason": "页面没有岗位表附件"
  }
 ]
