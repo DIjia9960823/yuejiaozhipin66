@@ -34,6 +34,12 @@ jobs:
           timeout 600 python crawler.py || true   # 10 分钟上限，超时也继续
           echo "=== crawler/data_anns.js: $(wc -c < data_anns.js) bytes ==="
 
+      - name: 🏫 Crawl supplementary source (offcn/中公)
+        run: |
+          cd crawler
+          timeout 300 python offcn.py || true   # 5 分钟上限
+          echo "=== after offcn: $(wc -c < data_anns.js) bytes ==="
+
       - name: 📋 Parse job positions from attachments
         run: |
           cd tools
