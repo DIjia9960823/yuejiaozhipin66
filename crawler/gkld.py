@@ -268,10 +268,26 @@ def main():
         browser.close()
 
     if added:
+        import tempfile
+        added_file = os.path.join(tempfile.gettempdir(), "gkld_added.json")
+        with open(added_file, "w", encoding="utf-8") as f:
+            json.dump(added, f, ensure_ascii=False, indent=2)
+        log("    已暂存 %d 条到 %s" % (len(added), added_file))
         merged = existing + added
         out = raw[:m.start(1)] + json.dumps(merged, ensure_ascii=False, indent=2) + raw[m.end(1):]
-        with open(OUT_FILE, "w", encoding="utf-8") as f:
-            f.write(out)
+        tmp = OUT_FILE + ".tmp"
+        for attempt in range(5):
+            try:
+                with open(tmp, "w", encoding="utf-8") as f:
+                    f.write(out)
+                os.replace(tmp, OUT_FILE)
+                break
+            except PermissionError:
+                if attempt < 4:
+                    log("    写文件被锁，第 %d 次重试..." % (attempt + 1))
+                    time.sleep(3)
+                else:
+                    raise
 
     log("-" * 56)
     log("新增 %d 条公告" % len(added))
