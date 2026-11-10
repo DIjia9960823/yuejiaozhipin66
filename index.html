@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>粤教职圈 · 广东教师招聘职位库</title>
+<style>
+:root {
+  --primary:#2563eb; --primary-dark:#1d4ed8; --primary-light:#eff6ff;
+  --success:#16a34a; --success-bg:#dcfce7;
+  --warning:#ea580c; --warning-bg:#ffedd5;
+  --purple:#6d28d9; --purple-bg:#ede9fe;
+  --gray-50:#f9fafb; --gray-100:#f3f4f6; --gray-200:#e5e7eb; --gray-300:#d1d5db;
+  --gray-400:#9ca3af; --gray-500:#6b7280; --gray-600:#4b5563; --gray-700:#374151;
+  --gray-800:#1f2937; --gray-900:#111827;
+  --radius-sm:4px; --radius:8px; --radius-lg:12px;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.05);
+  --shadow:0 1px 3px rgba(0,0,0,.1),0 1px 2px rgba(0,0,0,.06);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  font-size:14px; color:var(--gray-800); background:var(--gray-50); line-height:1.6; }
+a { color:inherit; text-decoration:none; }
+button { cursor:pointer; font-family:inherit; }
+
+/* 顶部导航 */
+.navbar { background:#fff; border-bottom:1px solid var(--gray-200); padding:0 24px; height:56px;
+  display:flex; align-items:center; justify-content:space-between;
+  position:sticky; top:0; z-index:100; box-shadow:var(--shadow-sm); }
+.nav-brand { display:flex; align-items:center; gap:8px; font-size:18px; font-weight:700; color:var(--primary); }
+.nav-brand .logo { width:28px; height:28px; background:var(--primary); border-radius:var(--radius-sm);
+  display:flex; align-items:center; justify-content:center; color:#fff; font-size:14px; }
+.nav-note { font-size:12px; color:var(--gray-400); padding-left:12px; border-left:1px solid var(--gray-200); margin-left:12px; }
+
+.container { max-width:1100px; margin:0 auto; padding:24px; }
+
+/* 筛选卡 */
+.filter-card { background:#fff; border:1px solid var(--gray-200); border-radius:var(--radius);
+  padding:20px; margin-bottom:20px; box-shadow:var(--shadow-sm); }
+.search-row { display:flex; gap:12px; margin-bottom:14px; }
+.search-input { flex:1; padding:8px 14px; border:1px solid var(--gray-300); border-radius:var(--radius-sm); font-size:14px; outline:none; }
+.search-input:focus { border-color:var(--primary); box-shadow:0 0 0 3px var(--primary-light); }
+.search-btn { padding:8px 24px; background:var(--primary); color:#fff; border:none; border-radius:var(--radius-sm); font-size:14px; }
+.search-btn:hover { background:var(--primary-dark); }
+.filter-row { display:flex; align-items:flex-start; gap:12px; margin-bottom:10px; }
+.filter-row:last-child { margin-bottom:0; }
+.filter-label { font-size:13px; color:var(--gray-500); white-space:nowrap; min-width:60px; text-align:right; padding-top:4px; }
+.filter-tags { display:flex; flex-wrap:wrap; gap:8px; }
+.filter-tag { padding:3px 12px; border:1px solid var(--gray-200); border-radius:999px; font-size:13px; color:var(--gray-600); background:#fff; cursor:pointer; transition:all .15s; }
+.filter-tag:hover { border-color:var(--primary); color:var(--primary); }
+.filter-tag.active { background:var(--primary); color:#fff; border-color:var(--primary); }
+
+/* 统计栏 */
+.stats-bar { display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;
+  margin-bottom:12px; font-size:13px; color:var(--gray-500); }
+.stats-bar strong { color:var(--primary); font-size:15px; }
+.stats-actions { display:flex; align-items:center; gap:8px; }
+.sort-select { padding:6px 10px; border:1px solid var(--gray-300); border-radius:var(--radius); font-size:13px; color:var(--gray-600); background:#fff; outline:none; cursor:pointer; }
+.export-btn { display:inline-flex; align-items:center; gap:4px; padding:6px 14px; font-size:13px; font-weight:500;
+  color:var(--primary); background:#fff; border:1px solid var(--primary); border-radius:var(--radius); transition:all .15s; }
+.export-btn:hover { background:var(--primary); color:#fff; box-shadow:var(--shadow-sm); }
+
+/* 职位卡片：电脑一行2个 */
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+.card { background:#fff; border:1px solid var(--gray-200); border-radius:var(--radius-lg);
+  padding:16px 18px; cursor:pointer; box-shadow:var(--shadow-sm); transition:box-shadow .15s, border-color .15s; }
+.card:hover { border-color:var(--primary); box-shadow:var(--shadow); }
+.card-top { display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
+.job-title { font-size:15px; font-weight:600; color:var(--gray-900); line-height:1.45; }
+.job-title .code { font-size:12px; color:var(--gray-400); font-weight:400; margin-left:4px; }
+.school { font-size:13px; color:var(--gray-500); margin-top:2px;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.dl { flex-shrink:0; font-size:12px; padding-top:2px; }
+.dl-ok { color:var(--success); }
+.dl-soon { color:var(--warning); font-weight:600; }
+.dl-over { color:var(--gray-400); text-decoration:line-through; }
+.dl-none { color:var(--gray-400); }
+.tags { display:flex; flex-wrap:wrap; gap:5px; margin-top:9px; }
+.tag { display:inline-block; padding:1px 8px; border-radius:4px; font-size:11px; font-weight:600; line-height:1.7; white-space:nowrap; }
+.tag-formal { background:var(--success-bg); color:var(--success); }
+.tag-contract { background:var(--gray-100); color:var(--gray-600); }
+.tag-stage { background:var(--primary-light); color:var(--primary); }
+.tag-num { background:var(--purple-bg); color:var(--purple); }
+.tag-edu { background:var(--gray-100); color:var(--gray-600); }
+.major-line { margin-top:8px; font-size:12px; color:var(--gray-500);
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.match-hint { margin-top:6px; font-size:11px; color:var(--warning); }
+.card-bottom { display:flex; justify-content:space-between; align-items:center; margin-top:10px; padding-top:9px; border-top:1px dashed var(--gray-100); }
+.ann-src { font-size:11px; color:var(--gray-400); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:75%; }
+.view-link { font-size:12px; color:var(--primary); font-weight:600; flex-shrink:0; }
+.view-link:hover { text-decoration:underline; }
+
+.empty-state { padding:72px 20px; text-align:center; color:var(--gray-500); }
+.empty-tip { margin-top:6px; font-size:12px; color:var(--gray-400); }
+
+/* 分页 */
+.pagination { display:flex; align-items:center; justify-content:space-between; gap:8px; flex-wrap:wrap;
+  padding:14px 4px; }
+.page-info { font-size:13px; color:var(--gray-500); }
+.page-btns { display:flex; gap:4px; }
+.page-btn { min-width:32px; height:32px; border:1px solid var(--gray-200); border-radius:var(--radius-sm);
+  background:#fff; color:var(--gray-600); font-size:13px; display:flex; align-items:center; justify-content:center; }
+.page-btn:hover { border-color:var(--primary); color:var(--primary); }
+.page-btn.active { background:var(--primary); color:#fff; border-color:var(--primary); }
+.page-btn:disabled { opacity:.4; cursor:not-allowed; }
+
+/* 弹窗 */
+.mask { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:199; }
+.mask.show { display:block; }
+.modal { display:none; position:fixed; left:50%; top:50%; transform:translate(-50%,-50%); z-index:200;
+  width:min(640px,92vw); max-height:86vh; overflow:auto; background:#fff; border-radius:var(--radius-lg);
+  padding:24px 26px; box-shadow:0 12px 40px rgba(0,0,0,.18); }
+.modal.show { display:block; }
+.m-close { position:absolute; right:14px; top:10px; font-size:22px; color:var(--gray-400); background:none; border:none; }
+.m-close:hover { color:var(--gray-800); }
+.modal h2 { font-size:19px; color:var(--gray-900); margin-bottom:2px; padding-right:30px; }
+.m-school { color:var(--gray-500); font-size:13px; margin-bottom:12px; }
+.m-row { display:flex; padding:8px 0; border-bottom:1px solid var(--gray-100); font-size:13px; }
+.m-row .k { width:88px; flex-shrink:0; color:var(--gray-400); }
+.m-row .v { flex:1; line-height:1.7; color:var(--gray-700); word-break:break-word; }
+.m-actions { margin-top:18px; text-align:center; }
+.btn-primary { display:inline-block; padding:10px 26px; background:var(--primary); color:#fff; border-radius:var(--radius-sm); font-size:14px; font-weight:600; }
+.btn-primary:hover { background:var(--primary-dark); }
+.m-ann { margin-top:12px; font-size:11px; color:var(--gray-400); line-height:1.6; text-align:center; word-break:break-all; }
+
+.footer { text-align:center; padding:10px 16px 32px; font-size:12px; color:var(--gray-400); line-height:1.9; }
+
+/* ===== 收藏星标 & 收藏栏 ===== */
+.card { position:relative; }
+.card-top { padding-right:24px; }
+.fav-star { position:absolute; top:10px; right:10px; background:none; border:none;
+  font-size:17px; line-height:1; color:var(--gray-300); padding:4px; transition:color .15s, transform .1s; }
+.fav-star:hover { color:#f59e0b; transform:scale(1.2); }
+.fav-star.active { color:#f59e0b; }
+.fav-tab { position:fixed; right:0; top:50%; transform:translateY(-50%); z-index:150;
+  background:var(--primary); color:#fff; border:none; border-radius:8px 0 0 8px;
+  padding:16px 8px; font-size:13px; writing-mode:vertical-lr; letter-spacing:2px;
+  box-shadow:0 4px 12px rgba(0,0,0,.15); }
+.fav-tab:hover { background:var(--primary-dark); }
+.fav-tab .fav-count { background:#fff; color:var(--primary); border-radius:999px;
+  padding:1px 7px; margin-top:8px; font-size:12px; letter-spacing:0; }
+.fav-panel { position:fixed; top:0; right:-360px; width:320px; height:100vh; background:#fff;
+  box-shadow:-4px 0 16px rgba(0,0,0,.12); z-index:300; transition:right .25s ease;
+  display:flex; flex-direction:column; }
+.fav-panel.open { right:0; }
+.fav-panel-header { display:flex; align-items:center; justify-content:space-between;
+  padding:14px 18px; border-bottom:1px solid var(--gray-200); font-size:15px; font-weight:600; }
+.fav-panel-close { background:none; border:none; font-size:16px; color:var(--gray-500); }
+.fav-panel-list { flex:1; overflow-y:auto; padding:12px; }
+.fav-item { border:1px solid var(--gray-200); border-radius:var(--radius); padding:12px; margin-bottom:8px; cursor:pointer; }
+.fav-item:hover { border-color:var(--primary); background:var(--primary-light); }
+.fav-item-title { font-size:13px; font-weight:600; color:var(--gray-800); }
+.fav-item-meta { display:flex; align-items:center; justify-content:space-between; margin-top:6px; font-size:12px; }
+.fav-item-remove { background:none; border:none; color:var(--gray-400); font-size:13px; padding:2px 6px; }
+.fav-item-remove:hover { color:#dc2626; }
+.fav-empty { text-align:center; color:var(--gray-400); padding:60px 20px; font-size:13px; line-height:2; }
+
+@media (max-width:768px) {
+  .navbar { padding:0 12px; }
+  .nav-note { display:none; }
+  .container { padding:12px; }
+  .filter-card { padding:14px; }
+  .filter-row { flex-direction:column; gap:6px; }
+  .filter-label { min-width:auto; text-align:left; font-size:12px; }
+  .grid { grid-template-columns:1fr; }
+  .stats-actions { width:100%; justify-content:space-between; }
+  .modal { padding:18px; }
+}
+</style>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="nav-brand">
+    <div class="logo">粤</div>
+    <span>粤教职圈</span>
+    <span class="nav-note">广东教师招聘职位库 · 只收录官方公告岗位</span>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="filter-card">
+    <div class="search-row">
+      <input type="text" class="search-input" id="kw" placeholder="搜学校 / 岗位 / 岗位代码 / 专业，如：广雅、语文、1-1">
+      <button class="search-btn" onclick="doSearch()">搜索</button>
+    </div>
+    <div class="filter-row"><span class="filter-label">城市</span><div class="filter-tags" id="cityTags"></div></div>
+    <div class="filter-row"><span class="filter-label">学段</span><div class="filter-tags" id="stageTags"></div></div>
+    <div class="filter-row"><span class="filter-label">编制性质</span><div class="filter-tags" id="estTags"></div></div>
+    <div class="filter-row"><span class="filter-label">学历要求</span><div class="filter-tags" id="eduTags"></div></div>
+  </div>
+
+  <div class="stats-bar">
+    <span>共找到 <strong id="totalCount">0</strong> 个职位 · 来自 <strong id="annCount">0</strong> 份官方公告</span>
+    <div class="stats-actions">
+      <select class="sort-select" id="fSort" onchange="onSort()">
+        <option value="">默认排序</option>
+        <option value="num">招聘人数多→少</option>
+        <option value="deadline">截止日期近→远</option>
+      </select>
+      <button class="export-btn" onclick="exportJobs()">⤓ 下载职位表</button>
+    </div>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty" style="display:none">
+    <div style="font-size:34px;opacity:.55;margin-bottom:10px;">🔍</div>
+    <div>没有符合条件的职位</div>
+    <div class="empty-tip">换个关键词，或点筛选标签里的「全部」重置</div>
+  </div>
+
+  <div class="pagination">
+    <div class="page-info" id="pageInfo"></div>
+    <div class="page-btns" id="pageBtns"></div>
+  </div>
+
+</div>
+
+<div class="footer">
+  全部职位信息来自各地教育局 / 学校官方网站发布的招聘公告，本站只做整理聚合，报名请以官方公告为准。<br>
+  粤教职圈 · 数据持续更新中
+</div>
+
+<button class="fav-tab" id="favTab" onclick="toggleFavPanel()">收藏<span class="fav-count" id="favCount">0</span></button>
+<div class="fav-panel" id="favPanel">
+  <div class="fav-panel-header"><span>我的收藏</span><button class="fav-panel-close" onclick="toggleFavPanel()">✕</button></div>
+  <div class="fav-panel-list" id="favList"></div>
+</div>
+
+<div class="mask" id="mask"></div>
+<div class="modal" id="modal">
+  <button class="m-close" id="mClose">×</button>
+  <h2 id="mJob"></h2>
+  <div class="m-school" id="mSchool"></div>
+  <div id="mRows"></div>
+  <div class="m-actions"><a class="btn-primary" id="mLink" href="#" target="_blank" rel="noopener">查看官方公告原文 ↗</a></div>
+  <div class="m-ann" id="mAnn"></div>
+</div>
+
+<script src="data.js"></script>
+<script>
+var DATA = (window.POSITIONS || []).map(function(p){
+  p.edu = (p.edu || '').replace(/\s+/g, '');   // 清掉"本科及以 上"里的空格
+  return p;
+});
+
+var state = { kw:'', city:'全部', stage:'全部', est:'全部', edu:'全部', sort:'', page:1, pageSize:20 };
+
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
+function uniq(arr){ var r=[]; arr.forEach(function(v){ if(v && r.indexOf(v)<0) r.push(v); }); return r; }
+
+/* ===== 筛选标签 ===== */
+function buildTags(){
+  renderTags('cityTags',  ['全部'].concat(uniq(DATA.map(function(p){return p.city;}).filter(Boolean).sort(function(a,b){return a.localeCompare(b,'zh');}))), 'city');
+  renderTags('stageTags', ['全部'].concat(uniq(DATA.map(function(p){return p.stage;}).filter(Boolean).sort())), 'stage');
+  renderTags('estTags',   ['全部'].concat(uniq(DATA.map(function(p){return p.establishment;}).filter(Boolean).sort())), 'est');
+  renderTags('eduTags',   ['全部'].concat(uniq(DATA.map(function(p){return p.edu;}).filter(Boolean).sort())), 'edu');
+}
+function renderTags(id, options, key){
+  document.getElementById(id).innerHTML = options.map(function(opt){
+    return '<span class="filter-tag' + (state[key]===opt?' active':'') + '" onclick="setFilter(\''+key+'\',\''+esc(opt)+'\')">'+esc(opt)+'</span>';
+  }).join('');
+}
+function setFilter(key, value){ state[key]=value; state.page=1; buildTags(); render(); }
+function doSearch(){ state.kw=document.getElementById('kw').value.trim(); state.page=1; render(); }
+function onSort(){ state.sort=document.getElementById('fSort').value; state.page=1; render(); }
+document.getElementById('kw').addEventListener('input', function(){ state.kw=this.value.trim(); state.page=1; render(); });
+
+/* ===== 筛选 ===== */
+function getFiltered(){
+  var kw = state.kw.toLowerCase();
+  var list = DATA.filter(function(p){
+    if(state.city!=='全部' && p.city!==state.city) return false;
+    if(state.stage!=='全部' && p.stage!==state.stage) return false;
+    if(state.est!=='全部' && p.establishment!==state.est) return false;
+    if(state.edu!=='全部' && p.edu!==state.edu) return false;
+    if(kw){
+      var hay = (p.school+' '+p.job+' '+(p.code||'')+' '+p.major+' '+p.annTitle).toLowerCase();
+      if(hay.indexOf(kw)<0) return false;
+    }
+    return true;
+  });
+  if(state.sort==='num'){
+    list = list.slice().sort(function(a,b){ return (parseInt(b.num)||0)-(parseInt(a.num)||0); });
+  }else if(state.sort==='deadline'){
+    list = list.slice().sort(function(a,b){
+      if(!a.deadline && !b.deadline) return 0;
+      if(!a.deadline) return 1;
+      if(!b.deadline) return -1;
+      return a.deadline < b.deadline ? -1 : 1;
+    });
+  }
+  return list;
+}
+
+/* 关键词只命中了专业/公告标题时，给个提示，避免"搜的和看到的不一致" */
+function matchHint(p){
+  var kw = state.kw.toLowerCase();
+  if(!kw) return '';
+  var direct = (p.school+' '+p.job+' '+(p.code||'')).toLowerCase();
+  if(direct.indexOf(kw)>=0) return '';
+  if((p.major||'').toLowerCase().indexOf(kw)>=0) return '按「专业要求」匹配到';
+  return '按「公告标题」匹配到';
+}
+
+function deadlineInfo(p){
+  if(!p.deadline) return {cls:'dl-none', text:'截止详见公告'};
+  var d = new Date(p.deadline);
+  if(isNaN(d)) return {cls:'dl-none', text:'截止 '+p.deadline};
+  var days = (d - new Date()) / 86400000;
+  if(days < 0) return {cls:'dl-over', text:'已截止 '+p.deadline};
+  if(days <= 7) return {cls:'dl-soon', text:p.deadline+'（剩'+Math.ceil(days)+'天）'};
+  return {cls:'dl-ok', text:'截止 '+p.deadline};
+}
+
+/* ===== 渲染 ===== */
+var lastList = [];
+function render(){
+  var list = getFiltered();
+  lastList = list;
+  document.getElementById('totalCount').textContent = list.length;
+  document.getElementById('annCount').textContent = uniq(list.map(function(p){return p.sourceUrl;})).length;
+
+  var totalPages = Math.ceil(list.length / state.pageSize) || 1;
+  if(state.page > totalPages) state.page = totalPages;
+  var pageData = list.slice((state.page-1)*state.pageSize, state.page*state.pageSize);
+
+  document.getElementById('grid').innerHTML = pageData.map(function(p){
+    var dl = deadlineInfo(p);
+    var hint = matchHint(p);
+    return '<div class="card" data-idx="'+DATA.indexOf(p)+'">'
+      + '<button class="fav-star'+(isFav(p.id)?' active':'')+'" data-fav="'+p.id+'" title="'+(isFav(p.id)?'取消收藏':'收藏')+'">'+(isFav(p.id)?'★':'☆')+'</button>'
+      + '<div class="card-top"><div style="min-width:0;">'
+      +   '<div class="job-title">'+esc(p.job)+(p.code?'<span class="code">'+esc(p.code)+'</span>':'')+'</div>'
+      +   '<div class="school">'+esc(p.school)+' · '+esc(p.city||'详见公告')+'</div>'
+      + '</div><div class="dl '+dl.cls+'">'+esc(dl.text)+'</div></div>'
+      + '<div class="tags">'
+      +   (p.establishment ? '<span class="tag '+(p.establishment==='正式编'?'tag-formal':'tag-contract')+'">'+esc(p.establishment)+'</span>' : '')
+      +   (p.stage ? '<span class="tag tag-stage">'+esc(p.stage)+'</span>' : '')
+      +   (p.num ? '<span class="tag tag-num">招 '+esc(p.num)+' 人</span>' : '')
+      +   (p.edu ? '<span class="tag tag-edu">'+esc(p.edu)+'</span>' : '')
+      + '</div>'
+      + (p.major ? '<div class="major-line">专业：'+esc(p.major)+'</div>' : '')
+      + (hint ? '<div class="match-hint">'+hint+'</div>' : '')
+      + '<div class="card-bottom">'
+      +   '<div class="ann-src">'+esc(p.annTitle)+'</div>'
+      +   '<a class="view-link" href="'+esc(p.sourceUrl)+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">官方原文 ↗</a>'
+      + '</div></div>';
+  }).join('');
+
+  document.getElementById('empty').style.display = pageData.length ? 'none' : 'block';
+  Array.prototype.forEach.call(document.querySelectorAll('.card'), function(el){
+    el.addEventListener('click', function(){ openModal(parseInt(el.getAttribute('data-idx'))); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('[data-fav]'), function(el){
+    el.addEventListener('click', function(e){ e.stopPropagation(); toggleFav(parseInt(el.getAttribute('data-fav'))); });
+  });
+
+  /* 分页 */
+  document.getElementById('pageInfo').textContent = '第 '+state.page+' / '+totalPages+' 页';
+  var btns = '<button class="page-btn" onclick="goPage('+(state.page-1)+')"'+(state.page<=1?' disabled':'')+'>上一页</button>';
+  for(var i=1;i<=totalPages;i++){
+    if(i===1 || i===totalPages || Math.abs(i-state.page)<=1){
+      btns += '<button class="page-btn'+(i===state.page?' active':'')+'" onclick="goPage('+i+')">'+i+'</button>';
+    }else if(Math.abs(i-state.page)===2){
+      btns += '<span style="padding:0 4px;color:var(--gray-400);">…</span>';
+    }
+  }
+  btns += '<button class="page-btn" onclick="goPage('+(state.page+1)+')"'+(state.page>=totalPages?' disabled':'')+'>下一页</button>';
+  document.getElementById('pageBtns').innerHTML = btns;
+}
+function goPage(p){ state.page=p; render(); window.scrollTo({top:0, behavior:'smooth'}); }
+
+/* ===== 弹窗 ===== */
+function row(k,v){ return v ? '<div class="m-row"><div class="k">'+k+'</div><div class="v">'+esc(v)+'</div></div>' : ''; }
+function openModal(idx){
+  var p = DATA[idx];
+  document.getElementById('mJob').textContent = p.job + (p.code ? '（岗位代码 '+p.code+'）' : '');
+  document.getElementById('mSchool').textContent = p.school + ' · ' + (p.city || '详见公告');
+  document.getElementById('mRows').innerHTML =
+      row('招聘人数', p.num && p.num+' 人')
+    + row('学段', p.stage)
+    + row('学历要求', p.edu)
+    + row('学位要求', p.degree)
+    + row('专业要求', p.major)
+    + row('编制性质', p.establishment)
+    + row('工作地点', p.city)
+    + row('报名截止', p.deadline)
+    + row('其他说明', p.other);
+  document.getElementById('mLink').href = p.sourceUrl;
+  document.getElementById('mAnn').textContent = '来源公告：' + p.annTitle;
+  document.getElementById('mask').className = 'mask show';
+  document.getElementById('modal').className = 'modal show';
+}
+function closeModal(){
+  document.getElementById('mask').className = 'mask';
+  document.getElementById('modal').className = 'modal';
+}
+document.getElementById('mask').addEventListener('click', closeModal);
+document.getElementById('mClose').addEventListener('click', closeModal);
+
+/* ===== 下载职位表（真 Excel 格式 .xls，代码/日期列强制文本，WPS 不会乱猜）===== */
+function exportJobs(){
+  if(!lastList.length){ alert('当前没有职位可以导出，请先调整筛选条件'); return; }
+  var head = ['城市','学校','岗位','岗位代码','招聘人数','学段','编制性质','学历要求','学位要求','专业要求','其他说明','报名截止','来源公告','原文链接'];
+  var txtCols = {3:1, 4:1, 11:1};  // 岗位代码、招聘人数、报名截止 强制按文本，防变日期/科学计数
+  function cell(v, forceTxt){
+    return '<td' + (forceTxt ? ' style="mso-number-format:\'\\@\'"' : '') + '>' + esc(v==null?'':v) + '</td>';
+  }
+  var bodyRows = lastList.map(function(p){
+    var vals = [p.city, p.school, p.job, p.code, p.num, p.stage, p.establishment, p.edu, p.degree, p.major, p.other, p.deadline, p.annTitle, p.sourceUrl];
+    return '<tr>' + vals.map(function(v,i){ return cell(v, txtCols[i]); }).join('') + '</tr>';
+  }).join('');
+  var html = '<html xmlns:x="urn:schemas-microsoft-com:office:excel"><head><meta charset="utf-8"></head><body>'
+    + '<table border="1"><tr>' + head.map(function(h){ return '<th>'+h+'</th>'; }).join('') + '</tr>'
+    + bodyRows + '</table></body></html>';
+  var blob = new Blob(['﻿'+html], {type:'application/vnd.ms-excel'});
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = '粤教职圈-职位列表-' + new Date().toISOString().slice(0,10) + '.xls';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  setTimeout(function(){ URL.revokeObjectURL(a.href); }, 1000);
+}
+
+/* ===== 收藏（存浏览器本地，关掉网页也记得）===== */
+var FAV_KEY = 'yjzq_favs';
+var favIds = [];
+try { favIds = JSON.parse(localStorage.getItem(FAV_KEY) || '[]'); } catch(e){}
+function isFav(id){ return favIds.indexOf(id) >= 0; }
+function toggleFav(id){
+  if(isFav(id)){ favIds = favIds.filter(function(x){ return x!==id; }); }
+  else { favIds.unshift(id); }
+  try { localStorage.setItem(FAV_KEY, JSON.stringify(favIds)); } catch(e){}
+  render(); renderFavPanel();
+}
+function toggleFavPanel(){ document.getElementById('favPanel').classList.toggle('open'); }
+function renderFavPanel(){
+  document.getElementById('favCount').textContent = favIds.length;
+  var box = document.getElementById('favList');
+  var favs = favIds.map(function(id){
+    return DATA.find(function(p){ return p.id===id; });
+  }).filter(Boolean);
+  if(!favs.length){
+    box.innerHTML = '<div class="fav-empty">还没有收藏职位<br>点职位卡片右上角的 ☆ 即可收藏</div>';
+    return;
+  }
+  box.innerHTML = favs.map(function(p){
+    var dl = deadlineInfo(p);
+    return '<div class="fav-item" data-idx="'+DATA.indexOf(p)+'">'
+      + '<div class="fav-item-title">'+esc(p.job)+'<br><span style="font-weight:400;color:var(--gray-500);font-size:12px;">'+esc(p.school)+'</span></div>'
+      + '<div class="fav-item-meta"><span class="'+dl.cls+'">'+esc(dl.text)+'</span>'
+      + '<button class="fav-item-remove" data-remove="'+p.id+'">✕</button></div></div>';
+  }).join('');
+  Array.prototype.forEach.call(box.querySelectorAll('.fav-item'), function(el){
+    el.addEventListener('click', function(){ openModal(parseInt(el.getAttribute('data-idx'))); });
+  });
+  Array.prototype.forEach.call(box.querySelectorAll('[data-remove]'), function(el){
+    el.addEventListener('click', function(e){ e.stopPropagation(); toggleFav(parseInt(el.getAttribute('data-remove'))); });
+  });
+}
+
+buildTags();
+render();
+renderFavPanel();
+</script>
+</body>
+</html>
