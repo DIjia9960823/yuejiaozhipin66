@@ -189,6 +189,7 @@ button { cursor:pointer; font-family:inherit; }
     <div class="filter-row"><span class="filter-label">学段</span><div class="filter-tags" id="stageTags"></div></div>
     <div class="filter-row"><span class="filter-label">编制性质</span><div class="filter-tags" id="estTags"></div></div>
     <div class="filter-row"><span class="filter-label">学历要求</span><div class="filter-tags" id="eduTags"></div></div>
+    <div class="filter-row"><span class="filter-label">截止状态</span><div class="filter-tags" id="statusTags"></div></div>
   </div>
 
   <div class="stats-bar">
@@ -197,7 +198,9 @@ button { cursor:pointer; font-family:inherit; }
       <select class="sort-select" id="fSort" onchange="onSort()">
         <option value="">默认排序</option>
         <option value="num">招聘人数多→少</option>
+        <option value="numAsc">招聘人数少→多</option>
         <option value="deadline">截止日期近→远</option>
+        <option value="deadlineDesc">截止日期远→近</option>
       </select>
       <button class="export-btn" onclick="exportJobs()">⤓ 下载职位表</button>
     </div>
@@ -245,7 +248,7 @@ var DATA = (window.POSITIONS || []).map(function(p){
   return p;
 });
 
-var state = { kw:'', city:'全部', stage:'全部', est:'全部', edu:'全部', sort:'', page:1, pageSize:20 };
+var state = { kw:'', city:'全部', stage:'全部', est:'全部', edu:'全部', status:'报名中', sort:'', page:1, pageSize:20 };
 
 function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
 function uniq(arr){ var r=[]; arr.forEach(function(v){ if(v && r.indexOf(v)<0) r.push(v); }); return r; }
@@ -259,6 +262,8 @@ var STAGE_ORDER = ['高校','高职','中职','中学','小学','幼儿园','未
 var EST_ORDER = ['正式编','合同制','未标明'];
 // 学历优先级（从高到低）
 var EDU_ORDER = ['博士','硕士','本科','大专','未标明'];
+// 截止状态优先级
+var STATUS_ORDER = ['报名中','已截止','未标明'];
 
 function _sortByOrder(arr, order){
   var idx = {}; order.forEach(function(v,i){ idx[v]=i; });
@@ -275,6 +280,7 @@ function buildTags(){
   renderTags('stageTags', ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.stage;}).filter(Boolean)), STAGE_ORDER)), 'stage');
   renderTags('estTags',   ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.establishment;}).filter(Boolean)), EST_ORDER)), 'est');
   renderTags('eduTags',   ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.edu;}).filter(Boolean)), EDU_ORDER)), 'edu');
+  renderTags('statusTags',['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return deadlineStatus(p);})), STATUS_ORDER)), 'status');
 }
 function renderTags(id, options, key){
   document.getElementById(id).innerHTML = options.map(function(opt){
@@ -286,6 +292,16 @@ function doSearch(){ state.kw=document.getElementById('kw').value.trim(); state.
 function onSort(){ state.sort=document.getElementById('fSort').value; state.page=1; render(); }
 document.getElementById('kw').addEventListener('input', function(){ state.kw=this.value.trim(); state.page=1; render(); });
 
+/* 截止状态：报名中 / 已截止 / 未标明 */
+function deadlineStatus(p){
+  var dl = (p.deadline||'').trim();
+  if(!dl) return '未标明';
+  if(!/^\d{4}-\d{2}-\d{2}/.test(dl)) return '未标明';
+  var d = new Date();
+  var today = d.getFullYear()+'-'+('0'+(d.getMonth()+1)).slice(-2)+'-'+('0'+d.getDate()).slice(-2);
+  return dl.slice(0,10) < today ? '已截止' : '报名中';
+}
+
 /* ===== 筛选 ===== */
 function getFiltered(){
   var kw = state.kw.toLowerCase();
@@ -294,6 +310,7 @@ function getFiltered(){
     if(state.stage!=='全部' && p.stage!==state.stage) return false;
     if(state.est!=='全部' && p.establishment!==state.est) return false;
     if(state.edu!=='全部' && p.edu!==state.edu) return false;
+    if(state.status!=='全部' && deadlineStatus(p)!==state.status) return false;
     if(kw){
       var hay = (p.school+' '+p.job+' '+(p.code||'')+' '+p.major+' '+p.annTitle).toLowerCase();
       if(hay.indexOf(kw)<0) return false;
@@ -302,12 +319,21 @@ function getFiltered(){
   });
   if(state.sort==='num'){
     list = list.slice().sort(function(a,b){ return (parseInt(b.num)||0)-(parseInt(a.num)||0); });
+  }else if(state.sort==='numAsc'){
+    list = list.slice().sort(function(a,b){ return (parseInt(a.num)||0)-(parseInt(b.num)||0); });
   }else if(state.sort==='deadline'){
     list = list.slice().sort(function(a,b){
       if(!a.deadline && !b.deadline) return 0;
       if(!a.deadline) return 1;
       if(!b.deadline) return -1;
       return a.deadline < b.deadline ? -1 : 1;
+    });
+  }else if(state.sort==='deadlineDesc'){
+    list = list.slice().sort(function(a,b){
+      if(!a.deadline && !b.deadline) return 0;
+      if(!a.deadline) return 1;
+      if(!b.deadline) return -1;
+      return a.deadline > b.deadline ? -1 : 1;
     });
   }
   return list;
