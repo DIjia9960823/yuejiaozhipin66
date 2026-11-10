@@ -251,11 +251,30 @@ function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){retu
 function uniq(arr){ var r=[]; arr.forEach(function(v){ if(v && r.indexOf(v)<0) r.push(v); }); return r; }
 
 /* ===== 筛选标签 ===== */
+// 广东省车牌官方顺序（粤A→粤W）
+var GD_CITIES = ['广州','深圳','珠海','汕头','佛山','韶关','湛江','肇庆','江门','茂名','惠州','梅州','汕尾','河源','阳江','清远','东莞','中山','潮州','揭阳','云浮'];
+// 学段优先级（从高到低）
+var STAGE_ORDER = ['高校','高职','中职','中学','小学','幼儿园','未标明'];
+// 编制优先级
+var EST_ORDER = ['正式编','合同制','未标明'];
+// 学历优先级（从高到低）
+var EDU_ORDER = ['博士','硕士','本科','大专','未标明'];
+
+function _sortByOrder(arr, order){
+  var idx = {}; order.forEach(function(v,i){ idx[v]=i; });
+  return arr.slice().sort(function(a,b){
+    var ai = idx[a]==null ? 999 : idx[a];
+    var bi = idx[b]==null ? 999 : idx[b];
+    if(ai!==bi) return ai-bi;
+    return (a||'').localeCompare(b||'','zh');
+  });
+}
+
 function buildTags(){
-  renderTags('cityTags',  ['全部'].concat(uniq(DATA.map(function(p){return p.city;}).filter(Boolean).sort(function(a,b){return a.localeCompare(b,'zh');}))), 'city');
-  renderTags('stageTags', ['全部'].concat(uniq(DATA.map(function(p){return p.stage;}).filter(Boolean).sort())), 'stage');
-  renderTags('estTags',   ['全部'].concat(uniq(DATA.map(function(p){return p.establishment;}).filter(Boolean).sort())), 'est');
-  renderTags('eduTags',   ['全部'].concat(uniq(DATA.map(function(p){return p.edu;}).filter(Boolean).sort())), 'edu');
+  renderTags('cityTags',  ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.city;}).filter(Boolean)), GD_CITIES)), 'city');
+  renderTags('stageTags', ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.stage;}).filter(Boolean)), STAGE_ORDER)), 'stage');
+  renderTags('estTags',   ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.establishment;}).filter(Boolean)), EST_ORDER)), 'est');
+  renderTags('eduTags',   ['全部'].concat(_sortByOrder(uniq(DATA.map(function(p){return p.edu;}).filter(Boolean)), EDU_ORDER)), 'edu');
 }
 function renderTags(id, options, key){
   document.getElementById(id).innerHTML = options.map(function(opt){
