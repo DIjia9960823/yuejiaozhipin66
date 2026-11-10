@@ -199,7 +199,22 @@ def main():
     pos = sort_by_plate_order(pos)
 
     out = "window.POSITIONS=" + json.dumps(pos, ensure_ascii=False, separators=(",", ":")) + ";"
-    open(DATA_JS, "w", encoding="utf-8").write(out)
+    import time, tempfile
+    backup = os.path.join(tempfile.gettempdir(), "data.js")
+    with open(backup, "w", encoding="utf-8") as f:
+        f.write(out)
+    tmp = DATA_JS + ".tmp"
+    for i in range(15):
+        try:
+            with open(tmp, "w", encoding="utf-8") as f:
+                f.write(out)
+            os.replace(tmp, DATA_JS)
+            break
+        except PermissionError:
+            if i == 14:
+                raise
+            print(f"  data.js 被占用，3秒后重试 ({i+1}/15)...")
+            time.sleep(3)
 
     print(f"\n✅ 归一化完成: {before} → {len(pos)} 条（去重 {before - len(pos)}）")
     print(f"\n📊 万行顺序城市分布：")
