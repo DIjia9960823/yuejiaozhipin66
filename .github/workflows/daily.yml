@@ -40,6 +40,12 @@ jobs:
           timeout 300 python offcn.py || true   # 5 分钟上限
           echo "=== after offcn: $(wc -c < data_anns.js) bytes ==="
 
+      - name: 🏛️ Crawl supplementary source (qgsydw/全国事业单位招聘网)
+        run: |
+          cd crawler
+          timeout 300 python sydw.py || true   # 5 分钟上限
+          echo "=== after sydw: $(wc -c < data_anns.js) bytes ==="
+
       - name: 📋 Parse job positions from attachments
         run: |
           cd tools
