@@ -329,32 +329,25 @@ def main():
         time.sleep(0.3)
 
     if added:
-        import tempfile
-        added_file = os.path.join(tempfile.gettempdir(), "sydw_added.json")
-        with open(added_file, "w", encoding="utf-8") as f:
-            json.dump(added, f, ensure_ascii=False, indent=2)
-        log("    已暂存 %d 条到 %s" % (len(added), added_file))
-        merged = existing + added
-        new_json = json.dumps(merged, ensure_ascii=False, indent=2)
-        out = raw[:m.start(1)] + new_json + raw[m.end(1):]
-        tmp = OUT_FILE + ".tmp"
-        for attempt in range(5):
-            try:
-                with open(tmp, "w", encoding="utf-8") as f:
-                    f.write(out)
-                os.replace(tmp, OUT_FILE)
-                break
-            except PermissionError:
-                if attempt < 4:
-                    log("    写文件被锁，第 %d 次重试..." % (attempt + 1))
-                    time.sleep(3)
-                else:
-                    raise
+        # 全国事业单位招聘网是第三方，只当"发现渠道"：写发现清单，不碰 data_anns.js。
+        disc = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "discovered_sydw.json")
+        try:
+            old_list = json.load(open(disc, encoding="utf-8"))
+        except Exception:
+            old_list = []
+        seen_urls = {x.get("sourceUrl") for x in old_list}
+        for a in added:
+            if a.get("sourceUrl") not in seen_urls:
+                old_list.append(a)
+        with open(disc, "w", encoding="utf-8") as f:
+            json.dump(old_list, f, ensure_ascii=False, indent=1)
+        log("    发现 %d 条，已写入 discovered_sydw.json（不入库，等反推官方原文）" % len(added))
 
     log("-" * 56)
-    log("扫到广东公告 %d 条，新增 %d 条，已存在跳过 %d 条，过期跳过 %d 条"
+    log("扫到广东公告 %d 条，发现 %d 条，已存在跳过 %d 条，过期跳过 %d 条"
         % (scanned_gd, len(added), dup, old))
-    log("data_anns.js 现在共 %d 条公告" % (len(existing) + len(added)))
+    log("⛔ 第三方数据不入库，data_anns.js 未改动（共 %d 条官方公告）" % len(existing))
     log("耗时 %.1f 秒" % (datetime.now() - start).total_seconds())
 
 
