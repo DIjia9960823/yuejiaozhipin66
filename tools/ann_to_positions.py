@@ -71,10 +71,17 @@ def ann_to_position(ann):
 
 
 def main():
+    from official_rule import is_official
     positions = json.load(open(os.path.join(BASE, "positions_out.json"), encoding="utf-8"))
+
+    # 闸门：拆出来的职位也必须是官方原文，第三方的一律不留
+    before = len(positions)
+    positions = [p for p in positions if is_official(p.get("sourceUrl", ""))]
+    if before != len(positions):
+        print(f"⛔ 岗位表职位里拦截第三方 {before - len(positions)} 条")
     covered = set(p["sourceUrl"] for p in positions)
 
-    anns = load_announcements()  # 含官方 + 第三方转载（来源已如实标注）
+    anns = load_announcements()  # load_announcements 已只返回官方原文
 
     todo, seen = [], set()
     for a in anns:
@@ -85,16 +92,14 @@ def main():
         todo.append(a)
     print(f"已有职位覆盖 {len(covered)} 份公告；待转公告级职位 {len(todo)} 份")
 
-    # 检查链接死活，死链不上线。第三方转载源（来源含「转载」）抓取时已成功打开，跳过检查。
+    # 检查链接死活，死链不上线
     dead = []
-    check_todo = [a for a in todo if "转载" not in a.get("source", "")]
-    skip_todo = [a for a in todo if "转载" in a.get("source", "")]
     with ThreadPoolExecutor(8) as ex:
-        for a, ok in zip(check_todo, ex.map(lambda x: alive(x["sourceUrl"]), check_todo)):
+        for a, ok in zip(todo, ex.map(lambda x: alive(x["sourceUrl"]), todo)):
             if not ok:
                 dead.append({"title": a["title"], "sourceUrl": a["sourceUrl"]})
     live = [a for a in todo if all(a["sourceUrl"] != d["sourceUrl"] for d in dead)]
-    print(f"链接打不开的 {len(dead)} 份（已跳过，存 skipped_dead.json）；转载源免检查 {len(skip_todo)} 份")
+    print(f"链接打不开的 {len(dead)} 份（已跳过，存 skipped_dead.json）")
 
     new_positions = [ann_to_position(a) for a in live]
     all_positions = positions + new_positions
