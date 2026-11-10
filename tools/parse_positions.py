@@ -421,26 +421,36 @@ def fix_city(school, ann_title, ann_city):
     return c if c in GD_CITIES else ""
 
 
-def dump_json(obj, path, tries=6):
-    """写 JSON，被别的程序（如 WPS）临时占用时自动重试"""
-    import time
+def dump_json(obj, path, tries=15):
+    """写 JSON，被别的程序（如 WPS/杀毒）临时占用时自动重试。
+    先写 .tmp 再 os.replace，比直接覆盖更不容易被锁。"""
+    import time, tempfile
+    # 先在系统临时目录存一份保底，防止写项目目录失败导致数据全丢
+    backup = os.path.join(tempfile.gettempdir(), os.path.basename(path))
+    json.dump(obj, open(backup, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    tmp = path + ".tmp"
     for i in range(tries):
         try:
-            json.dump(obj, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            json.dump(obj, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            os.replace(tmp, path)
             return
         except PermissionError:
             if i == tries - 1:
                 raise
-            print(f"  {os.path.basename(path)} 被占用，2秒后重试 ({i+1}/{tries})...")
-            time.sleep(2)
+            print(f"  {os.path.basename(path)} 被占用，3秒后重试 ({i+1}/{tries})...")
+            time.sleep(3)
 
 
 def main():
     anns = load_announcements()
-    print(f"可见公告 {len(anns)} 条，开始拆职位...")
+    # 第三方转载页（万行/公考雷达等）不会有官方岗位表附件，跳过附件解析，
+    # 它们会在 ann_to_positions.py 里转成公告级职位。
+    official = [a for a in anns if "转载" not in a.get("source", "")]
+    third_party = len(anns) - len(official)
+    print(f"可见公告 {len(anns)} 条（官方 {len(official)} / 转载 {third_party}），开始拆职位...")
     positions, skipped = [], []
     with ThreadPoolExecutor(6) as ex:
-        for ann, (pos, reason) in zip(anns, ex.map(process, anns)):
+        for ann, (pos, reason) in zip(official, ex.map(process, official)):
             if pos:
                 positions += pos
                 print(f"  [OK {len(pos):>4}] {ann['title'][:38]} -> {len(pos)} 条职位")
@@ -453,7 +463,7 @@ def main():
         p["id"] = i
     dump_json(positions, os.path.join(BASE, "positions_out.json"))
     dump_json(skipped, os.path.join(BASE, "skipped_out.json"))
-    print(f"\n完成：{len(positions)} 条职位（来自 {len(anns)-len(skipped)} 份公告），跳过 {len(skipped)} 份")
+    print(f"\n完成：{len(positions)} 条职位（来自 {len(official)-len(skipped)} 份公告），跳过 {len(skipped)} 份")
 
 
 if __name__ == "__main__":
