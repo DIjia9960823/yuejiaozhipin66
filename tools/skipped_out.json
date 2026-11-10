@@ -411,7 +411,7 @@
   "id": 932,
   "title": "肇庆医学院2026年编外临聘人员招聘公告",
   "sourceUrl": "https://rsc.zqmc.edu.cn/info/1249/2096.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 933,
@@ -723,7 +723,7 @@
   "id": 1037,
   "title": "广东科技学院办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250809/5897.html",
-  "reason": "公告页打不开: ConnectTimeout"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1041,
@@ -1191,7 +1191,7 @@
   "id": 1199,
   "title": "深圳职业技术大学博士后招聘公告（长期招聘）05-212026",
   "sourceUrl": "https://www.szpu.edu.cn/info/1025/22744.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: SSLError"
  },
  {
   "id": 1200,
@@ -2115,7 +2115,7 @@
   "id": 1386,
   "title": "广东南博教育研究院招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240319/3754.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectTimeout"
  },
  {
   "id": 1387,
