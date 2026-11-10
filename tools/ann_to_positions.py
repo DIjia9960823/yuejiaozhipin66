@@ -41,6 +41,7 @@ def ann_to_position(ann):
         "city": fix_city(school, ann["title"], ann.get("city", "")),
         "establishment": ann.get("establishment", ""),
         "deadline": ann.get("deadline", ""),
+        "recordedAt": ann.get("recordedAt", ""),
         "annTitle": ann["title"],
         "sourceUrl": ann["sourceUrl"],
     }
