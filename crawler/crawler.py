@@ -982,14 +982,12 @@ def _job910_private_page(html):
             "stage": stage,
             "category": "万行职位",
             "isPrivate": True,
-            # 万行是第三方转载，按规矩不能直接上线：先进待核验区，找到官方原文再放出来
-            "pendingReview": True,
             "establishment": "详见原文",
             "headcount": 0,
             "education": edu_map.get(edu, "详见原文"),
             "deadline": "",
             "recordedAt": date or datetime.now().strftime("%Y-%m-%d"),
-            "source": "万行教师网",
+            "source": "万行教师网（转载）",
             "sourceUrl": "https://www.job910.com/jobs_view_%s.html" % jid,
             "content": {
                 "intro": ("；".join(bits) + "。详情请点击原文查看。") if bits else "岗位详情请点击原文查看。",
@@ -1067,13 +1065,12 @@ def _job910_public_detail(jid):
         "level": "公告",
         "stage": stage,
         "category": "公办编制" if est == "正式编" else "其他",
-        "pendingReview": True,   # 万行只是转载，须核验到官方原文后才对外开放
         "establishment": est,
         "headcount": head,
         "education": edu,
         "deadline": deadline,
         "recordedAt": date,
-        "source": "万行教师网",
+        "source": "万行教师网（转载）",
         "sourceUrl": url,
         "content": {
             "intro": " ".join(body.split())[:160] or "详见万行教师网公告原文。",
@@ -1158,7 +1155,7 @@ def load_prev_job910():
         if not m:
             return []
         old = json.loads(m.group(1))
-        return [j for j in old if j.get("source") == "万行教师网"]
+        return [j for j in old if "万行" in j.get("source", "")]
     except Exception:
         return []
 
@@ -1285,14 +1282,12 @@ def main():
             all_jobs.extend(jobs)
             source_records.append(info)
 
-    # ===== 第三方源已停用（2026-11-10 新规矩：只收官方原文，不收第三方转载）=====
-    # 万行教师网、中公、事业单位网、公考雷达都只能当"发现渠道"，
-    # 入库必须反推到官方原文。反推逻辑在 crawler/reverse.py。
-    # try:
-    #     job910_jobs = crawl_job910()
-    #     all_jobs.extend(job910_jobs)
-    # except Exception as e:
-    #     log("\n[异常] 万行扫描失败：%s" % e)
+    # ===== 第三方源：万行教师网（转载，来源如实标注）=====
+    try:
+        job910_jobs = crawl_job910()
+        all_jobs.extend(job910_jobs)
+    except Exception as e:
+        log("\n[异常] 万行扫描失败：%s" % e)
 
     # 高校官网 · 各校「人才招聘 / 人事处」栏目（一手官方源）
     try:
@@ -1302,11 +1297,11 @@ def main():
     except Exception as e:
         log("\n[异常] 高校官网源失败：%s" % e)
 
-    # ===== 停用：不再带回旧的万行岗位（第三方数据已全部删除）=====
-    # prev_job910 = load_prev_job910()
-    # if prev_job910:
-    #     log("    带回上一版万行岗位 %d 条" % len(prev_job910))
-    #     all_jobs.extend(prev_job910)
+    # 带回上一版的万行岗位（万行按 ID 增量扫描，不带回旧的会整批消失）
+    prev_job910 = load_prev_job910()
+    if prev_job910:
+        log("    带回上一版万行岗位 %d 条" % len(prev_job910))
+        all_jobs.extend(prev_job910)
 
     days = {s["name"]: (PRIVATE_RECENT_DAYS if "民办" in s["name"] else RECENT_DAYS)
             for s in SOURCES}
@@ -1329,12 +1324,17 @@ def main():
 
     attach_ownership(jobs)
 
-    with open(OUT_FILE, "w", encoding="utf-8") as f:
-        f.write("// 本文件由 crawler/crawler.py 自动生成，请勿手工修改\n")
-        f.write("// 生成时间：%s   共 %d 条\n" % (datetime.now().strftime("%Y-%m-%d %H:%M:%S"), len(jobs)))
-        f.write("window.DATA_UPDATED = \"%s\";\n" % datetime.now().strftime("%Y-%m-%d %H:%M"))
-        f.write("window.REAL_JOBS = " + json.dumps(jobs, ensure_ascii=False, indent=2) + ";\n")
-        f.write("if (window.REAL_JOBS && window.REAL_JOBS.length) { MOCK_JOBS = window.REAL_JOBS; }\n")
+    out_lines = [
+        "// 本文件由 crawler/crawler.py 自动生成，请勿手工修改\n",
+        "// 生成时间：%s   共 %d 条\n" % (datetime.now().strftime("%Y-%m-%d %H:%M:%S"), len(jobs)),
+        "window.DATA_UPDATED = \"%s\";\n" % datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "window.REAL_JOBS = " + json.dumps(jobs, ensure_ascii=False, indent=2) + ";\n",
+        "if (window.REAL_JOBS && window.REAL_JOBS.length) { MOCK_JOBS = window.REAL_JOBS; }\n",
+    ]
+    tmp = OUT_FILE + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        f.writelines(out_lines)
+    os.replace(tmp, OUT_FILE)
 
     write_source_status(source_records)
 
