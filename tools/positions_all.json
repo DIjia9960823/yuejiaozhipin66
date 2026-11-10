@@ -28220,6 +28220,23 @@
   "id": 1660
  },
  {
+  "school": "广东科技学院（民办）",
+  "job": "广东科技学院办公室公开招聘工作人员公告",
+  "code": "",
+  "num": "",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 0769-86211880    86211；邮箱 gdkjxy@sina.com；地址 广东省东莞市南城区西湖路",
+  "stage": "高校",
+  "city": "东莞",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "广东科技学院办公室公开招聘工作人员公告",
+  "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250809/5897.html",
+  "id": 1661
+ },
+ {
   "school": "广东碧桂园职业学院",
   "job": "广东碧桂园职业学院网络运维管理员招聘公告",
   "code": "",
@@ -28234,7 +28251,7 @@
   "deadline": "",
   "annTitle": "广东碧桂园职业学院网络运维管理员招聘公告",
   "sourceUrl": "https://hr.bgypt.edu.cn/cpyc/content_25734",
-  "id": 1661
+  "id": 1662
  },
  {
   "school": "广东技术师范大学",
@@ -28251,7 +28268,7 @@
   "deadline": "2026-08-10",
   "annTitle": "广东技术师范大学关于公开选聘汕尾市城区教育集团总校长的公告",
   "sourceUrl": "https://rsc.gpnu.edu.cn/info/1044/5224.htm",
-  "id": 1662
+  "id": 1663
  },
  {
   "school": "广东理工职业学院",
@@ -28268,7 +28285,7 @@
   "deadline": "",
   "annTitle": "广东开放大学（广东理工职业学院）招聘厨师、点心师的启事",
   "sourceUrl": "https://www.gdpi.edu.cn/info/1020/45500.htm",
-  "id": 1663
+  "id": 1664
  },
  {
   "school": "广东药科大学",
@@ -28285,7 +28302,7 @@
   "deadline": "",
   "annTitle": "其他岗位招聘",
   "sourceUrl": "https://www.gdpu.edu.cn/rczp/qtgwzp.htm",
-  "id": 1664
+  "id": 1665
  },
  {
   "school": "广东第二师范学院",
@@ -28302,7 +28319,7 @@
   "deadline": "2026-07-20",
   "annTitle": "广东第二师范学院基础教育集团2026年度优秀校长人才储备常年招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108099/page.htm",
-  "id": 1665
+  "id": 1666
  },
  {
   "school": "广东第二师范学院",
@@ -28319,7 +28336,7 @@
   "deadline": "2026-08-02",
   "annTitle": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告 （第二批）",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0713/c3612a108098/page.htm",
-  "id": 1666
+  "id": 1667
  },
  {
   "school": "星海音乐学院",
@@ -28336,7 +28353,7 @@
   "deadline": "2026-07-22",
   "annTitle": "关于公布星海音乐学院2026年第一批公开招聘考试安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1065.htm",
-  "id": 1667
+  "id": 1668
  },
  {
   "school": "广东技术师范大学",
@@ -28353,7 +28370,7 @@
   "deadline": "",
   "annTitle": "广东技术师范大学2026年公开招聘教学科研人员会议评审通知（二）",
   "sourceUrl": "https://rsc.gpnu.edu.cn/info/1044/5221.htm",
-  "id": 1668
+  "id": 1669
  },
  {
   "school": "深圳大学",
@@ -28370,7 +28387,7 @@
   "deadline": "",
   "annTitle": "深圳大学建筑与城市规划学院唐海达副教授课题组博士后招聘",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24421.htm",
-  "id": 1669
+  "id": 1670
  },
  {
   "school": "星海音乐学院",
@@ -28387,7 +28404,7 @@
   "deadline": "",
   "annTitle": "(07-10)星海音乐学院2026年第三批公开招聘工作人员公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1076.htm",
-  "id": 1670
+  "id": 1671
  },
  {
   "school": "广东肇庆航空职业学院",
@@ -28404,7 +28421,7 @@
   "deadline": "",
   "annTitle": "广东肇庆航空职业学院关于招聘党务干部、思政教师及辅导员的启事2026-07-10",
   "sourceUrl": "https://gdzqac.edu.cn/articles/show/1980",
-  "id": 1671
+  "id": 1672
  },
  {
   "school": "广东财经大学",
@@ -28421,7 +28438,7 @@
   "deadline": "",
   "annTitle": "事业编制招聘",
   "sourceUrl": "https://rsc.gdufe.edu.cn/sybzzp/list.htm",
-  "id": 1672
+  "id": 1673
  },
  {
   "school": "广东医科大学",
@@ -28438,7 +28455,7 @@
   "deadline": "2026-08-31",
   "annTitle": "广东医科大学2026年公开招聘高层次人才（第一批）资格复审公告",
   "sourceUrl": "https://rsc.gdmu.edu.cn/info/1090/3222.htm",
-  "id": 1673
+  "id": 1674
  },
  {
   "school": "广东财经大学",
@@ -28455,7 +28472,7 @@
   "deadline": "2026-07-13",
   "annTitle": "2026年7月金融学院公开招聘合同制工作人员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0708/c12802a241229/page.htm",
-  "id": 1674
+  "id": 1675
  },
  {
   "school": "广东财经大学",
@@ -28472,7 +28489,7 @@
   "deadline": "2026-07-12",
   "annTitle": "2026年7月会计学院公开招聘合同制工作人员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0707/c12802a241182/page.htm",
-  "id": 1675
+  "id": 1676
  },
  {
   "school": "广东理工职业学院",
@@ -28489,7 +28506,7 @@
   "deadline": "",
   "annTitle": "广东开放大学（广东理工职业学院）厨师、中山校区保安队长招聘考试安排",
   "sourceUrl": "https://www.gdpi.edu.cn/info/1020/45210.htm",
-  "id": 1676
+  "id": 1677
  },
  {
   "school": "广东财经大学",
@@ -28506,7 +28523,7 @@
   "deadline": "2026-12-31",
   "annTitle": "广东财经大学面向海内外公开招聘二级学院院长及经济与管理实验教学中心主任公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0706/c7198a241160/page.htm",
-  "id": 1677
+  "id": 1678
  },
  {
   "school": "广东白云学院",
@@ -28523,7 +28540,7 @@
   "deadline": "",
   "annTitle": "广东白云学院博士招聘公告",
   "sourceUrl": "https://rlzy.baiyunu.edu.cn/info/1554/5308.htm",
-  "id": 1678
+  "id": 1679
  },
  {
   "school": "广东碧桂园职业学院",
@@ -28540,7 +28557,7 @@
   "deadline": "",
   "annTitle": "广东碧桂园职业学院专职督导招聘公告",
   "sourceUrl": "https://hr.bgypt.edu.cn/cpyc/content_15814",
-  "id": 1679
+  "id": 1680
  },
  {
   "school": "广东技术师范大学",
@@ -28557,7 +28574,7 @@
   "deadline": "",
   "annTitle": "广东技术师范大学2026年公开招聘教学科研人员会议评审通知（一）",
   "sourceUrl": "https://rsc.gpnu.edu.cn/info/1044/5218.htm",
-  "id": 1680
+  "id": 1681
  },
  {
   "school": "广东技术师范大学",
@@ -28574,7 +28591,7 @@
   "deadline": "2026-07-03",
   "annTitle": "广东技术师范大学民族学院、教育科学学院招聘博士教师启事",
   "sourceUrl": "https://rsc.gpnu.edu.cn/info/1044/5216.htm",
-  "id": 1681
+  "id": 1682
  },
  {
   "school": "肇庆学院",
@@ -28591,7 +28608,7 @@
   "deadline": "2026-07-03",
   "annTitle": "肇庆学院2026年公开招聘专业技术人员会议评审考核工作安排公告",
   "sourceUrl": "https://rsc.zqu.edu.cn/info/2602/3611.htm",
-  "id": 1682
+  "id": 1683
  },
  {
   "school": "罗定职业技术学院",
@@ -28608,7 +28625,7 @@
   "deadline": "",
   "annTitle": "罗定职业技术学院2026年招聘高层次人才公告",
   "sourceUrl": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=2143164ece02409fbfd24c53a4319e44&catalogueId=3622fa5929964a519ab06c1b6e2976aa",
-  "id": 1683
+  "id": 1684
  },
  {
   "school": "韶关学院",
@@ -28625,7 +28642,7 @@
   "deadline": "",
   "annTitle": "韶关学院2026年公开招聘高层次人才（博士）资格初审结果及通讯评审工作安排通知",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3862.htm",
-  "id": 1684
+  "id": 1685
  },
  {
   "school": "广外南国商学院（民办）",
@@ -28642,7 +28659,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年数学专业教师招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0702/c992a110066/page.htm",
-  "id": 1685
+  "id": 1686
  },
  {
   "school": "广外南国商学院（民办）",
@@ -28659,7 +28676,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年艺术学院招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0702/c992a110064/page.htm",
-  "id": 1686
+  "id": 1687
  },
  {
   "school": "广外南国商学院（民办）",
@@ -28676,7 +28693,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年小语种专业教职工招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0702/c992a110056/page.htm",
-  "id": 1687
+  "id": 1688
  },
  {
   "school": "广外南国商学院（民办）",
@@ -28693,7 +28710,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年职能部门正副职招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0702/c992a110054/page.htm",
-  "id": 1688
+  "id": 1689
  },
  {
   "school": "韶关学院",
@@ -28710,7 +28727,7 @@
   "deadline": "",
   "annTitle": "韶关学院2026年公开招聘高层次人才（博士）资格",
   "sourceUrl": "https://www.sgu.edu.cn:443/rczpw/info/1031/3862.htm",
-  "id": 1689
+  "id": 1690
  },
  {
   "school": "广外南国商学院（民办）",
@@ -28727,7 +28744,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年二级教学单位正副职招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0701/c992a110045/page.htm",
-  "id": 1690
+  "id": 1691
  },
  {
   "school": "广州大学",
@@ -28744,7 +28761,7 @@
   "deadline": "",
   "annTitle": "其他系列招聘公告",
   "sourceUrl": "http://www.gzhu.edu.cn/rczp1/qtxlzpgg.htm",
-  "id": 1691
+  "id": 1692
  },
  {
   "school": "广州大学",
@@ -28761,7 +28778,7 @@
   "deadline": "",
   "annTitle": "广州大学2026年第一次公开招聘事业编制管理和教辅",
   "sourceUrl": "http://www.gzhu.edu.cn/info/1055/36177.htm",
-  "id": 1692
+  "id": 1693
  },
  {
   "school": "肇庆学院",
@@ -28778,7 +28795,7 @@
   "deadline": "2026-07-06",
   "annTitle": "肇庆学院2026年7月招聘科研助理公告",
   "sourceUrl": "https://rsc.zqu.edu.cn/info/2612/3601.htm",
-  "id": 1693
+  "id": 1694
  },
  {
   "school": "岭南师范学院",
@@ -28795,7 +28812,7 @@
   "deadline": "2026-06-28",
   "annTitle": "关于发布岭南师范学院2026年公开招聘博士会议评审安排的通知",
   "sourceUrl": "https://d.lingnan.edu.cn/rsc/info/2123/16792.htm",
-  "id": 1694
+  "id": 1695
  },
  {
   "school": "广东医科大学",
@@ -28812,7 +28829,7 @@
   "deadline": "2026-08-31",
   "annTitle": "广东医科大学2026年公开招聘高层次人才公告（第一批）",
   "sourceUrl": "https://rsc.gdmu.edu.cn/info/1090/3212.htm",
-  "id": 1695
+  "id": 1696
  },
  {
   "school": "韶关学院",
@@ -28829,7 +28846,7 @@
   "deadline": "2026-07-01",
   "annTitle": "韶关学院2026年公开招聘高层次人才（博士）公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3842.htm",
-  "id": 1696
+  "id": 1697
  },
  {
   "school": "东莞理工学院",
@@ -28846,7 +28863,7 @@
   "deadline": "",
   "annTitle": "东莞理工学院2026年公开招聘专职辅导员",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/8013.htm",
-  "id": 1697
+  "id": 1698
  },
  {
   "school": "珠海市教育局",
@@ -28863,7 +28880,7 @@
   "deadline": "2026-07-06",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 1698
+  "id": 1699
  },
  {
   "school": "深圳大学",
@@ -28880,7 +28897,7 @@
   "deadline": "",
   "annTitle": "深圳大学心理学院吴健辉教授-迟新丽副教授联合诚聘博士后",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24281.htm",
-  "id": 1699
+  "id": 1700
  },
  {
   "school": "东莞理工学院",
@@ -28897,7 +28914,7 @@
   "deadline": "2026-07-06",
   "annTitle": "东莞理工学院2026年公开招聘专职辅导员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/8003.htm",
-  "id": 1700
+  "id": 1701
  },
  {
   "school": "广东第二师范学院",
@@ -28914,7 +28931,7 @@
   "deadline": "2026-06-30",
   "annTitle": "广东第二师范学院汕尾市城区教育集团2026年面向全国招聘教研员导师公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0623/c3612a107651/page.htm",
-  "id": 1701
+  "id": 1702
  },
  {
   "school": "南方医科大学",
@@ -28931,7 +28948,7 @@
   "deadline": "",
   "annTitle": "南方医科大学2026年校本部公开招聘专",
   "sourceUrl": "http://portal.smu.edu.cn/renshi/info/1082/10829.htm",
-  "id": 1702
+  "id": 1703
  },
  {
   "school": "广州大学",
@@ -28948,7 +28965,7 @@
   "deadline": "",
   "annTitle": "广州大学2026年第二次公开招聘事业编制工作人员拟",
   "sourceUrl": "http://www.gzhu.edu.cn/info/1055/35947.htm",
-  "id": 1703
+  "id": 1704
  },
  {
   "school": "广东财经大学",
@@ -28965,7 +28982,7 @@
   "deadline": "2026-07-01",
   "annTitle": "2026年6月外国语学院歌德语言中心公开招聘合同制工作人员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0617/c12802a240479/page.htm",
-  "id": 1704
+  "id": 1705
  },
  {
   "school": "广东创新科技职业学院（民办）",
@@ -28982,7 +28999,7 @@
   "deadline": "",
   "annTitle": "广东创新科技职业学院活动策划导演岗招聘公告",
   "sourceUrl": "http://www.gdcxxy.edu.cn/rsc/rczp/1jmmol2mu75o1.shtml",
-  "id": 1705
+  "id": 1706
  },
  {
   "school": "广东理工职业学院",
@@ -28999,7 +29016,7 @@
   "deadline": "",
   "annTitle": "广东开放大学（广东理工职业学院）招聘厨师、点心师和保安的启事",
   "sourceUrl": "https://www.gdpi.edu.cn/info/1020/44680.htm",
-  "id": 1706
+  "id": 1707
  },
  {
   "school": "广东第二师范学院",
@@ -29016,7 +29033,7 @@
   "deadline": "2026-06-23",
   "annTitle": "广东第二师范学院2026年第二批C类岗位人员招聘公告",
   "sourceUrl": "https://www.gdei.edu.cn/rsc/2026/0616/c3612a107455/page.htm",
-  "id": 1707
+  "id": 1708
  },
  {
   "school": "广州大学",
@@ -29033,7 +29050,7 @@
   "deadline": "",
   "annTitle": "广州大学2026年第一次公开招聘合同制A岗工作人员拟",
   "sourceUrl": "http://www.gzhu.edu.cn/info/1055/35567.htm",
-  "id": 1708
+  "id": 1709
  },
  {
   "school": "东莞职业技术学院",
@@ -29050,7 +29067,7 @@
   "deadline": "",
   "annTitle": "东莞职业技术学院2026年公开招聘事业编制专职辅导员的公告",
   "sourceUrl": "https://rsc.dgpt.edu.cn/info/1007/1558.htm",
-  "id": 1709
+  "id": 1710
  },
  {
   "school": "华南理工大学",
@@ -29067,7 +29084,7 @@
   "deadline": "",
   "annTitle": "非教学科研人员招聘",
   "sourceUrl": "https://www2.scut.edu.cn/hr/4467/list.htm",
-  "id": 1710
+  "id": 1711
  },
  {
   "school": "深圳大学",
@@ -29084,7 +29101,7 @@
   "deadline": "",
   "annTitle": "深圳大学材料学院“智能分子材料团队”招聘博士后",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24221.htm",
-  "id": 1711
+  "id": 1712
  },
  {
   "school": "星海音乐学院",
@@ -29101,7 +29118,7 @@
   "deadline": "2026-06-17",
   "annTitle": "星海音乐学院2026年科研助理招聘公告",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1078.htm",
-  "id": 1712
+  "id": 1713
  },
  {
   "school": "广东艺术职业学院",
@@ -29118,7 +29135,7 @@
   "deadline": "",
   "annTitle": "百万英才汇南粤：广东艺术职业学院2026年公开招聘思政课专任教师公告2026-06-10",
   "sourceUrl": "https://www.gdddc.edu.cn/info/2483/13124.htm",
-  "id": 1713
+  "id": 1714
  },
  {
   "school": "深圳大学",
@@ -29135,7 +29152,7 @@
   "deadline": "",
   "annTitle": "深圳大学生命与海洋科学学院血管病研究中心博士后招聘",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24211.htm",
-  "id": 1714
+  "id": 1715
  },
  {
   "school": "广东技术师范大学",
@@ -29152,7 +29169,7 @@
   "deadline": "",
   "annTitle": "广东技术师范大学2026年科研团队博士后招聘启事（二）",
   "sourceUrl": "https://rsc.gpnu.edu.cn/info/1044/5209.htm",
-  "id": 1715
+  "id": 1716
  },
  {
   "school": "星海音乐学院",
@@ -29169,7 +29186,7 @@
   "deadline": "2026-06-10",
   "annTitle": "关于公布星海音乐学院2026年第二批公开招聘业务考核安排的通知",
   "sourceUrl": "https://rsc.xhcom.edu.cn/info/1038/1063.htm",
-  "id": 1716
+  "id": 1717
  },
  {
   "school": "顺德职业技术大学",
@@ -29186,7 +29203,7 @@
   "deadline": "",
   "annTitle": "顺德职业技术大学诚聘设计学院、商贸与外语学院院长",
   "sourceUrl": "https://www.sdpt.edu.cn/info/1153/22478.htm",
-  "id": 1717
+  "id": 1718
  },
  {
   "school": "中山大学",
@@ -29203,7 +29220,7 @@
   "deadline": "",
   "annTitle": "中山大学中法核工程与技术学院数学教师招聘公告",
   "sourceUrl": "https://rcb.sysu.edu.cn/article/746",
-  "id": 1718
+  "id": 1719
  },
  {
   "school": "深圳大学",
@@ -29220,7 +29237,7 @@
   "deadline": "",
   "annTitle": "深圳大学管理学院袁靖波课题组博士后招聘",
   "sourceUrl": "https://hr.szu.edu.cn/info/1070/24171.htm",
-  "id": 1719
+  "id": 1720
  },
  {
   "school": "广外南国商学院（民办）",
@@ -29237,7 +29254,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院2026年国际合作与交流处招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0604/c992a108752/page.htm",
-  "id": 1720
+  "id": 1721
  },
  {
   "school": "广外南国商学院（民办）",
@@ -29254,7 +29271,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院  2026年西语学院招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0604/c992a108750/page.htm",
-  "id": 1721
+  "id": 1722
  },
  {
   "school": "深圳信息职业技术大学",
@@ -29271,7 +29288,7 @@
   "deadline": "",
   "annTitle": "深圳信息职业技术大学兼职技术经理人招聘启事",
   "sourceUrl": "https://www.suit-sz.edu.cn/info/1102/18427.htm",
-  "id": 1722
+  "id": 1723
  },
  {
   "school": "韶关市教育局",
@@ -29288,7 +29305,7 @@
   "deadline": "",
   "annTitle": "韶关市浈江区金沙明星学校招聘公告",
   "sourceUrl": "http://jy.sg.gov.cn/wszw/tz/content/post_2852749.html",
-  "id": 1723
+  "id": 1724
  },
  {
   "school": "广外南国商学院（民办）",
@@ -29305,7 +29322,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院  2026年计算机学院招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0602/c992a108622/page.htm",
-  "id": 1724
+  "id": 1725
  },
  {
   "school": "广外南国商学院（民办）",
@@ -29322,7 +29339,7 @@
   "deadline": "",
   "annTitle": "广东外语外贸大学南国商学院  2026年航空经济与工程学院招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0602/c992a108621/page.htm",
-  "id": 1725
+  "id": 1726
  },
  {
   "school": "华南理工大学",
@@ -29339,7 +29356,7 @@
   "deadline": "2026-06-18",
   "annTitle": "华南理工大学2026年附属实验学校中学部教师公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0601/c4457a628459/page.htm",
-  "id": 1726
+  "id": 1727
  },
  {
   "school": "广州珠江职业技术学院",
@@ -29356,7 +29373,7 @@
   "deadline": "",
   "annTitle": "@在惠用人单位，6月10日大型专场招聘会诚邀您参与！一起为学子圆梦，为惠州留才！",
   "sourceUrl": "http://www.gzzjxy.edu.cn/news/show-14672.html",
-  "id": 1727
+  "id": 1728
  },
  {
   "school": "广州科技职业技术大学",
@@ -29373,7 +29390,7 @@
   "deadline": "",
   "annTitle": "广州科技职业技术大学2026年人才招聘公告",
   "sourceUrl": "https://www.gkd.edu.cn/rsc/contents/415/44010.html",
-  "id": 1728
+  "id": 1729
  },
  {
   "school": "广州卫生职业技术学院（中职部）",
@@ -29390,7 +29407,7 @@
   "deadline": "",
   "annTitle": "广州卫生职业技术学院关于2026年第一次引进急",
   "sourceUrl": "https://www.gzws.edu.cn/rs/rczp/content_18964",
-  "id": 1729
+  "id": 1730
  },
  {
   "school": "韶关学院",
@@ -29407,7 +29424,7 @@
   "deadline": "",
   "annTitle": "韶关学院总务后勤部专职驾驶员招聘公告",
   "sourceUrl": "http://www.sgu.edu.cn/rczpw/info/1031/3812.htm",
-  "id": 1730
+  "id": 1731
  },
  {
   "school": "广东水利电力职业技术学院（中职部）",
@@ -29424,7 +29441,7 @@
   "deadline": "",
   "annTitle": "广东水利电力职业技术学院2026年银龄教师招聘公告",
   "sourceUrl": "https://www.gdsdxy.edu.cn/html/964/2026-05-26/content-6417.html",
-  "id": 1731
+  "id": 1732
  },
  {
   "school": "华南师范大学",
@@ -29441,7 +29458,7 @@
   "deadline": "2026-05-29",
   "annTitle": "华南师范大学工会招聘非事业编制人员启事",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260525/1022.html",
-  "id": 1732
+  "id": 1733
  },
  {
   "school": "华南师范大学",
@@ -29458,7 +29475,7 @@
   "deadline": "2026-06-14",
   "annTitle": "华南师范大学档案馆（校史文博馆）招聘非事业编制人员启事",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260525/1020.html",
-  "id": 1733
+  "id": 1734
  },
  {
   "school": "中山大学",
@@ -29475,23 +29492,6 @@
   "deadline": "",
   "annTitle": "专业技术人员招聘",
   "sourceUrl": "https://rcb.sysu.edu.cn/zp/03",
-  "id": 1734
- },
- {
-  "school": "广东生态工程职业学院",
-  "job": "广东生态工程职业学院2026年公开招聘事业编制外工作人员（第二批）考试安排公告发表时间：2026-05-22",
-  "code": "",
-  "num": "",
-  "edu": "详见原文",
-  "degree": "",
-  "major": "",
-  "other": "该公告未附岗位明细表，岗位详情见公告原文",
-  "stage": "高校",
-  "city": "广州",
-  "establishment": "正式编",
-  "deadline": "",
-  "annTitle": "广东生态工程职业学院2026年公开招聘事业编制外工作人员（第二批）考试安排公告发表时间：2026-05-22",
-  "sourceUrl": "http://gdsty.edu.cn/rencaiindex_detail_83.html",
   "id": 1735
  },
  {
@@ -32131,23 +32131,6 @@
  },
  {
   "school": "广东科技学院（民办）",
-  "job": "广东科技学院学校办公室公开招聘工作人员公告",
-  "code": "",
-  "num": "",
-  "edu": "本科及以上",
-  "degree": "",
-  "major": "",
-  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 0769-86211880    86211；邮箱 gdkjxy@sina.com；地址 广东省东莞市南城区西湖路",
-  "stage": "高校",
-  "city": "东莞",
-  "establishment": "详见原文",
-  "deadline": "",
-  "annTitle": "广东科技学院学校办公室公开招聘工作人员公告",
-  "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240603/3777.html",
-  "id": 1891
- },
- {
-  "school": "广东科技学院（民办）",
   "job": "广东南博教育研究院招聘工作人员公告",
   "code": "",
   "num": "",
@@ -32161,7 +32144,7 @@
   "deadline": "2024-06-28",
   "annTitle": "广东南博教育研究院招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240319/3754.html",
-  "id": 1892
+  "id": 1891
  },
  {
   "school": "深圳技术大学",
@@ -32178,7 +32161,7 @@
   "deadline": "",
   "annTitle": "深圳技术大学教学科研人员招聘办法",
   "sourceUrl": "https://hr.sztu.edu.cn/info/1018/5482.htm",
-  "id": 1893
+  "id": 1892
  },
  {
   "school": "广东财经大学",
@@ -32195,7 +32178,7 @@
   "deadline": "",
   "annTitle": "广东财经大学面向海内外公开招聘文化旅游与地理学院院长公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2024/0129/c12800a186990/page.htm",
-  "id": 1894
+  "id": 1893
  },
  {
   "school": "深圳大学",
@@ -32212,7 +32195,7 @@
   "deadline": "",
   "annTitle": "深圳大学“百人计划”教师招聘公告",
   "sourceUrl": "https://hr.szu.edu.cn/info/1013/22601.htm",
-  "id": 1895
+  "id": 1894
  },
  {
   "school": "广州大学",
@@ -32229,7 +32212,7 @@
   "deadline": "",
   "annTitle": "广州大学创新创业学院“双创”专职教师公开招聘公告",
   "sourceUrl": "https://rsc.gzhu.edu.cn/info/1017/5051.htm",
-  "id": 1896
+  "id": 1895
  },
  {
   "school": "广东财经大学",
@@ -32246,7 +32229,7 @@
   "deadline": "2022-08-31",
   "annTitle": "广东财经大学面向海内外公开招聘院长公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2022/0712/c12800a163965/page.htm",
-  "id": 1897
+  "id": 1896
  },
  {
   "school": "华南理工大学",
@@ -32263,7 +32246,7 @@
   "deadline": "",
   "annTitle": "我为师生办实事——组织召开教研、教学系列岗位招聘及新教师一站式报到等信息系统培训会",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2022/0302/c4437a461814/page.htm",
-  "id": 1898
+  "id": 1897
  },
  {
   "school": "深圳大学",
@@ -32280,7 +32263,7 @@
   "deadline": "2021-11-18",
   "annTitle": "深圳大学思想政治理论课教师招聘公告（长期招聘）",
   "sourceUrl": "https://hr.szu.edu.cn/info/1013/22591.htm",
-  "id": 1899
+  "id": 1898
  },
  {
   "school": "广州应用科技学院（民办）",
@@ -32297,7 +32280,7 @@
   "deadline": "",
   "annTitle": "广州应用科技学院诚聘校长",
   "sourceUrl": "http://www.gzasc.edu.cn/rsc/info/1018/2254.htm",
-  "id": 1900
+  "id": 1899
  },
  {
   "school": "广州大学",
@@ -32314,7 +32297,7 @@
   "deadline": "",
   "annTitle": "广州大学面向全球招聘优秀青年博士公告",
   "sourceUrl": "https://rsc.gzhu.edu.cn/info/1017/5081.htm",
-  "id": 1901
+  "id": 1900
  },
  {
   "school": "广东交通职业技术学院",
@@ -32331,7 +32314,7 @@
   "deadline": "",
   "annTitle": "广东交通职业技术学院高层次人才引进、遴选及考核办法（试行）",
   "sourceUrl": "https://rsc.gdcp.edu.cn/info/1151/5422.htm",
-  "id": 1902
+  "id": 1901
  },
  {
   "school": "海珠区教育系统高校毕业生",
@@ -32348,7 +32331,7 @@
   "deadline": "2026-11-16",
   "annTitle": "2026广东广州市海珠区教育系统高校毕业生招聘85人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473790.html",
-  "id": 1903
+  "id": 1902
  },
  {
   "school": "直教育系统",
@@ -32365,7 +32348,7 @@
   "deadline": "2026-11-09",
   "annTitle": "2026下半年广东清远市直教育系统招聘94人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473136.html",
-  "id": 1904
+  "id": 1903
  },
  {
   "school": "水利电力职业技术学院继续教育学院项目制教师",
@@ -32382,7 +32365,7 @@
   "deadline": "2026-11-22",
   "annTitle": "2026广东水利电力职业技术学院继续教育学院项目制教师招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473892.html",
-  "id": 1905
+  "id": 1904
  },
  {
   "school": "医科大学非事业编制合同制人员",
@@ -32399,7 +32382,7 @@
   "deadline": "2026-11-15",
   "annTitle": "2026广东医科大学非事业编制合同制人员招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473890.html",
-  "id": 1906
+  "id": 1905
  },
  {
   "school": "水利电力职业技术学院项目制教师",
@@ -32416,7 +32399,7 @@
   "deadline": "2026-11-20",
   "annTitle": "2026广东水利电力职业技术学院项目制教师招聘55人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473841.html",
-  "id": 1907
+  "id": 1906
  },
  {
   "school": "天河区培艺学校",
@@ -32433,7 +32416,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区培艺学校招聘道法老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473823.html",
-  "id": 1908
+  "id": 1907
  },
  {
   "school": "财贸职业学院校编教职工",
@@ -32450,7 +32433,7 @@
   "deadline": "2026-11-16",
   "annTitle": "2026广东财贸职业学院校编教职工招聘19人公告（第三批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473811.html",
-  "id": 1909
+  "id": 1908
  },
  {
   "school": "天河区同仁艺体实验中学",
@@ -32467,7 +32450,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区同仁艺体实验中学招聘教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473806.html",
-  "id": 1910
+  "id": 1909
  },
  {
   "school": "天河区东风实验小学",
@@ -32484,7 +32467,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区东风实验小学招聘数学教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473675.html",
-  "id": 1911
+  "id": 1910
  },
  {
   "school": "民航职业技术学院博士学位教师",
@@ -32501,7 +32484,7 @@
   "deadline": "2026-12-18",
   "annTitle": "2026广东广州民航职业技术学院博士学位教师招聘29人公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473469.html",
-  "id": 1912
+  "id": 1911
  },
  {
   "school": "天河区奥体东小学编外聘用制专任教师",
@@ -32518,7 +32501,7 @@
   "deadline": "2026-10-27",
   "annTitle": "2026年10月广东广州市天河区奥体东小学编外聘用制专任教师招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473185.html",
-  "id": 1913
+  "id": 1912
  },
  {
   "school": "天河区凤凰中学",
@@ -32535,7 +32518,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区凤凰中学招聘初中历史老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473162.html",
-  "id": 1914
+  "id": 1913
  },
  {
   "school": "天河区培艺学校",
@@ -32552,7 +32535,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区培艺学校招聘小学英语教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472829.html",
-  "id": 1915
+  "id": 1914
  },
  {
   "school": "天河区凤凰中学",
@@ -32569,7 +32552,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区凤凰中学招聘初中英语教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472819.html",
-  "id": 1916
+  "id": 1915
  },
  {
   "school": "大学附属中学校园",
@@ -32586,7 +32569,7 @@
   "deadline": "2026-10-19",
   "annTitle": "2026广东广州大学附属中学校园招聘16人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472724.html",
-  "id": 1917
+  "id": 1916
  },
  {
   "school": "天河区智谷第一实验学校编外聘用制专任教师",
@@ -32603,7 +32586,7 @@
   "deadline": "2026-10-14",
   "annTitle": "2026年10月广东广州市天河区智谷第一实验学校编外聘用制专任教师招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472710.html",
-  "id": 1918
+  "id": 1917
  },
  {
   "school": "天河区东明荔园小学",
@@ -32620,7 +32603,7 @@
   "deadline": "",
   "annTitle": "2026广东广州市天河区东明荔园小学招聘数学老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472695.html",
-  "id": 1919
+  "id": 1918
  },
  {
   "school": "教育系统校园",
@@ -32637,7 +32620,7 @@
   "deadline": "2026-11-03",
   "annTitle": "2026广东广州市教育系统校园招聘395人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472674.html",
-  "id": 1920
+  "id": 1919
  },
  {
   "school": "天河区侨乐小学",
@@ -32654,7 +32637,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026年10月广东广州市天河区侨乐小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472635.html",
-  "id": 1921
+  "id": 1920
  },
  {
   "school": "天河区体育西路小学",
@@ -32671,7 +32654,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026年10月广东广州市天河区体育西路小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472614.html",
-  "id": 1922
+  "id": 1921
  },
  {
   "school": "广东生态工程职业学院",
@@ -32688,7 +32671,7 @@
   "deadline": "2026-10-14",
   "annTitle": "2026广东广东生态工程职业学院招聘事业编制外工作人员9人公告（第五批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472606.html",
-  "id": 1923
+  "id": 1922
  },
  {
   "school": "女子职业技术学院",
@@ -32705,7 +32688,7 @@
   "deadline": "2026-10-16",
   "annTitle": "2026广东女子职业技术学院招聘合同制人员15人公告（第三批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472494.html",
-  "id": 1924
+  "id": 1923
  },
  {
   "school": "金融学院大数据与人工智能学院",
@@ -32722,7 +32705,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026广东金融学院大数据与人工智能学院招聘合同聘用制专任教师公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472491.html",
-  "id": 1925
+  "id": 1924
  },
  {
   "school": "工程技术职业学院",
@@ -32739,7 +32722,7 @@
   "deadline": "2026-10-13",
   "annTitle": "2026广东广州工程技术职业学院招聘合同制人员3人公告（第二次）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472454.html",
-  "id": 1926
+  "id": 1925
  },
  {
   "school": "工程职业技术学院",
@@ -32756,7 +32739,7 @@
   "deadline": "",
   "annTitle": "2026广东工程职业技术学院招聘非事业编制工作人员39人公告（第三批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472348.html",
-  "id": 1927
+  "id": 1926
  },
  {
   "school": "天河区先烈东小学",
@@ -32773,7 +32756,7 @@
   "deadline": "2026-09-29",
   "annTitle": "2026年9月广东广州市天河区先烈东小学招聘编外聘用制英语教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472278.html",
-  "id": 1928
+  "id": 1927
  },
  {
   "school": "天河区智谷第一实验学校编外聘用制专任教师",
@@ -32790,7 +32773,7 @@
   "deadline": "2026-09-26",
   "annTitle": "2026年9月广东广州市天河区智谷第一实验学校编外聘用制专任教师招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472276.html",
-  "id": 1929
+  "id": 1928
  },
  {
   "school": "建设职业技术学院校编（非事业编制）",
@@ -32807,7 +32790,7 @@
   "deadline": "2026-10-10",
   "annTitle": "2026广东建设职业技术学院校编（非事业编制）招聘16人公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472263.html",
-  "id": 1930
+  "id": 1929
  },
  {
   "school": "广东文艺职业学院合同制人员",
@@ -32824,7 +32807,7 @@
   "deadline": "2026-09-23",
   "annTitle": "2026广东广东文艺职业学院合同制人员招聘1人公告（第四批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472231.html",
-  "id": 1931
+  "id": 1930
  },
  {
   "school": "体育学院",
@@ -32841,7 +32824,7 @@
   "deadline": "2026-09-28",
   "annTitle": "2026广东广州体育学院招聘非事业编制工作人员2人公告（第四批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472208.html",
-  "id": 1932
+  "id": 1931
  },
  {
   "school": "天河区棠下小学",
@@ -32858,7 +32841,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区棠下小学招聘编外聘用制专任教师1公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472042.html",
-  "id": 1933
+  "id": 1932
  },
  {
   "school": "第十八中学",
@@ -32875,7 +32858,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市第十八中学招聘编外聘用制专任教师4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472041.html",
-  "id": 1934
+  "id": 1933
  },
  {
   "school": "天河区华融小学",
@@ -32892,7 +32875,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区华融小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472040.html",
-  "id": 1935
+  "id": 1934
  },
  {
   "school": "天河区天英小学",
@@ -32909,7 +32892,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区天英小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472017.html",
-  "id": 1936
+  "id": 1935
  },
  {
   "school": "天河区体育西路小学",
@@ -32926,7 +32909,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区体育西路小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472016.html",
-  "id": 1937
+  "id": 1936
  },
  {
   "school": "天河区珠村小学",
@@ -32943,7 +32926,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区珠村小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472015.html",
-  "id": 1938
+  "id": 1937
  },
  {
   "school": "天河区棠东小学",
@@ -32960,7 +32943,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年09月广东广州市天河区棠东小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472014.html",
-  "id": 1939
+  "id": 1938
  },
  {
   "school": "骏景中学",
@@ -32977,7 +32960,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市骏景中学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472013.html",
-  "id": 1940
+  "id": 1939
  },
  {
   "school": "天河区前进小学",
@@ -32994,7 +32977,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区前进小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472012.html",
-  "id": 1941
+  "id": 1940
  },
  {
   "school": "天河区昌乐小学",
@@ -33011,7 +32994,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河区昌乐小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472011.html",
-  "id": 1942
+  "id": 1941
  },
  {
   "school": "天河第一小学",
@@ -33028,7 +33011,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026年9月广东广州市天河第一小学招聘编外聘用制专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471999.html",
-  "id": 1943
+  "id": 1942
  },
  {
   "school": "韶关南雄市高层次和急需紧缺专业人才",
@@ -33045,7 +33028,7 @@
   "deadline": "2026-09-11",
   "annTitle": "2026广东韶关南雄市高层次和急需紧缺专业人才招聘19人公告（教师9人，编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471312.html",
-  "id": 1944
+  "id": 1943
  },
  {
   "school": "宝安区中英公学",
@@ -33062,7 +33045,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区中英公学招聘初三语文教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473891.html",
-  "id": 1945
+  "id": 1944
  },
  {
   "school": "宝安区冠群实验学校",
@@ -33079,7 +33062,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区冠群实验学校招聘初中数学1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473888.html",
-  "id": 1946
+  "id": 1945
  },
  {
   "school": "第三高级中学",
@@ -33096,7 +33079,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳第三高级中学招聘初中道德与法治教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473887.html",
-  "id": 1947
+  "id": 1946
  },
  {
   "school": "第七高级中学专任教师",
@@ -33113,7 +33096,7 @@
   "deadline": "2026-11-16",
   "annTitle": "2026广东深圳市第七高级中学专任教师招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473738.html",
-  "id": 1948
+  "id": 1947
  },
  {
   "school": "深圳中学",
@@ -33130,7 +33113,7 @@
   "deadline": "2026-11-13",
   "annTitle": "2026年11月广东深圳中学面向2027年应届毕业生招聘教师18人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473737.html",
-  "id": 1949
+  "id": 1948
  },
  {
   "school": "南山区海印长城幼儿园人员",
@@ -33147,7 +33130,7 @@
   "deadline": "2026-11-20",
   "annTitle": "2026广东深圳市南山区海印长城幼儿园人员招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473654.html",
-  "id": 1950
+  "id": 1949
  },
  {
   "school": "罗湖区教育系统公办幼儿园",
@@ -33164,7 +33147,7 @@
   "deadline": "2026-11-12",
   "annTitle": "2026年10月广东深圳市罗湖区教育系统公办幼儿园招聘财务岗位人员3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473558.html",
-  "id": 1951
+  "id": 1950
  },
  {
   "school": "北京师范大学南山附属学校小学部",
@@ -33181,7 +33164,7 @@
   "deadline": "2026-11-02",
   "annTitle": "2026广东北京师范大学南山附属学校小学部招聘语文教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473484.html",
-  "id": 1952
+  "id": 1951
  },
  {
   "school": "宝安区冠群实验学校",
@@ -33198,7 +33181,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区冠群实验学校招聘初中数学、小学科学教师2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473311.html",
-  "id": 1953
+  "id": 1952
  },
  {
   "school": "信息职业技术大学博士层次员额制教师",
@@ -33215,7 +33198,7 @@
   "deadline": "2026-10-25",
   "annTitle": "2026下半年广东深圳信息职业技术大学博士层次员额制教师招聘53人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473108.html",
-  "id": 1954
+  "id": 1953
  },
  {
   "school": "北理莫斯科大学艺术中心",
@@ -33232,7 +33215,7 @@
   "deadline": "2026-10-30",
   "annTitle": "2026广东深圳北理莫斯科大学艺术中心招聘公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473067.html",
-  "id": 1955
+  "id": 1954
  },
  {
   "school": "南山区蓓蕾幼教集团",
@@ -33249,7 +33232,7 @@
   "deadline": "2026-11-30",
   "annTitle": "2026广东深圳市南山区蓓蕾幼教集团招聘5人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473066.html",
-  "id": 1956
+  "id": 1955
  },
  {
   "school": "南山区教育幼儿园",
@@ -33266,7 +33249,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市南山区教育幼儿园招聘公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472813.html",
-  "id": 1957
+  "id": 1956
  },
  {
   "school": "职业技术大学",
@@ -33283,7 +33266,7 @@
   "deadline": "2026-10-19",
   "annTitle": "2026广东深圳职业技术大学招聘35人公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472593.html",
-  "id": 1958
+  "id": 1957
  },
  {
   "school": "北理莫斯科大学俄语中心",
@@ -33300,7 +33283,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026广东深圳北理莫斯科大学俄语中心招聘俄语教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472497.html",
-  "id": 1959
+  "id": 1958
  },
  {
   "school": "北理莫斯科大学学生工作部专职辅导员",
@@ -33317,7 +33300,7 @@
   "deadline": "2026-10-21",
   "annTitle": "2026广东深圳北理莫斯科大学学生工作部专职辅导员招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472473.html",
-  "id": 1960
+  "id": 1959
  },
  {
   "school": "理工大学",
@@ -33334,7 +33317,7 @@
   "deadline": "2026-10-10",
   "annTitle": "2026广东深圳理工大学招聘行政管理人员招聘3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472406.html",
-  "id": 1961
+  "id": 1960
  },
  {
   "school": "深圳大学人力资源部",
@@ -33351,7 +33334,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026年9月广东深圳大学选聘高层次人才1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472390.html",
-  "id": 1962
+  "id": 1961
  },
  {
   "school": "新华外国语学校",
@@ -33368,7 +33351,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳新华外国语学校招聘初中化学老师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472358.html",
-  "id": 1963
+  "id": 1962
  },
  {
   "school": "深圳大学",
@@ -33385,7 +33368,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026广东深圳大学选聘高层次人才1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472355.html",
-  "id": 1964
+  "id": 1963
  },
  {
   "school": "秋季广东深圳市福民学校",
@@ -33402,7 +33385,7 @@
   "deadline": "",
   "annTitle": "2026秋季广东深圳市福民学校招聘中小学数学教师2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472255.html",
-  "id": 1965
+  "id": 1964
  },
  {
   "school": "北理莫斯科大学汉语中心兼职教师",
@@ -33419,7 +33402,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026广东深圳北理莫斯科大学汉语中心兼职教师招聘公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472169.html",
-  "id": 1966
+  "id": 1965
  },
  {
   "school": "北理莫斯科大学英语中心",
@@ -33436,7 +33419,7 @@
   "deadline": "2026-10-10",
   "annTitle": "2026广东深圳北理莫斯科大学英语中心招聘公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472111.html",
-  "id": 1967
+  "id": 1966
  },
  {
   "school": "第二职业技术学校",
@@ -33453,7 +33436,7 @@
   "deadline": "2026-09-15",
   "annTitle": "2026广东深圳市第二职业技术学校招聘财务人员1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472050.html",
-  "id": 1968
+  "id": 1967
  },
  {
   "school": "秋季广东深圳市宝安区翻身实验学校（东校区）",
@@ -33470,7 +33453,7 @@
   "deadline": "",
   "annTitle": "2026秋季广东深圳市宝安区翻身实验学校（东校区）招聘初中各科优秀教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471849.html",
-  "id": 1969
+  "id": 1968
  },
  {
   "school": "宝安区翻身实验学校（西校区）",
@@ -33487,7 +33470,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区翻身实验学校（西校区）招聘初中和高中教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471848.html",
-  "id": 1970
+  "id": 1969
  },
  {
   "school": "第七高级中学",
@@ -33504,7 +33487,7 @@
   "deadline": "2026-09-20",
   "annTitle": "2026广东深圳市第七高级中学招聘专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471821.html",
-  "id": 1971
+  "id": 1970
  },
  {
   "school": "宝安区崛起诚信实验学校",
@@ -33521,7 +33504,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区崛起诚信实验学校招聘小学英语教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471800.html",
-  "id": 1972
+  "id": 1971
  },
  {
   "school": "秋季广东深圳市福民学校",
@@ -33538,7 +33521,7 @@
   "deadline": "",
   "annTitle": "2026秋季广东深圳市福民学校招聘教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471799.html",
-  "id": 1973
+  "id": 1972
  },
  {
   "school": "罗湖区侨香实验学校",
@@ -33555,7 +33538,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市罗湖区侨香实验学校招聘心理教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471708.html",
-  "id": 1974
+  "id": 1973
  },
  {
   "school": "罗湖区新华外国语学校",
@@ -33572,7 +33555,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市罗湖区新华外国语学校招聘体育老师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471541.html",
-  "id": 1975
+  "id": 1974
  },
  {
   "school": "桃源居中澳实验学校",
@@ -33589,7 +33572,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市桃源居中澳实验学校招聘初高中教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471494.html",
-  "id": 1976
+  "id": 1975
  },
  {
   "school": "宝安区水田实验学校",
@@ -33606,7 +33589,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区水田实验学校招聘初中各科优秀教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471486.html",
-  "id": 1977
+  "id": 1976
  },
  {
   "school": "宝安区冠群实验学校",
@@ -33623,7 +33606,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区冠群实验学校招聘初中数学、小学心理健康教师3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471485.html",
-  "id": 1978
+  "id": 1977
  },
  {
   "school": "宝安区翻身实验学校（西校区）",
@@ -33640,7 +33623,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区翻身实验学校（西校区）招聘小学、初中和高中教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471475.html",
-  "id": 1979
+  "id": 1978
  },
  {
   "school": "秋季学期广东深圳市宝安区鹤洲学校",
@@ -33657,7 +33640,7 @@
   "deadline": "",
   "annTitle": "2026秋季学期广东深圳市宝安区鹤洲学校招聘初中历史老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471474.html",
-  "id": 1980
+  "id": 1979
  },
  {
   "school": "宝安区化雨中英文小学",
@@ -33674,7 +33657,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市宝安区化雨中英文小学招聘小学语文、英语、心理、体育教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471473.html",
-  "id": 1981
+  "id": 1980
  },
  {
   "school": "第三高级中学",
@@ -33691,7 +33674,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市第三高级中学招聘初中物理教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471422.html",
-  "id": 1982
+  "id": 1981
  },
  {
   "school": "罗湖区莲城学校",
@@ -33708,7 +33691,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市罗湖区莲城学校招聘3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471370.html",
-  "id": 1983
+  "id": 1982
  },
  {
   "school": "大学附属中学",
@@ -33725,7 +33708,7 @@
   "deadline": "2026-08-22",
   "annTitle": "2026广东深圳大学附属中学招聘优秀教师及教辅人员公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471243.html",
-  "id": 1984
+  "id": 1983
  },
  {
   "school": "罗湖区莲城学校",
@@ -33742,7 +33725,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳市罗湖区莲城学校招聘中小学体育教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471160.html",
-  "id": 1985
+  "id": 1984
  },
  {
   "school": "高级中学（集团）中心校区",
@@ -33759,7 +33742,7 @@
   "deadline": "",
   "annTitle": "2026广东深圳高级中学（集团）中心校区招聘生活老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470956.html",
-  "id": 1986
+  "id": 1985
  },
  {
   "school": "第三高级中学",
@@ -33776,7 +33759,7 @@
   "deadline": "2026-08-25",
   "annTitle": "2026广东深圳市第三高级中学招聘高中生活老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470953.html",
-  "id": 1987
+  "id": 1986
  },
  {
   "school": "龙华区教育局",
@@ -33793,7 +33776,7 @@
   "deadline": "2026-08-21",
   "annTitle": "2026年8月广东深圳市龙华区教育局招聘公办幼儿园教职工355人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470862.html",
-  "id": 1988
+  "id": 1987
  },
  {
   "school": "第七高级中学",
@@ -33810,7 +33793,7 @@
   "deadline": "2026-08-23",
   "annTitle": "2026年8月广东深圳市第七高级中学招聘专任教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470851.html",
-  "id": 1989
+  "id": 1988
  },
  {
   "school": "珠海市人力资源和社会保障局",
@@ -33827,7 +33810,7 @@
   "deadline": "2026-11-03",
   "annTitle": "2026年10月广东珠海市教育局招聘直属学校事业编制教师178人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473223.html",
-  "id": 1990
+  "id": 1989
  },
  {
   "school": "横琴粤澳深度合作区",
@@ -33844,7 +33827,7 @@
   "deadline": "2026-10-20",
   "annTitle": "2026广东珠海市横琴粤澳深度合作区招聘事业编制教师6人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472790.html",
-  "id": 1991
+  "id": 1990
  },
  {
   "school": "秋季广东珠海市斗门区乐行幼儿园",
@@ -33861,7 +33844,7 @@
   "deadline": "2026-10-09",
   "annTitle": "2026秋季广东珠海市斗门区乐行幼儿园招聘合同制教职工1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472703.html",
-  "id": 1992
+  "id": 1991
  },
  {
   "school": "珠海市人力资源和社会保障局",
@@ -33878,7 +33861,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026下半年广东珠海高新区招聘公办学校事业编制教师40人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472629.html",
-  "id": 1993
+  "id": 1992
  },
  {
   "school": "秋季广东珠海市教育局",
@@ -33895,7 +33878,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026秋季广东珠海市教育局招聘直属学校事业编制教师68人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471904.html",
-  "id": 1994
+  "id": 1993
  },
  {
   "school": "斗门区2所公办幼儿园",
@@ -33912,7 +33895,7 @@
   "deadline": "2026-08-23",
   "annTitle": "2026广东珠海市斗门区2所公办幼儿园招聘合同制教职工3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471119.html",
-  "id": 1995
+  "id": 1994
  },
  {
   "school": "珠海国家高新技术产业开发区",
@@ -33929,7 +33912,7 @@
   "deadline": "2026-08-17",
   "annTitle": "2026广东珠海高新区招聘公办幼儿园合同制教职员14人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470846.html",
-  "id": 1996
+  "id": 1995
  },
  {
   "school": "大学法学院",
@@ -33946,7 +33929,7 @@
   "deadline": "2026-11-15",
   "annTitle": "2026广东汕头大学法学院招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473520.html",
-  "id": 1997
+  "id": 1996
  },
  {
   "school": "汕头大学",
@@ -33963,7 +33946,7 @@
   "deadline": "2026-11-02",
   "annTitle": "2026广东汕头大学招聘附属幼儿园教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473317.html",
-  "id": 1998
+  "id": 1997
  },
  {
   "school": "大学精神卫生中心",
@@ -33980,7 +33963,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026广东汕头大学精神卫生中心招聘31人公告（第四批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472639.html",
-  "id": 1999
+  "id": 1998
  },
  {
   "school": "职业技术学院针织、电力类非事业编制教师",
@@ -33997,7 +33980,7 @@
   "deadline": "2026-11-30",
   "annTitle": "2026广东职业技术学院针织、电力类非事业编制教师招聘3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473739.html",
-  "id": 2000
+  "id": 1999
  },
  {
   "school": "顺德第一中学高中数学教师",
@@ -34014,7 +33997,7 @@
   "deadline": "",
   "annTitle": "2026广东佛山市顺德第一中学高中数学教师招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472665.html",
-  "id": 2001
+  "id": 2000
  },
  {
   "school": "职业技术学院非事业编制副高以上高技能人才",
@@ -34031,7 +34014,7 @@
   "deadline": "",
   "annTitle": "2026广东职业技术学院非事业编制副高以上高技能人才招聘5人公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471956.html",
-  "id": 2002
+  "id": 2001
  },
  {
   "school": "职业技术学院非事业编制教师",
@@ -34048,7 +34031,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026广东职业技术学院非事业编制教师招聘4人公告（第三批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471867.html",
-  "id": 2003
+  "id": 2002
  },
  {
   "school": "财经职业技术学校",
@@ -34065,7 +34048,7 @@
   "deadline": "",
   "annTitle": "2026广东省财经职业技术学校招聘3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471372.html",
-  "id": 2004
+  "id": 2003
  },
  {
   "school": "南海区民政综合服务中心",
@@ -34082,7 +34065,7 @@
   "deadline": "2026-09-02",
   "annTitle": "2026广东佛山市南海区民政综合服务中心招聘合同制专任教师3人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471242.html",
-  "id": 2005
+  "id": 2004
  },
  {
   "school": "顺德德胜学校",
@@ -34099,7 +34082,7 @@
   "deadline": "",
   "annTitle": "2026广东佛山市顺德德胜学校招聘优秀教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470921.html",
-  "id": 2006
+  "id": 2005
  },
  {
   "school": "顺德区北滘中学",
@@ -34116,7 +34099,7 @@
   "deadline": "2026-08-16",
   "annTitle": "2026广东佛山市顺德区北滘中学招聘生活老师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470918.html",
-  "id": 2007
+  "id": 2006
  },
  {
   "school": "南海区大沥高级中学",
@@ -34133,7 +34116,7 @@
   "deadline": "2026-08-12",
   "annTitle": "2026广东佛山市南海区大沥高级中学招聘优秀化学教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470836.html",
-  "id": 2008
+  "id": 2007
  },
  {
   "school": "职业技术学院",
@@ -34150,7 +34133,7 @@
   "deadline": "2026-11-13",
   "annTitle": "2026广东江门职业技术学院招聘辅导员7人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473717.html",
-  "id": 2009
+  "id": 2008
  },
  {
   "school": "台山市医疗卫生机构",
@@ -34167,7 +34150,7 @@
   "deadline": "2026-12-31",
   "annTitle": "2026下半年广东江门台山市医疗卫生机构招聘编外人员34人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473467.html",
-  "id": 2010
+  "id": 2009
  },
  {
   "school": "台山市部分学校",
@@ -34184,7 +34167,7 @@
   "deadline": "2026-11-30",
   "annTitle": "2026广东江门台山市部分学校招聘急需紧缺人才8人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473103.html",
-  "id": 2011
+  "id": 2010
  },
  {
   "school": "江海区教育局",
@@ -34201,7 +34184,7 @@
   "deadline": "2026-10-23",
   "annTitle": "2026广东江门市江海区招聘高层次优秀教育人才2人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472969.html",
-  "id": 2012
+  "id": 2011
  },
  {
   "school": "华侨中学",
@@ -34218,7 +34201,7 @@
   "deadline": "",
   "annTitle": "2026广东江门市华侨中学招聘教辅人员公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472968.html",
-  "id": 2013
+  "id": 2012
  },
  {
   "school": "新会技师学院编外教辅人员",
@@ -34235,7 +34218,7 @@
   "deadline": "2026-09-16",
   "annTitle": "2026广东江门市新会技师学院编外教辅人员招聘4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471817.html",
-  "id": 2014
+  "id": 2013
  },
  {
   "school": "开平市教育系统",
@@ -34252,7 +34235,7 @@
   "deadline": "2026-09-04",
   "annTitle": "2026广东江门开平市教育系统招聘急需紧缺人才教师9人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471362.html",
-  "id": 2015
+  "id": 2014
  },
  {
   "school": "夏季广东江门市直教育系统事业单位",
@@ -34269,7 +34252,7 @@
   "deadline": "2026-08-29",
   "annTitle": "2026夏季广东江门市直教育系统事业单位招聘高层次和急需紧缺人才6人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471045.html",
-  "id": 2016
+  "id": 2015
  },
  {
   "school": "秋季广东湛江市教育局直属事业单位",
@@ -34286,7 +34269,7 @@
   "deadline": "2026-11-02",
   "annTitle": "2026秋季广东湛江市教育局直属事业单位招聘工作人员87人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473215.html",
-  "id": 2017
+  "id": 2016
  },
  {
   "school": "教育局直属学校岭南师范学院附属中学",
@@ -34303,7 +34286,7 @@
   "deadline": "2026-09-08",
   "annTitle": "2026广东湛江市教育局直属学校岭南师范学院附属中学招聘17人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471423.html",
-  "id": 2018
+  "id": 2017
  },
  {
   "school": "信宜市中小学心理健康教育指导中心",
@@ -34320,7 +34303,7 @@
   "deadline": "2026-09-24",
   "annTitle": "2026广东茂名信宜市中小学心理健康教育指导中心选聘教师4人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472254.html",
-  "id": 2019
+  "id": 2018
  },
  {
   "school": "茂南区羊角镇中心学校",
@@ -34337,7 +34320,7 @@
   "deadline": "",
   "annTitle": "2026广东茂名市茂南区羊角镇中心学校招聘购买人力资源服务教师9人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471154.html",
-  "id": 2020
+  "id": 2019
  },
  {
   "school": "化州市新安中学",
@@ -34354,7 +34337,7 @@
   "deadline": "",
   "annTitle": "2026广东茂名化州市新安中学招聘临聘教师公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470891.html",
-  "id": 2021
+  "id": 2020
  },
  {
   "school": "肇庆学院",
@@ -34371,7 +34354,7 @@
   "deadline": "2026-10-15",
   "annTitle": "2026广东肇庆学院招聘劳动合同制人员2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472729.html",
-  "id": 2022
+  "id": 2021
  },
  {
   "school": "学院教学科研人员",
@@ -34388,7 +34371,7 @@
   "deadline": "2026-12-31",
   "annTitle": "2026广东肇庆学院教学科研人员招聘118人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472052.html",
-  "id": 2023
+  "id": 2022
  },
  {
   "school": "高要区公办中小学",
@@ -34405,7 +34388,7 @@
   "deadline": "2026-08-26",
   "annTitle": "2026广东肇庆市高要区公办中小学招聘教育服务人员200人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471263.html",
-  "id": 2024
+  "id": 2023
  },
  {
   "school": "技师学院",
@@ -34422,7 +34405,7 @@
   "deadline": "2026-08-21",
   "annTitle": "2026广东肇庆市技师学院招聘高技能人才4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471036.html",
-  "id": 2025
+  "id": 2024
  },
  {
   "school": "城市职业学院合同制教师",
@@ -34439,7 +34422,7 @@
   "deadline": "2026-10-16",
   "annTitle": "2026广东惠州城市职业学院合同制教师招聘18人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472702.html",
-  "id": 2026
+  "id": 2025
  },
  {
   "school": "惠州学院",
@@ -34456,7 +34439,7 @@
   "deadline": "2026-12-31",
   "annTitle": "2026广东惠州学院招聘教学法、课程与教学论师资3人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472594.html",
-  "id": 2027
+  "id": 2026
  },
  {
   "school": "惠阳区教育系统",
@@ -34473,7 +34456,7 @@
   "deadline": "",
   "annTitle": "2026广东惠州市惠阳区教育系统招募见习生138人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471634.html",
-  "id": 2028
+  "id": 2027
  },
  {
   "school": "嘉应学院",
@@ -34490,7 +34473,7 @@
   "deadline": "2026-09-18",
   "annTitle": "2026广东梅州市嘉应学院招聘16人公告（第二轮）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471826.html",
-  "id": 2029
+  "id": 2028
  },
  {
   "school": "技师学院",
@@ -34507,7 +34490,7 @@
   "deadline": "2026-09-07",
   "annTitle": "2026广东梅州市技师学院招聘编外工作人员1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471611.html",
-  "id": 2030
+  "id": 2029
  },
  {
   "school": "职业技术学院",
@@ -34524,7 +34507,7 @@
   "deadline": "2026-10-07",
   "annTitle": "2026广东汕尾职业技术学院招聘专任教师5人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472043.html",
-  "id": 2031
+  "id": 2030
  },
  {
   "school": "连平县人民政府门户网站",
@@ -34541,7 +34524,7 @@
   "deadline": "2026-09-09",
   "annTitle": "2026广东河源市连平县招聘临聘教师29人公告（第二批）",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471619.html",
-  "id": 2032
+  "id": 2031
  },
  {
   "school": "秋季学期广东河源市东源县教育系统",
@@ -34558,7 +34541,7 @@
   "deadline": "2026-08-28",
   "annTitle": "2026秋季学期广东河源市东源县教育系统招聘临聘教职员182人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471453.html",
-  "id": 2033
+  "id": 2032
  },
  {
   "school": "紫金中学",
@@ -34575,7 +34558,7 @@
   "deadline": "2026-08-19",
   "annTitle": "2026广东河源市紫金中学招聘临聘办公室文员1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470895.html",
-  "id": 2034
+  "id": 2033
  },
  {
   "school": "阳西县第二幼儿园就业见习岗位",
@@ -34592,7 +34575,7 @@
   "deadline": "",
   "annTitle": "2026广东阳江市阳西县第二幼儿园就业见习岗位招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473061.html",
-  "id": 2035
+  "id": 2034
  },
  {
   "school": "清城区教育系统",
@@ -34609,7 +34592,7 @@
   "deadline": "2026-11-18",
   "annTitle": "2026广东清远市清城区教育系统招聘编外教师160人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473856.html",
-  "id": 2036
+  "id": 2035
  },
  {
   "school": "清新区人民政府门户网站",
@@ -34626,7 +34609,7 @@
   "deadline": "2026-11-10",
   "annTitle": "2026下半年广东清远市清新区招聘高层次教育人才50人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473783.html",
-  "id": 2037
+  "id": 2036
  },
  {
   "school": "清新区教育局",
@@ -34643,7 +34626,7 @@
   "deadline": "2026-08-27",
   "annTitle": "2026广东清远市清新区教育局招聘劳动合同制编外教师45人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471410.html",
-  "id": 2038
+  "id": 2037
  },
  {
   "school": "连州市教师发展中心",
@@ -34660,7 +34643,7 @@
   "deadline": "2026-08-25",
   "annTitle": "2026广东清远连州市教师发展中心招聘教研员4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470870.html",
-  "id": 2039
+  "id": 2038
  },
  {
   "school": "麻涌镇大盛小学",
@@ -34677,7 +34660,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026广东东莞市麻涌镇大盛小学招聘产假代课英语教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472585.html",
-  "id": 2040
+  "id": 2039
  },
  {
   "school": "麻涌镇大步实验小学",
@@ -34694,7 +34677,7 @@
   "deadline": "2026-10-08",
   "annTitle": "2026广东东莞市麻涌镇大步实验小学招聘小学数学教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472459.html",
-  "id": 2041
+  "id": 2040
  },
  {
   "school": "东莞市人民政府门户网站",
@@ -34711,7 +34694,7 @@
   "deadline": "2026-09-14",
   "annTitle": "2026广东东莞市麻涌镇招聘小学体育教师（篮球方向）1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471952.html",
-  "id": 2042
+  "id": 2041
  },
  {
   "school": "大湾区大学信息科学技术学院行政专员",
@@ -34728,7 +34711,7 @@
   "deadline": "",
   "annTitle": "2026广东东莞市大湾区大学信息科学技术学院行政专员招聘1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471476.html",
-  "id": 2043
+  "id": 2042
  },
  {
   "school": "东凤镇中心幼儿园",
@@ -34745,7 +34728,7 @@
   "deadline": "2026-11-05",
   "annTitle": "2026广东中山市东凤镇中心幼儿园招聘雇员2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473428.html",
-  "id": 2044
+  "id": 2043
  },
  {
   "school": "东凤镇佛奥幼儿园",
@@ -34762,7 +34745,7 @@
   "deadline": "2026-10-22",
   "annTitle": "2026广东中山市东凤镇佛奥幼儿园招聘保育员1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473013.html",
-  "id": 2045
+  "id": 2044
  },
  {
   "school": "阜沙镇第一幼儿园",
@@ -34779,7 +34762,7 @@
   "deadline": "2026-09-27",
   "annTitle": "2026广东中山市阜沙镇第一幼儿园招聘教师1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/472336.html",
-  "id": 2046
+  "id": 2045
  },
  {
   "school": "秋季学期广东中山市石岐街道中心幼儿园",
@@ -34796,7 +34779,7 @@
   "deadline": "2026-09-11",
   "annTitle": "2026秋季学期广东中山市石岐街道中心幼儿园招聘保育员1人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/09/471672.html",
-  "id": 2047
+  "id": 2046
  },
  {
   "school": "翠雅学校",
@@ -34813,7 +34796,7 @@
   "deadline": "2026-09-07",
   "annTitle": "2026广东中山市翠雅学校招聘初中合同制教师4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471457.html",
-  "id": 2048
+  "id": 2047
  },
  {
   "school": "香山幼儿园教育集团",
@@ -34830,7 +34813,7 @@
   "deadline": "2026-08-24",
   "annTitle": "2026广东中山市香山幼儿园教育集团招聘教师、保育员9人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471118.html",
-  "id": 2049
+  "id": 2048
  },
  {
   "school": "中山市板芙镇",
@@ -34847,7 +34830,7 @@
   "deadline": "2026-08-26",
   "annTitle": "2026广东中山市板芙镇招聘公办中小学校编外教职员40人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471085.html",
-  "id": 2050
+  "id": 2049
  },
  {
   "school": "坦洲华特雅学校教师",
@@ -34864,7 +34847,7 @@
   "deadline": "",
   "annTitle": "2026广东中山市坦洲华特雅学校教师招聘4人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471049.html",
-  "id": 2051
+  "id": 2050
  },
  {
   "school": "纪雅学校教师",
@@ -34881,7 +34864,7 @@
   "deadline": "",
   "annTitle": "2026广东中山市纪雅学校教师招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470901.html",
-  "id": 2052
+  "id": 2051
  },
  {
   "school": "东凤镇中心幼儿园",
@@ -34898,7 +34881,7 @@
   "deadline": "2026-08-22",
   "annTitle": "2026广东中山市东凤镇中心幼儿园招聘2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/470834.html",
-  "id": 2053
+  "id": 2052
  },
  {
   "school": "至2027学年度广东潮州市潮安区教育系统",
@@ -34915,7 +34898,7 @@
   "deadline": "2026-08-26",
   "annTitle": "2026至2027学年度广东潮州市潮安区教育系统招聘临聘教师350人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/08/471081.html",
-  "id": 2054
+  "id": 2053
  },
  {
   "school": "工业大学揭阳校区",
@@ -34932,7 +34915,7 @@
   "deadline": "2026-11-19",
   "annTitle": "2026广东工业大学揭阳校区招聘聘用制职员2人公告",
   "sourceUrl": "https://gd.offcn.com/html/2026/11/473807.html",
-  "id": 2055
+  "id": 2054
  },
  {
   "school": "云浮市教育局",
@@ -34949,7 +34932,7 @@
   "deadline": "2026-10-26",
   "annTitle": "2026广东云浮市招聘教育人才12公告（河南专场，编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/473033.html",
-  "id": 2056
+  "id": 2055
  },
  {
   "school": "秋季广东北京师范大学云浮实验学校",
@@ -34966,6 +34949,1264 @@
   "deadline": "2026-10-20",
   "annTitle": "2026秋季广东北京师范大学云浮实验学校招聘教师36人公告（编制）",
   "sourceUrl": "https://gd.offcn.com/html/2026/10/472757.html",
+  "id": 2056
+ },
+ {
+  "school": "详见原文",
+  "job": "【招聘】深圳市光明区高级中学招聘（高中物理）购买教育服务教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "2026-11-23",
+  "annTitle": "【招聘】深圳市光明区高级中学招聘（高中物理）购买教育服务教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3195206",
   "id": 2057
+ },
+ {
+  "school": "广东职业技术学院",
+  "job": "广东职业技术学院招聘专任教师3名",
+  "code": "",
+  "num": "3",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 杨老师；电话 0757-83106900",
+  "stage": "高校",
+  "city": "",
+  "establishment": "合同制",
+  "deadline": "2026-11-30",
+  "annTitle": "广东职业技术学院招聘专任教师3名",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3195147",
+  "id": 2058
+ },
+ {
+  "school": "深圳市南山区朗麓家园第一幼儿园教师",
+  "job": "深圳市南山区朗麓家园第一幼儿园教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 发送至指定邮箱lljydyyey@163.com",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市南山区朗麓家园第一幼儿园教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194882",
+  "id": 2059
+ },
+ {
+  "school": "广州市天河外国语学校",
+  "job": "广州市天河外国语学校2026年11月公开招聘编外聘用制专任教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 所列的资料原件扫描发送到邮箱tianhewaixiao@163.com",
+  "stage": "中小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-20",
+  "annTitle": "广州市天河外国语学校2026年11月公开招聘编外聘用制专任教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194807",
+  "id": 2060
+ },
+ {
+  "school": "东莞市第六高级中学",
+  "job": "东莞市第六高级中学招募英语银龄教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "东莞",
+  "establishment": "详见原文",
+  "deadline": "2026-11-11",
+  "annTitle": "东莞市第六高级中学招募英语银龄教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194578",
+  "id": 2061
+ },
+ {
+  "school": "广州市第一一三中学陶育实验学校",
+  "job": "广州市第一一三中学陶育实验学校2026年11月公开招聘编外聘用制专任教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 所列的资料原件扫描发送到邮箱tysyxx2013@163.com",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-17",
+  "annTitle": "广州市第一一三中学陶育实验学校2026年11月公开招聘编外聘用制专任教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194492",
+  "id": 2062
+ },
+ {
+  "school": "广州市花都区第一幼儿园",
+  "job": "2026年广州市花都区第一幼儿园招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 yyfsy2103@163.com",
+  "stage": "幼儿园",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "2026年广州市花都区第一幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194233",
+  "id": 2063
+ },
+ {
+  "school": "珠海市香洲区杨匏安幼儿园合同制及顶岗教职工",
+  "job": "珠海市香洲区杨匏安幼儿园合同制及顶岗教职工招聘公告",
+  "code": "",
+  "num": "7",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 421794542@qq.com",
+  "stage": "幼儿园",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "2026-11-13",
+  "annTitle": "珠海市香洲区杨匏安幼儿园合同制及顶岗教职工招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194187",
+  "id": 2064
+ },
+ {
+  "school": "深圳市宝安区西乡固戍第二幼儿园",
+  "job": "深圳市宝安区西乡固戍第二幼儿园2026年11月公开招聘公办幼儿园短期配班教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 464978144@qq.com",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "合同制",
+  "deadline": "2026-11-12",
+  "annTitle": "深圳市宝安区西乡固戍第二幼儿园2026年11月公开招聘公办幼儿园短期配班教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194186",
+  "id": 2065
+ },
+ {
+  "school": "佛山市顺德区桂洲中学",
+  "job": "佛山市顺德区桂洲中学招聘高中数学、物理临聘教师公告",
+  "code": "",
+  "num": "2",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 0757-26613638；邮箱 296459071@qq.com",
+  "stage": "中学",
+  "city": "佛山",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "佛山市顺德区桂洲中学招聘高中数学、物理临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3194025",
+  "id": 2066
+ },
+ {
+  "school": "深圳市龙岗区横岗街道天颂雅苑幼儿园",
+  "job": "深圳市龙岗区横岗街道天颂雅苑幼儿园招聘启事",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 15712089382；邮箱 tsyy666@lg.gov.cn",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "2026-11-16",
+  "annTitle": "深圳市龙岗区横岗街道天颂雅苑幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193988",
+  "id": 2067
+ },
+ {
+  "school": "珠海市前山中学",
+  "job": "珠海市前山中学公开招聘临聘教师公告（四）（新增岗位1个）",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 考生应将以下材料扫描成清晰的图片格式文件后打包上传至454676625@qq.com",
+  "stage": "中学",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "2026-11-13",
+  "annTitle": "珠海市前山中学公开招聘临聘教师公告（四）（新增岗位1个）",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193585",
+  "id": 2068
+ },
+ {
+  "school": "广州开发区外国语学校临聘教师",
+  "job": "广州开发区外国语学校临聘教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 发至邮箱452994077@qq.com",
+  "stage": "中小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-13",
+  "annTitle": "广州开发区外国语学校临聘教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193560",
+  "id": 2069
+ },
+ {
+  "school": "广钢华标幼儿园",
+  "job": "广钢华标幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "大专及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 1930504568@qq.com",
+  "stage": "幼儿园",
+  "city": "",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "广钢华标幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3193017",
+  "id": 2070
+ },
+ {
+  "school": "深圳市宝安区沙井荣御幼儿园",
+  "job": "深圳市宝安区沙井荣御幼儿园招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 18216805@qq.com邮箱",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "合同制",
+  "deadline": "2026-11-11",
+  "annTitle": "深圳市宝安区沙井荣御幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192952",
+  "id": 2071
+ },
+ {
+  "school": "珠海市香山学校",
+  "job": "珠海市香山学校公开招聘1名短期临聘音乐教师的公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中小学",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "珠海市香山学校公开招聘1名短期临聘音乐教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192877",
+  "id": 2072
+ },
+ {
+  "school": "秋季珠海市香洲区石花中学",
+  "job": "2026年秋季珠海市香洲区石花中学公开招聘临聘教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 考生应将以下材料扫描成清晰的图片格式文件后上传至学校接收报考资料的邮箱zhsshzx@163.com",
+  "stage": "中学",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "2026-11-12",
+  "annTitle": "2026年秋季珠海市香洲区石花中学公开招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192854",
+  "id": 2073
+ },
+ {
+  "school": "深圳市龙岗区教科院附属实验学校2026-2027学年第三方购买服务教师",
+  "job": "深圳市龙岗区教科院附属实验学校2026-2027学年第三方购买服务教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 0755-89723520；邮箱 荣誉证书等打包压缩发送至邮箱ychrzpb@163.com",
+  "stage": "中小学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市龙岗区教科院附属实验学校2026-2027学年第三方购买服务教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192460",
+  "id": 2074
+ },
+ {
+  "school": "深圳市光明区外国语学校凤华幼儿园关于",
+  "job": "深圳市光明区外国语学校凤华幼儿园关于2026年11月公开招聘公办幼儿园工作人员公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "合同制",
+  "deadline": "2026-11-11",
+  "annTitle": "深圳市光明区外国语学校凤华幼儿园关于2026年11月公开招聘公办幼儿园工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192371",
+  "id": 2075
+ },
+ {
+  "school": "狮山镇罗村小学",
+  "job": "狮山镇罗村小学招聘教师公告",
+  "code": "",
+  "num": "2",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 李老师，联系人电话；电话 0575-86414137   139231；邮箱 发送到邮箱357667024@qq.com",
+  "stage": "小学",
+  "city": "",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "狮山镇罗村小学招聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192370",
+  "id": 2076
+ },
+ {
+  "school": "广州市景中实验中学参加广州市海珠区教育系统高校毕业生",
+  "job": "广州市景中实验中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "code": "",
+  "num": "2",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-11-16",
+  "annTitle": "广州市景中实验中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192369",
+  "id": 2077
+ },
+ {
+  "school": "广州市第四十一中学参加广州市海珠区教育系统高校毕业生",
+  "job": "广州市第四十一中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "code": "",
+  "num": "5",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "2026-11-16",
+  "annTitle": "广州市第四十一中学参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3192323",
+  "id": 2078
+ },
+ {
+  "school": "深圳市第三高级中学关于",
+  "job": "深圳市第三高级中学关于招聘初中道德与法治教师的公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 张老师；邮箱 1.有意者以附件的形式发带照片的电子简历至80941075@qq.com",
+  "stage": "中学",
+  "city": "深圳",
+  "establishment": "合同制",
+  "deadline": "2026-11-20",
+  "annTitle": "深圳市第三高级中学关于招聘初中道德与法治教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191910",
+  "id": 2079
+ },
+ {
+  "school": "广州市花都区圆玄小学数学专任教师",
+  "job": "广州市花都区圆玄小学数学专任教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 唐老师，联系电话；电话 13760689344\n；邮箱 gzshdqyxxx@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-13",
+  "annTitle": "广州市花都区圆玄小学数学专任教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191410",
+  "id": 2080
+ },
+ {
+  "school": "狮山镇官窑中心小学",
+  "job": "狮山镇官窑中心小学招聘教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 谢老师；电话 0757-85887357\n4；邮箱 2991138142@qq.com",
+  "stage": "小学",
+  "city": "",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "狮山镇官窑中心小学招聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191409",
+  "id": 2081
+ },
+ {
+  "school": "盐步中心小学语文教师",
+  "job": "盐步中心小学语文教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 应聘方式应聘者请把简历发至邮箱YBCPSCHOOL@163.COM",
+  "stage": "小学",
+  "city": "",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "盐步中心小学语文教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191408",
+  "id": 2082
+ },
+ {
+  "school": "广州市第五中学和广州市五中附属初级中学联合参加广州市海珠区教育系统高校毕业生",
+  "job": "广州市第五中学和广州市五中附属初级中学联合参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "code": "",
+  "num": "11",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "2026-11-16",
+  "annTitle": "广州市第五中学和广州市五中附属初级中学联合参加2026年广州市海珠区教育系统高校毕业生招聘的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190696",
+  "id": 2083
+ },
+ {
+  "school": "广东外语外贸大学信息科学与技术学院(网络空间安全学院)",
+  "job": "广东外语外贸大学信息科学与技术学院(网络空间安全学院)公开招聘高层次人才公告",
+  "code": "",
+  "num": "18",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "广东外语外贸大学信息科学与技术学院(网络空间安全学院)公开招聘高层次人才公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3189368",
+  "id": 2084
+ },
+ {
+  "school": "广州市花都区风神实验小学",
+  "job": "广州市花都区风神实验小学招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 hdqfssyxx@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "广州市花都区风神实验小学招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188409",
+  "id": 2085
+ },
+ {
+  "school": "广州铁路职业技术学院第二批院编工作人员",
+  "job": "广州铁路职业技术学院2026年第二批院编工作人员招聘公告",
+  "code": "",
+  "num": "23",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-13",
+  "annTitle": "广州铁路职业技术学院2026年第二批院编工作人员招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187511",
+  "id": 2086
+ },
+ {
+  "school": "广州市白云区石门街中心幼儿园（含雍云邸园区）",
+  "job": "广州市白云区石门街中心幼儿园（含雍云邸园区）招聘公告",
+  "code": "",
+  "num": "3",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "广州市白云区石门街中心幼儿园（含雍云邸园区）招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187330",
+  "id": 2087
+ },
+ {
+  "school": "北京师范大学广州实验学校关于",
+  "job": "北京师范大学广州实验学校关于公开招聘临聘教师的公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 bsdgs@vip.163.com",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-09",
+  "annTitle": "北京师范大学广州实验学校关于公开招聘临聘教师的公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3187290",
+  "id": 2088
+ },
+ {
+  "school": "广州南沙人力资源发展有限公司",
+  "job": "广州南沙人力资源发展有限公司招聘中小学教师公告",
+  "code": "",
+  "num": "8",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 020-31153959",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "2026-11-15",
+  "annTitle": "广州南沙人力资源发展有限公司招聘中小学教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186829",
+  "id": 2089
+ },
+ {
+  "school": "广州市花都区秀全中学",
+  "job": "广州市花都区秀全中学招聘临聘教师启事",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 联系电话；电话 020-86830965；邮箱 xqzxrs@163.com",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-09",
+  "annTitle": "广州市花都区秀全中学招聘临聘教师启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186591",
+  "id": 2090
+ },
+ {
+  "school": "广州市花都区新雅街雅瑶小学",
+  "job": "广州市花都区新雅街雅瑶小学招聘临聘教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 张老师；电话 13922360520；邮箱 获奖证书等原件的彩色照片到邮箱yyxx263@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "广州市花都区新雅街雅瑶小学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186492",
+  "id": 2091
+ },
+ {
+  "school": "广东机电职业技术学院第三批",
+  "job": "广东机电职业技术学院2026年第三批公开招聘工作人员公告",
+  "code": "",
+  "num": "61",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "广东机电职业技术学院2026年第三批公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185663",
+  "id": 2092
+ },
+ {
+  "school": "广大附中花都学校2026学年",
+  "job": "广大附中花都学校2026学年招聘临聘教师公告",
+  "code": "",
+  "num": "2",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 gdfzzl@163.com",
+  "stage": "中小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-18",
+  "annTitle": "广大附中花都学校2026学年招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184736",
+  "id": 2093
+ },
+ {
+  "school": "广州市花都区新华街横潭小学",
+  "job": "广州市花都区新华街横潭小学招聘临聘心理教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 朱老师，电话；电话 020-62633633；邮箱 发到邮箱hengtanshao@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-05",
+  "annTitle": "广州市花都区新华街横潭小学招聘临聘心理教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184735",
+  "id": 2094
+ },
+ {
+  "school": "广州市花都区花山镇花山初级中学",
+  "job": "广州市花都区花山镇花山初级中学招聘临聘教师公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：联系人 杨老师；电话 15521262955\n；邮箱 普通话证书的扫描件发到学校指定邮箱gzhdhszx@163.com",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-08",
+  "annTitle": "广州市花都区花山镇花山初级中学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3184734",
+  "id": 2095
+ },
+ {
+  "school": "天河区东风实验小学",
+  "job": "天河区东风实验小学招聘数学教师",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 3864267886@qq.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "天河区东风实验小学招聘数学教师",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183532",
+  "id": 2096
+ },
+ {
+  "school": "广州市育才中学2026“优才计划”教师",
+  "job": "广州市育才中学2026“优才计划”教师招聘公告",
+  "code": "",
+  "num": "395",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-11-03",
+  "annTitle": "广州市育才中学2026“优才计划”教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183201",
+  "id": 2097
+ },
+ {
+  "school": "南方医科大学康复医学院教学科研岗",
+  "job": "南方医科大学康复医学院教学科研岗招聘通知",
+  "code": "",
+  "num": "2",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 并发送电子邮件至指定邮箱smurs@smu.edu.cn",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "南方医科大学康复医学院教学科研岗招聘通知",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182629",
+  "id": 2098
+ },
+ {
+  "school": "广州市白云艺术中学教师",
+  "job": "广州市白云艺术中学教师招聘公告",
+  "code": "",
+  "num": "6",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 020-86325256；邮箱 发送至指定邮箱945142742@qq.com",
+  "stage": "中学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-15",
+  "annTitle": "广州市白云艺术中学教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182497",
+  "id": 2099
+ },
+ {
+  "school": "广州市花都区新雅街新雅小学信息技术教师",
+  "job": "广州市花都区新雅街新雅小学信息技术教师招聘公告",
+  "code": "",
+  "num": "1",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 020-66238281\n；邮箱 hdyfxx2015@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "2026-11-02",
+  "annTitle": "广州市花都区新雅街新雅小学信息技术教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181660",
+  "id": 2100
+ },
+ {
+  "school": "华南师范大学附属荔湾小学",
+  "job": "2026年华南师范大学附属荔湾小学招聘临聘教师公告",
+  "code": "",
+  "num": "3",
+  "edu": "本科及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：邮箱 HFLW2020@163.com",
+  "stage": "小学",
+  "city": "广州",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "2026年华南师范大学附属荔湾小学招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181172",
+  "id": 2101
+ },
+ {
+  "school": "翁源县新江镇中心幼儿园",
+  "job": "翁源县新江镇中心幼儿园招聘公告",
+  "code": "",
+  "num": "2",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 18029478565、15303089617",
+  "stage": "幼儿园",
+  "city": "韶关",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "翁源县新江镇中心幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3119781",
+  "id": 2102
+ },
+ {
+  "school": "浈江区犁市大为中学秋季临聘数学教师",
+  "job": "浈江区犁市大为中学2026年秋季临聘数学教师招聘",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "韶关",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "浈江区犁市大为中学2026年秋季临聘数学教师招聘",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3105943",
+  "id": 2103
+ },
+ {
+  "school": "韶关市浈江区乐园镇中心幼儿园",
+  "job": "韶关市浈江区乐园镇中心幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "大专及以上",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文；联系方式：电话 13376585281；邮箱 相关证件等电子佐证材料发送至496144574@qq.com",
+  "stage": "幼儿园",
+  "city": "韶关",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "韶关市浈江区乐园镇中心幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3081468",
+  "id": 2104
+ },
+ {
+  "school": "乳源瑶族自治县金禧小学",
+  "job": "乳源瑶族自治县金禧小学2026年公开招聘教学辅助人员公告",
+  "code": "",
+  "num": "1",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "小学",
+  "city": "韶关",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "乳源瑶族自治县金禧小学2026年公开招聘教学辅助人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3076049",
+  "id": 2105
+ },
+ {
+  "school": "深圳市宝安区福海新田第二幼儿园",
+  "job": "深圳市宝安区福海新田第二幼儿园招聘公办幼儿园短期教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市宝安区福海新田第二幼儿园招聘公办幼儿园短期教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191396",
+  "id": 2106
+ },
+ {
+  "school": "深圳市宝安区中英公学高薪",
+  "job": "深圳市宝安区中英公学高薪诚聘初三语文教师",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中小学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市宝安区中英公学高薪诚聘初三语文教师",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3191062",
+  "id": 2107
+ },
+ {
+  "school": "深圳市福田区福华幼儿园",
+  "job": "深圳市福田区福华幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市福田区福华幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190848",
+  "id": 2108
+ },
+ {
+  "school": "深圳市福田区新沙幼儿园",
+  "job": "深圳市福田区新沙幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市福田区新沙幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190718",
+  "id": 2109
+ },
+ {
+  "school": "福田第三幼儿园（石厦）",
+  "job": "福田第三幼儿园（石厦）招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "福田第三幼儿园（石厦）招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190105",
+  "id": 2110
+ },
+ {
+  "school": "深圳市龙岗区平湖街道中心幼儿园",
+  "job": "深圳市龙岗区平湖街道中心幼儿园招聘启事",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市龙岗区平湖街道中心幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190101",
+  "id": 2111
+ },
+ {
+  "school": "深圳市福田区第四幼儿园",
+  "job": "深圳市福田区第四幼儿园2026年11月招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市福田区第四幼儿园2026年11月招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3189743",
+  "id": 2112
+ },
+ {
+  "school": "深圳实验学校中学部",
+  "job": "深圳实验学校中学部招聘道德与法治临聘教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "深圳",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "深圳实验学校中学部招聘道德与法治临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188572",
+  "id": 2113
+ },
+ {
+  "school": "深圳市宝安区沙井金沙幼儿园",
+  "job": "深圳市宝安区沙井金沙幼儿园2026年11月公开招聘工作人员公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市宝安区沙井金沙幼儿园2026年11月公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3188508",
+  "id": 2114
+ },
+ {
+  "school": "深圳市福田区天安实验幼儿园",
+  "job": "深圳市福田区天安实验幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市福田区天安实验幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186587",
+  "id": 2115
+ },
+ {
+  "school": "深圳市宝安区西乡和樾府幼儿园",
+  "job": "深圳市宝安区西乡和樾府幼儿园2026年11月公开招聘短期教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市宝安区西乡和樾府幼儿园2026年11月公开招聘短期教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185834",
+  "id": 2116
+ },
+ {
+  "school": "深圳市大鹏外国语小学面向社会",
+  "job": "深圳市大鹏外国语小学面向社会公开招聘优秀教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "小学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市大鹏外国语小学面向社会公开招聘优秀教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185742",
+  "id": 2117
+ },
+ {
+  "school": "深圳小学光明学校中心校区（初中）",
+  "job": "深圳小学光明学校中心校区（初中）招聘购买服务历史教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "小学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳小学光明学校中心校区（初中）招聘购买服务历史教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185569",
+  "id": 2118
+ },
+ {
+  "school": "深圳市龙岗区吉华街道第一幼儿教育集团分园尚水天成幼儿园",
+  "job": "深圳市龙岗区吉华街道第一幼儿教育集团分园尚水天成幼儿园招聘启事",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市龙岗区吉华街道第一幼儿教育集团分园尚水天成幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185137",
+  "id": 2119
+ },
+ {
+  "school": "深圳市南山区海印长城幼儿园人员",
+  "job": "深圳市南山区海印长城幼儿园人员招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市南山区海印长城幼儿园人员招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183803",
+  "id": 2120
+ },
+ {
+  "school": "深圳市龙岗区南湾街道第一幼儿教育集团分园沙塘布幼儿园",
+  "job": "深圳市龙岗区南湾街道第一幼儿教育集团分园沙塘布幼儿园招聘启事",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市龙岗区南湾街道第一幼儿教育集团分园沙塘布幼儿园招聘启事",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3182902",
+  "id": 2121
+ },
+ {
+  "school": "深圳市光明区公明中学",
+  "job": "深圳市光明区公明中学招聘购买服务人员公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市光明区公明中学招聘购买服务人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3181184",
+  "id": 2122
+ },
+ {
+  "school": "北京师范大学南山附属学校小学部",
+  "job": "北京师范大学南山附属学校小学部招聘语文教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "小学",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "北京师范大学南山附属学校小学部招聘语文教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3180342",
+  "id": 2123
+ },
+ {
+  "school": "深圳市宝安区松岗街道中心幼儿园（集团）",
+  "job": "深圳市宝安区松岗街道中心幼儿园（集团）2026年10月公开招聘工作人员公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市宝安区松岗街道中心幼儿园（集团）2026年10月公开招聘工作人员公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3179997",
+  "id": 2124
+ },
+ {
+  "school": "深圳市福田区天健天骄幼儿园",
+  "job": "深圳市福田区天健天骄幼儿园招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "深圳",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "深圳市福田区天健天骄幼儿园招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3179713",
+  "id": 2125
+ },
+ {
+  "school": "珠海市香洲区第十五小学",
+  "job": "珠海市香洲区第十五小学公开招聘临聘教师公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "小学",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "珠海市香洲区第十五小学公开招聘临聘教师公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3190231",
+  "id": 2126
+ },
+ {
+  "school": "珠海市香洲南屏幼教集团教职工",
+  "job": "珠海市香洲南屏幼教集团教职工招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中小学",
+  "city": "珠海",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "珠海市香洲南屏幼教集团教职工招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3186583",
+  "id": 2127
+ },
+ {
+  "school": "珠海市金湾区汇海幼儿园代产假教师",
+  "job": "珠海市金湾区汇海幼儿园2026年代产假教师招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "珠海",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "珠海市金湾区汇海幼儿园2026年代产假教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3185260",
+  "id": 2128
+ },
+ {
+  "school": "珠海市金湾区红旗镇中心幼儿园代产假教师",
+  "job": "珠海市金湾区红旗镇中心幼儿园2026年代产假教师招聘公告",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "幼儿园",
+  "city": "珠海",
+  "establishment": "详见原文",
+  "deadline": "",
+  "annTitle": "珠海市金湾区红旗镇中心幼儿园2026年代产假教师招聘公告",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183285",
+  "id": 2129
+ },
+ {
+  "school": "珠海市香洲区杨匏安中学",
+  "job": "珠海市香洲区杨匏安中学2026年公开招聘英语临聘教师公告（第六批）",
+  "code": "",
+  "num": "",
+  "edu": "详见原文",
+  "degree": "",
+  "major": "",
+  "other": "该公告未附岗位明细表，岗位详情见公告原文",
+  "stage": "中学",
+  "city": "珠海",
+  "establishment": "合同制",
+  "deadline": "",
+  "annTitle": "珠海市香洲区杨匏安中学2026年公开招聘英语临聘教师公告（第六批）",
+  "sourceUrl": "https://www.gongkaoleida.com/article/3183120",
+  "id": 2130
  }
 ]
