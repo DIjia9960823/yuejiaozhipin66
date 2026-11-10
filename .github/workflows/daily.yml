@@ -40,23 +40,25 @@ jobs:
           timeout 600 python crawler.py || true   # 10 分钟上限，超时也继续
           echo "=== crawler/data_anns.js: $(wc -c < data_anns.js) bytes ==="
 
-      - name: 🏫 Crawl supplementary source (offcn/中公)
+      - name: 🔍 Discover (third-party, NOT stored)
         run: |
           cd crawler
-          timeout 300 python offcn.py || true   # 5 分钟上限
-          echo "=== after offcn: $(wc -c < data_anns.js) bytes ==="
+          timeout 300 python offcn.py || true
+          timeout 300 python sydw.py || true
+          timeout 600 python gkld.py || true
+          echo "=== discovery only, data_anns.js untouched ==="
 
-      - name: 🏛️ Crawl supplementary source (qgsydw/全国事业单位招聘网)
+      - name: 🚨 Verify official-only (hard gate)
         run: |
-          cd crawler
-          timeout 300 python sydw.py || true   # 5 分钟上限
-          echo "=== after sydw: $(wc -c < data_anns.js) bytes ==="
-
-      - name: 📡 Crawl supplementary source (gkld/公考雷达)
-        run: |
-          cd crawler
-          timeout 600 python gkld.py || true   # 10 分钟上限
-          echo "=== after gkld: $(wc -c < data_anns.js) bytes ==="
+          cd tools
+          python -c "
+          import re,json,sys
+          raw=open('../crawler/data_anns.js',encoding='utf-8').read()
+          jobs=json.loads(re.search(r'window\.REAL_JOBS\s*=\s*(\[.*\]);',raw,re.S).group(1))
+          bad=[j for j in jobs if any(d in j.get('sourceUrl','') for d in ('job910','offcn','gongkaoleida','qgsydw','huatu','eol.cn'))]
+          print('total',len(jobs),'third-party',len(bad))
+          sys.exit(1 if bad else 0)
+          "
 
       - name: 📋 Parse job positions from attachments
         run: |
