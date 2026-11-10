@@ -1,0 +1,78 @@
+name: Daily Auto Update
+
+on:
+  schedule:
+    # UTC 18:00 = 北京时间 次日 02:00（避开白天高峰）
+    - cron: '0 18 * * *'
+  workflow_dispatch:  # 允许手动点按钮触发调试
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install --no-cache-dir \
+            requests \
+            beautifulsoup4 \
+            openpyxl \
+            pdfplumber \
+            python-docx \
+            "xlrd==1.2.0"
+
+      - name: 🔍 Crawl new announcements
+        run: |
+          cd crawler
+          timeout 600 python crawler.py || true   # 10 分钟上限，超时也继续
+          echo "=== crawler/data_anns.js: $(wc -c < data_anns.js) bytes ==="
+
+      - name: 📋 Parse job positions from attachments
+        run: |
+          cd tools
+          timeout 900 python parse_positions.py || true   # 15 分钟上限
+
+      - name: 🔗 Merge → root data.js
+        run: |
+          cd tools
+          timeout 300 python ann_to_positions.py || true   # 5 分钟上限
+
+      - name: 🧹 Normalize fields & dedupe
+        run: |
+          cd tools
+          python normalize_final.py
+
+      - name: 📝 Summary
+        run: |
+          echo "=== data.js size ==="
+          wc -c < data.js
+          echo "=== position count ==="
+          python -c "import json,re; s=open('data.js').read(); print(len(re.findall(r'\{\"id\":', s)), 'positions')"
+          echo "=== 城市分布 ==="
+          python -c "
+import json, collections
+s=open('data.js').read()
+import re; lst=json.loads(s[s.index('['):])
+c=collections.Counter(p.get('city','未标') for p in lst)
+for city,n in c.most_common(): print(f'  {city}: {n}')
+"
+
+      - name: ⬆️ Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "ℹ️ 没有新数据，跳过提交"
+          else
+            git commit -m "🤖 Auto update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ 已推送，GitHub Pages 会在 1-2 分钟内自动部署"
+          fi
