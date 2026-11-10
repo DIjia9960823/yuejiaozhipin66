@@ -49,7 +49,7 @@ def list_files():
     for dirpath, dirnames, filenames in os.walk(ROOT):
         dirnames[:] = [d for d in dirnames if d not in SKIP_DIRS]
         for fn in filenames:
-            if fn in SKIP_FILES or fn.endswith((".pyc", ".log")):
+            if fn in SKIP_FILES or fn.endswith((".pyc", ".log", ".bak")):
                 continue
             fp = os.path.join(dirpath, fn)
             rel = os.path.relpath(fp, ROOT).replace("\\", "/")
