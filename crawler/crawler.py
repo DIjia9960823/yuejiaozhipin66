@@ -601,6 +601,23 @@ def _extract_deadline(body, ref_date):
     return cands[0][2].strftime("%Y-%m-%d")
 
 
+def _deadline_from_title(title):
+    """标题里写明的截止日期，只认两种已验证写法（宁缺勿错）：
+    「…公告-2026/10/30截止…」（日期在「截止」前）
+    「…（截止至2025.9.15）」（「截止至/到」后跟日期）
+    注意：有的列表页会在标题尾巴拼上发布日期（如 …截止2026-10-12），
+    所以「截止」后直接跟日期、中间没有「至/到」的一概不认。"""
+    txt = title.translate(str.maketrans("０１２３４５６７８９", "0123456789"))
+    m = (re.search(r"(20\d{2})\s*[年\-/.]\s*(\d{1,2})\s*[月\-/.]\s*(\d{1,2})\s*[日号]?\s*截止", txt)
+         or re.search(r"截止[至到]\s*(20\d{2})\s*[年\-/.]\s*(\d{1,2})\s*[月\-/.]\s*(\d{1,2})\s*[日号]?", txt))
+    if not m:
+        return ""
+    try:
+        return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3))).strftime("%Y-%m-%d")
+    except ValueError:
+        return ""
+
+
 def parse_detail(url, city, source_name, hint_title=""):
     html = fetch(url)
     if not html:
@@ -671,7 +688,7 @@ def parse_detail(url, city, source_name, hint_title=""):
                 stage = v
                 break
 
-    deadline = _extract_deadline(body, date)
+    deadline = _extract_deadline(body, date) or _deadline_from_title(title)
 
     intro = " ".join(body.split())[:160]
     # 分章节抽取正文细节，替换原来的「详见原文」
@@ -1041,7 +1058,7 @@ def _job910_public_detail(jid):
     # 城市以标题里的地名最准（标题「中山市翠雅学校」不能被正文里的「深圳」抢走）
     city = (_job910_city(title) or _job910_city(school)
             or _job910_city(body[:300]) or "广东")
-    deadline = _extract_deadline(body, date)
+    deadline = _extract_deadline(body, date) or _deadline_from_title(title)
 
     return {
         "title": title,
