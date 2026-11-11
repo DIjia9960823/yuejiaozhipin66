@@ -615,7 +615,7 @@
   "id": 975,
   "title": "广州市番禺区教育局2026学年上学期公开招聘公办中小学编外教师公告",
   "sourceUrl": "http://www.panyu.gov.cn/gzpyjy/gkmlpt/content/10/10982/post_10982877.html",
-  "reason": "附件解析不出岗位; 附件2：各招聘单位报名地址及联系电话.doc: ValueError"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 982,
@@ -1125,7 +1125,7 @@
   "id": 1164,
   "title": "韶关市浈江区金沙明星学校招聘公告",
   "sourceUrl": "http://jy.sg.gov.cn/wszw/tz/content/post_2852749.html",
-  "reason": "附件解析不出岗位"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1165,
@@ -2037,7 +2037,7 @@
   "id": 1362,
   "title": "广州大学2025年第一次公开招聘编制内辅导员公告",
   "sourceUrl": "https://rsc.gzhu.edu.cn/info/1018/5131.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1363,
