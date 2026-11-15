@@ -654,6 +654,12 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1005,
+  "title": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "reason": "附件解析不出岗位; 广州中医药大学2026年第二批公开招聘工作人员岗位表: ReadTimeout"
+ },
+ {
   "id": 1007,
   "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
   "sourceUrl": "https://www.gzucm.edu.cn/info/1461/121891.htm",
@@ -1791,7 +1797,7 @@
   "id": 1320,
   "title": "广州理工学院2025年秋季教师招聘公告",
   "sourceUrl": "https://www.gzist.edu.cn/info/1376/21120.htm",
-  "reason": "公告页打不开: ReadTimeout"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1321,
