@@ -153,7 +153,7 @@
   "id": 863,
   "title": "关于东莞理工学院2026年公开招聘专职辅",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/8223.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 864,
@@ -615,7 +615,7 @@
   "id": 975,
   "title": "广州市番禺区教育局2026学年上学期公开招聘公办中小学编外教师公告",
   "sourceUrl": "http://www.panyu.gov.cn/gzpyjy/gkmlpt/content/10/10982/post_10982877.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "附件解析不出岗位; 附件2：各招聘单位报名地址及联系电话.doc: ValueError"
  },
  {
   "id": 982,
@@ -652,12 +652,6 @@
   "title": "广州华立学院2026-2027学年专任教师招聘启事",
   "sourceUrl": "https://www.hualixy.edu.cn/xsh__rczp1/rczp/content_82478",
   "reason": "页面没有岗位表附件"
- },
- {
-  "id": 1005,
-  "title": "广州中医药大学2026年第二批公开招聘工作人员公告",
-  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
-  "reason": "附件解析不出岗位; 广州中医药大学2026年第二批公开招聘工作人员岗位表: ReadTimeout"
  },
  {
   "id": 1007,
@@ -975,7 +969,7 @@
   "id": 1111,
   "title": "东莞理工学院2026年公开招聘专职辅导员",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/8013.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1114,
@@ -987,7 +981,7 @@
   "id": 1115,
   "title": "东莞理工学院2026年公开招聘专职辅导员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/8003.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1118,
@@ -1371,7 +1365,7 @@
   "id": 1247,
   "title": "华南师范大学2026年公开招聘工作人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260408/1015.html",
-  "reason": "附件解析不出岗位; 华南师范大学2026年公开招聘工作人员岗位表.xls: HTTPError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1248,
@@ -1425,7 +1419,7 @@
   "id": 1256,
   "title": "关于校内招聘国际学院教学秘书的公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7763.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1257,
@@ -1473,7 +1467,7 @@
   "id": 1265,
   "title": "华南师范大学2026年公开招聘医务人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260304/1010.html",
-  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘医务人员岗位需求表.x: HTTPError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1266,
@@ -1515,7 +1509,7 @@
   "id": 1272,
   "title": "华南师范大学2026年公开招聘幼儿教师公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260127/1006.html",
-  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘幼儿教师岗位需求表.x: HTTPError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1273,
@@ -1539,7 +1533,7 @@
   "id": 1276,
   "title": "华南师范大学2026年公开招聘教辅人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260116/1005.html",
-  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘教学辅助人员岗位需求表: HTTPError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1277,
@@ -1557,7 +1551,7 @@
   "id": 1279,
   "title": "东莞理工学院2025年第二批招聘聘用人员资格审查结果及有关事项公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7583.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1280,
@@ -1641,7 +1635,7 @@
   "id": 1294,
   "title": "关于校内招聘国际设计学院（筹）教学秘书的公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7503.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1295,
@@ -1653,7 +1647,7 @@
   "id": 1296,
   "title": "东莞理工学院2025年第二批招聘聘用人员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7493.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1297,
@@ -1893,7 +1887,7 @@
   "id": 1336,
   "title": "东莞理工学院2025年第一批招聘聘用人员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/7033.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1337,
@@ -2001,7 +1995,7 @@
   "id": 1355,
   "title": "东莞理工学院产业兼职教师选聘公告（第一批）",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/6803.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: TooManyRedirects"
  },
  {
   "id": 1356,

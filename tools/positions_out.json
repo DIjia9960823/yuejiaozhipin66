@@ -12186,6 +12186,384 @@
   "id": 677
  },
  {
+  "school": "其他占比",
+  "job": "其它面试形式",
+  "code": "无领导小组讨论占比",
+  "num": "",
+  "edu": "",
+  "degree": "",
+  "major": "",
+  "other": "",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 678
+ },
+ {
+  "school": "研究生院",
+  "job": "二级学院辅导员",
+  "code": "2026070005",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A10)医学",
+  "other": "从事学生日常思想政治教育和管理服务工作。；专业技术岗位十一级以上；不限；38周岁以下；入住男生宿舍；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 679
+ },
+ {
+  "school": "研究生院",
+  "job": "二级学院辅导员",
+  "code": "2026070006",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A0812)计算机科学与技术,(A0835)软件工程,(A0839)网络空间安全,(A0840)电子信息",
+  "other": "从事学生日常思想政治教育和管理服务工作。；专业技术岗位十一级以上；不限；38周岁以下；入住男生宿舍；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 680
+ },
+ {
+  "school": "研究生院",
+  "job": "二级学院辅导员",
+  "code": "2026070007",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A0402)心理学",
+  "other": "从事学生日常思想政治教育和管理服务工作。；专业技术岗位十一级以上；不限；38周岁以下；入住女生公寓；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 681
+ },
+ {
+  "school": "研究生院",
+  "job": "二级学院党政类辅导员",
+  "code": "2026070008",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A10)医学",
+  "other": "从事学生日常思想政治教育和管理服务工作。；专业技术岗位十一级以上；不限；38周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 682
+ },
+ {
+  "school": "研究生院",
+  "job": "二级学院党政类辅导员",
+  "code": "2026070009",
+  "num": "2",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A01)哲学,(A02)经济学,(A03)法学,(A04)教育学,(A05)文学,(A06)历史学,(A07)理学,(A08)工学,(A09)农学,(A11)军事学,(A12)管理学",
+  "other": "从事学生日常思想政治教育和管理服务工作。；专业技术岗位十一级以上；不限；38周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 683
+ },
+ {
+  "school": "机关党委",
+  "job": "党政管理人员",
+  "code": "2026070010",
+  "num": "4",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A10)医学",
+  "other": "从事党政管理服务工作。；管理岗位九级以上；不限；38周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 684
+ },
+ {
+  "school": "机关党委",
+  "job": "党政管理人员",
+  "code": "2026070011",
+  "num": "4",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A01)哲学,(A02)经济学,(A03)法学,(A04)教育学,(A05)文学,(A06)历史学,(A07)理学,(A08)工学,(A09)农学,(A11)军事学,(A12)管理学",
+  "other": "从事党政管理服务工作。；管理岗位九级以上；不限；38周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 685
+ },
+ {
+  "school": "资产设备管理部资产管理科",
+  "job": "教辅岗",
+  "code": "2026070012",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A120201)会计学,(A120206)会计硕士（专业硕士）",
+  "other": "从事国有资产管理工作，负责资产数据统计、管理制度建设、培训等专项工作。；专业技术岗位十级以上；不限；中级以上；会计人员；38周岁以下；具备三年及以上相关工作经验；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 686
+ },
+ {
+  "school": "审计工作部",
+  "job": "教辅岗",
+  "code": "2026070013",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A0813)建筑学,(A0814)土木工程,(A1201)管理科学与工程",
+  "other": "从事工程项目管理工作。；专业技术岗位十级以上；不限；中级以上；工程技术人员；38周岁以下；1.具有5年及以上工程项目管理相关工作经验； 2.具有副高及以上职称人员报考的，年龄可放宽至40周岁。；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 687
+ },
+ {
+  "school": "人力资源部人事科",
+  "job": "教辅岗",
+  "code": "2026070014",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A0812)计算机科学与技术,(A1204)公共管理,(A1205)图书情报与档案管理",
+  "other": "从事档案管理等人事管理工作。；专业技术岗位十一级以上；不限；38周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 688
+ },
+ {
+  "school": "教务部传统医学教育研究中心",
+  "job": "专业技术岗",
+  "code": "2026070015",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A040101)教育学原理,(A040102)课程与教学论,(A040103)教育史,(A040106)高等教育学,(A1005)中医学,(A1006)中西医结合",
+  "other": "从事传统医学教育研究工作。；专业技术岗位七级以上；不限；副高以上；哲学社会科学研究人员；45周岁以下；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 689
+ },
+ {
+  "school": "体育健康学院小球教研室",
+  "job": "教学岗",
+  "code": "2026070016",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "硕士以上",
+  "major": "(A0403)体育学",
+  "other": "从事开展网球相关体育课程教学科研工作。；专业技术岗位十一级以上；不限；38周岁以下；1.仅取得硕士学位的应聘人员须达到网球健将级运动员水平，取得博士学位的应聘人员则须达到网球二级运动员水平； 2.具有副教授及以上职称者可放宽至40周岁。；笔试+面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 690
+ },
+ {
+  "school": "体育健康学院运动医学教研室",
+  "job": "教学岗",
+  "code": "2026070017",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A0403)体育学",
+  "other": "从事开展运动医学相关教学科研工作。；专业技术岗位四级以上；不限；正高；哲学社会科学研究人员,高等学校教师；50周岁以下；研究方向为运动人体科学。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 691
+ },
+ {
+  "school": "外国语学院英语专业教研室",
+  "job": "教学岗",
+  "code": "2026070018",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A0502)外国语言文学,(A0503)新闻传播学",
+  "other": "从事英语专业教学工作。；专业技术岗位十一级以上；不限；38周岁以下；1.有英语专业八级证书； 2.以新闻传播学（A0503）专业报考的应聘人员，则本科或硕士阶段应具备英语专业学习背景。其中，本科专业须为：B050201（英语）或B050261（翻译）；硕士专业须为：A0502（外国语言文学）或A0551（翻译）； 3.具有副教授职称的，年龄可放宽至45周岁；具有正教授职称的，年龄可放宽至50周岁。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 692
+ },
+ {
+  "school": "马克思主义学院习近平新时代中国特色社会主义思想概论教研室",
+  "job": "教学岗",
+  "code": "2026070019",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A020101)政治经济学,(A030203)科学社会主义与国际共产主义运动,(A030204)中共党史（含：党的学说与党的建设）,(A0305)马克思主义理论",
+  "other": "从事教学与科研工作。；专业技术岗位十一级以上；不限；38周岁以下；具有副教授及以上职称人员报考的，年龄可放宽至45周岁。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 693
+ },
+ {
+  "school": "马克思主义学院马克思主义基本原理教研室",
+  "job": "教学岗",
+  "code": "2026070020",
+  "num": "2",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A01)哲学,(A0303)社会学,(A0305)马克思主义理论",
+  "other": "从事教学与科研工作。；专业技术岗位十一级以上；不限；38周岁以下；具有副教授及以上职称人员报考的，年龄可放宽至45周岁。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 694
+ },
+ {
+  "school": "马克思主义学院毛泽东思想和中国特色社会主义理论体系概论教研室",
+  "job": "教学岗",
+  "code": "2026070021",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A020101)政治经济学,(A030203)科学社会主义与国际共产主义运动,(A030204)中共党史（含：党的学说与党的建设）,(A0305)马克思主义理论",
+  "other": "从事教学与科研工作。；专业技术岗位十一级以上；不限；38周岁以下；具有副教授及以上职称人员报考的，年龄可放宽至45周岁。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 695
+ },
+ {
+  "school": "马克思主义学院思想道德与法治教研室",
+  "job": "教学岗",
+  "code": "2026070022",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A010105)伦理学,(A1001)基础医学,(A1002)临床医学",
+  "other": "从事教学与科研工作。；专业技术岗位十一级以上；不限；38周岁以下；1.如专业为基础医学A1001、临床医学A1002，则需要为医学伦理方向。 2.具有副教授及以上职称人员报考的，年龄可放宽至45周岁。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 696
+ },
+ {
+  "school": "基础医学院病理学与病理生理学系",
+  "job": "教学岗",
+  "code": "2026070023",
+  "num": "1",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A10)医学",
+  "other": "从事教学与科研工作。；专业技术岗位七级以上；不限；副高以上；自然科学研究人员,哲学社会科学研究人员,高等学校教师；45周岁以下；应聘人员需满足以下条件： 一、本科所学专业为临床医学类B1003或者中西医结合类B1009。 二、近五年业绩成果符合以下条件之二： 1.主持国家级课题1项或省级课题2项； 2.以第一作者或末位通讯作者在中科院大类1区发表SCI期刊发表高分论文2篇； 3.获得省部级及以上科研/教学成果奖（排名前5）； 4.主编学术专著1部。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 697
+ },
+ {
+  "school": "医学信息工程学院医学人工智能教研室",
+  "job": "教学岗",
+  "code": "2026070024",
+  "num": "4",
+  "edu": "研究生",
+  "degree": "博士",
+  "major": "(A081104)模式识别与智能系统,(A081202)计算机软件与理论,(A081203)计算机应用技术",
+  "other": "从事教学与科研工作。；专业技术岗位十一级以上；不限；38周岁以下；1.具有副高级及以上职称的（高等学校教师系列、工程技术人员系列），年龄可放宽至45周岁；2.具有人工智能相关教学或科研经历。；面试",
+  "stage": "高校",
+  "city": "广州",
+  "establishment": "正式编",
+  "deadline": "2026-08-21",
+  "recordedAt": "2026-08-06",
+  "annTitle": "广州中医药大学2026年第二批公开招聘工作人员公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4939049.html",
+  "id": 698
+ },
+ {
   "school": "公共卫生学院",
   "job": "劳动卫生与环境卫生学系教学科研岗",
   "code": "202601001",
@@ -12201,7 +12579,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 678
+  "id": 699
  },
  {
   "school": "生命科学与生物制药学院",
@@ -12219,7 +12597,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 679
+  "id": 700
  },
  {
   "school": "临床医学院",
@@ -12237,7 +12615,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 680
+  "id": 701
  },
  {
   "school": "临床医学院",
@@ -12255,7 +12633,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 681
+  "id": 702
  },
  {
   "school": "临床医学院",
@@ -12273,7 +12651,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 682
+  "id": 703
  },
  {
   "school": "临床医学院",
@@ -12291,7 +12669,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 683
+  "id": 704
  },
  {
   "school": "临床医学院",
@@ -12309,7 +12687,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 684
+  "id": 705
  },
  {
   "school": "临床医学院",
@@ -12327,7 +12705,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 685
+  "id": 706
  },
  {
   "school": "临床医学院",
@@ -12345,7 +12723,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 686
+  "id": 707
  },
  {
   "school": "临床医学院",
@@ -12363,7 +12741,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 687
+  "id": 708
  },
  {
   "school": "马克思主义学院",
@@ -12381,7 +12759,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 688
+  "id": 709
  },
  {
   "school": "公共卫生学院",
@@ -12399,7 +12777,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 689
+  "id": 710
  },
  {
   "school": "中药学院",
@@ -12417,7 +12795,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 690
+  "id": 711
  },
  {
   "school": "中药学院",
@@ -12435,7 +12813,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 691
+  "id": 712
  },
  {
   "school": "公共卫生学院",
@@ -12453,7 +12831,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 692
+  "id": 713
  },
  {
   "school": "公共卫生学院",
@@ -12471,7 +12849,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 693
+  "id": 714
  },
  {
   "school": "基础医学院",
@@ -12489,7 +12867,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 694
+  "id": 715
  },
  {
   "school": "基础医学院",
@@ -12507,7 +12885,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 695
+  "id": 716
  },
  {
   "school": "马克思主义学院",
@@ -12525,7 +12903,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 696
+  "id": 717
  },
  {
   "school": "医药化工学院",
@@ -12543,7 +12921,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 697
+  "id": 718
  },
  {
   "school": "食品科学学院",
@@ -12561,7 +12939,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 698
+  "id": 719
  },
  {
   "school": "基础医学院",
@@ -12579,7 +12957,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 699
+  "id": 720
  },
  {
   "school": "药学院",
@@ -12597,7 +12975,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 700
+  "id": 721
  },
  {
   "school": "药学院",
@@ -12615,7 +12993,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 701
+  "id": 722
  },
  {
   "school": "临床医学院",
@@ -12633,7 +13011,7 @@
   "recordedAt": "2026-08-05",
   "annTitle": "广东药科大学2026年公开招聘专业技术人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4938298.html",
-  "id": 702
+  "id": 723
  },
  {
   "school": "经济与管理学院",
@@ -12651,7 +13029,7 @@
   "recordedAt": "2026-07-29",
   "annTitle": "韩山师范学院2026年公开招聘优秀学科带头人（第一批）公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4935280.html",
-  "id": 703
+  "id": 724
  },
  {
   "school": "物理与电子工程学院",
@@ -12669,7 +13047,7 @@
   "recordedAt": "2026-07-29",
   "annTitle": "韩山师范学院2026年公开招聘优秀学科带头人（第一批）公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4935280.html",
-  "id": 704
+  "id": 725
  },
  {
   "school": "物理与电子工程学院",
@@ -12687,7 +13065,7 @@
   "recordedAt": "2026-07-29",
   "annTitle": "韩山师范学院2026年公开招聘优秀学科带头人（第一批）公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4935280.html",
-  "id": 705
+  "id": 726
  },
  {
   "school": "各二级学院",
@@ -12705,7 +13083,7 @@
   "recordedAt": "2026-07-22",
   "annTitle": "惠州学院2026年公开招聘学科带头人、学科骨干公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4927713.html",
-  "id": 706
+  "id": 727
  },
  {
   "school": "各二级学院",
@@ -12723,7 +13101,7 @@
   "recordedAt": "2026-07-22",
   "annTitle": "惠州学院2026年公开招聘学科带头人、学科骨干公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4927713.html",
-  "id": 707
+  "id": 728
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12741,7 +13119,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 708
+  "id": 729
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12759,7 +13137,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 709
+  "id": 730
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12777,7 +13155,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 710
+  "id": 731
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12795,7 +13173,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 711
+  "id": 732
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12813,7 +13191,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 712
+  "id": 733
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12831,7 +13209,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 713
+  "id": 734
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12849,7 +13227,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 714
+  "id": 735
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12867,7 +13245,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 715
+  "id": 736
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12885,7 +13263,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 716
+  "id": 737
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12903,7 +13281,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 717
+  "id": 738
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12921,7 +13299,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 718
+  "id": 739
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12939,7 +13317,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 719
+  "id": 740
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12957,7 +13335,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 720
+  "id": 741
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12975,7 +13353,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 721
+  "id": 742
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -12993,7 +13371,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 722
+  "id": 743
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13011,7 +13389,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 723
+  "id": 744
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13029,7 +13407,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 724
+  "id": 745
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13047,7 +13425,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 725
+  "id": 746
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13065,7 +13443,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 726
+  "id": 747
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13083,7 +13461,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 727
+  "id": 748
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13101,7 +13479,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 728
+  "id": 749
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13119,7 +13497,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 729
+  "id": 750
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13137,7 +13515,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 730
+  "id": 751
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13155,7 +13533,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 731
+  "id": 752
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13173,7 +13551,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 732
+  "id": 753
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13191,7 +13569,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 733
+  "id": 754
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13209,7 +13587,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 734
+  "id": 755
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13227,7 +13605,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 735
+  "id": 756
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13245,7 +13623,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 736
+  "id": 757
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13263,7 +13641,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 737
+  "id": 758
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13281,7 +13659,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 738
+  "id": 759
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13299,7 +13677,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 739
+  "id": 760
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13317,7 +13695,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 740
+  "id": 761
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13335,7 +13713,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 741
+  "id": 762
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13353,7 +13731,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 742
+  "id": 763
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13371,7 +13749,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 743
+  "id": 764
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13389,7 +13767,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 744
+  "id": 765
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13407,7 +13785,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 745
+  "id": 766
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13425,7 +13803,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 746
+  "id": 767
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13443,7 +13821,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 747
+  "id": 768
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13461,7 +13839,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 748
+  "id": 769
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13479,7 +13857,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 749
+  "id": 770
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13497,7 +13875,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 750
+  "id": 771
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13515,7 +13893,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 751
+  "id": 772
  },
  {
   "school": "广东实验中学荔湾学校",
@@ -13533,7 +13911,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 752
+  "id": 773
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13551,7 +13929,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 753
+  "id": 774
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13569,7 +13947,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 754
+  "id": 775
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13587,7 +13965,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 755
+  "id": 776
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13605,7 +13983,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 756
+  "id": 777
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13623,7 +14001,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 757
+  "id": 778
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13641,7 +14019,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 758
+  "id": 779
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13659,7 +14037,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 759
+  "id": 780
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13677,7 +14055,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 760
+  "id": 781
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13695,7 +14073,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 761
+  "id": 782
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13713,7 +14091,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 762
+  "id": 783
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13731,7 +14109,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 763
+  "id": 784
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13749,7 +14127,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 764
+  "id": 785
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13767,7 +14145,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 765
+  "id": 786
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13785,7 +14163,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 766
+  "id": 787
  },
  {
   "school": "广州市荔湾区西关广雅实验学校",
@@ -13803,7 +14181,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 767
+  "id": 788
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13821,7 +14199,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 768
+  "id": 789
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13839,7 +14217,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 769
+  "id": 790
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13857,7 +14235,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 770
+  "id": 791
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13875,7 +14253,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 771
+  "id": 792
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13893,7 +14271,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 772
+  "id": 793
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13911,7 +14289,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 773
+  "id": 794
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13929,7 +14307,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 774
+  "id": 795
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13947,7 +14325,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 775
+  "id": 796
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13965,7 +14343,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 776
+  "id": 797
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -13983,7 +14361,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 777
+  "id": 798
  },
  {
   "school": "广州市荔湾区沙面小学",
@@ -14001,7 +14379,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 778
+  "id": 799
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14019,7 +14397,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 779
+  "id": 800
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14037,7 +14415,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 780
+  "id": 801
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14055,7 +14433,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 781
+  "id": 802
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14073,7 +14451,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 782
+  "id": 803
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14091,7 +14469,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 783
+  "id": 804
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14109,7 +14487,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 784
+  "id": 805
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14127,7 +14505,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 785
+  "id": 806
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14145,7 +14523,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 786
+  "id": 807
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14163,7 +14541,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 787
+  "id": 808
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14181,7 +14559,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 788
+  "id": 809
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14199,7 +14577,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 789
+  "id": 810
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14217,7 +14595,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 790
+  "id": 811
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14235,7 +14613,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 791
+  "id": 812
  },
  {
   "school": "华南师范大学附属荔湾小学",
@@ -14253,7 +14631,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 792
+  "id": 813
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14271,7 +14649,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 793
+  "id": 814
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14289,7 +14667,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 794
+  "id": 815
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14307,7 +14685,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 795
+  "id": 816
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14325,7 +14703,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 796
+  "id": 817
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14343,7 +14721,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 797
+  "id": 818
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14361,7 +14739,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 798
+  "id": 819
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14379,7 +14757,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 799
+  "id": 820
  },
  {
   "school": "广州市第一中学附属环市西路小学",
@@ -14397,7 +14775,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 800
+  "id": 821
  },
  {
   "school": "区属学校",
@@ -14415,7 +14793,7 @@
   "recordedAt": "2026-07-21",
   "annTitle": "2026年广州市荔湾区教育局公开招聘事业编制教师公告",
   "sourceUrl": "http://www.lw.gov.cn/gzlwjy/gkmlpt/content/10/10911/post_10911024.html",
-  "id": 801
+  "id": 822
  },
  {
   "school": "区统招： 广州市白云区培英实验学校 广州市第六十六中学",
@@ -14433,7 +14811,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 802
+  "id": 823
  },
  {
   "school": "区统招： 广州市白云区培英实验学校 广州市第六十六中学 广州白云行知职业技术学校（综合高中）",
@@ -14451,7 +14829,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 803
+  "id": 824
  },
  {
   "school": "区统招： 广州市白云艺术中学 广州白云行知职业技术学校（综合高中）",
@@ -14469,7 +14847,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 804
+  "id": 825
  },
  {
   "school": "区统招： 广州市白云区培英实验学校 广州白云行知职业技术学校（综合高中）",
@@ -14487,7 +14865,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 805
+  "id": 826
  },
  {
   "school": "区统招： 广州市白云区培英实验学校 广州市白云区颜乐天纪念中学",
@@ -14505,7 +14883,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 806
+  "id": 827
  },
  {
   "school": "区统招： 广州市白云区培英实验学校 广州白云行知职业技术学校（综合高中）",
@@ -14523,7 +14901,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 807
+  "id": 828
  },
  {
   "school": "区统招： 广州市白云区星悦实验学校 广州市白云区龙岗学校 广州市第六十七中学",
@@ -14541,7 +14919,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 808
+  "id": 829
  },
  {
   "school": "区统招： 广州市白云区广大附中实验小学 广州市白云区人和镇第一小学 广州市白云区星悦实验学校 广州市白云区培英中学附属第三小学 广州市白云区培英中学附属第二小学 广州市白云区白云广附同悦实验小学 广州市白云区民航学校",
@@ -14559,7 +14937,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 809
+  "id": 830
  },
  {
   "school": "区统招： 广州市白云区石马小学 广州市白云区鹤边镇泰小学 广州市白云区夏茅小学 广州市白云区蟠龙小学 广州市白云区新兴白云小学 广州市白云区汇侨第一小学 广州市白云区清湖小学",
@@ -14577,7 +14955,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 810
+  "id": 831
  },
  {
   "school": "区统招： 广州市白云区朝阳小学 广州市白云区沙凤小学 广州市白云区清湖小学 广州市白云区槎龙镇泰小学 广州市白云区石井张村中心小学 广州市第六十五中学附属小学 广州市白云中学附属小学",
@@ -14595,7 +14973,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 811
+  "id": 832
  },
  {
   "school": "区统招： 广州市白云区南园小学 广州市白云区江村小学 广州市白云区同德小学 广州市白云区横沙小学 广州市白云区滘心小学 广州市白云区沙亭岗小学 广州市白云区鸦岗小学 广州市白云区槎龙镇泰小学",
@@ -14613,7 +14991,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 812
+  "id": 833
  },
  {
   "school": "区统招： 华中师范大学白云学校 广州市白云区白云广附金悦实验小学 广州市白云区星悦实验学校 广州市白云区加禾小学 广州市白云区永兴小学 广州市白云区远景小学 广州市白云区大源小学",
@@ -14631,7 +15009,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 813
+  "id": 834
  },
  {
   "school": "区统招： 广州市白云区同德小学 广州市白云区南园小学 广州市白云区江村小学 广州市白云区大朗小学 广州市白云区远景小学 广州市白云区石湖小学 广州市白云区横沙小学",
@@ -14649,7 +15027,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 814
+  "id": 835
  },
  {
   "school": "区统招： 广州市白云区广大附中实验小学 广州市白云区江高镇中心小学 广州市白云区同德小学 广州市白云区京溪小学 广州市白云区头陂小学 广州市白云区大源小学",
@@ -14667,7 +15045,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 815
+  "id": 836
  },
  {
   "school": "区统招： 广州市白云区培英中学附属第二小学 广州市白云区大田小学 广州市白云区螺涌小学 广州市白云区石井张村中心小学 广州市白云区良田第一小学 广州市白云区鸦岗小学 广州市白云区望岗小学 广州市白云区长红小学",
@@ -14685,7 +15063,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 816
+  "id": 837
  },
  {
   "school": "区统招： 华中师范大学白云学校 广州市白云区星悦实验学校 广州市白云区红星小学 广州市白云区白云广附同悦实验小学",
@@ -14703,7 +15081,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 817
+  "id": 838
  },
  {
   "school": "区统招： 广州市白云区横沙小学 广州市白云区培英中学附属第二小学 广州市白云区竹料第四小学",
@@ -14721,7 +15099,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 818
+  "id": 839
  },
  {
   "school": "区统招： 广州市白云区白云广附同悦实验小学 广州市白云区黄边小学",
@@ -14739,7 +15117,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 819
+  "id": 840
  },
  {
   "school": "区统招： 广州市白云区新市中学 广州市白云区横沙小学",
@@ -14757,7 +15135,7 @@
   "recordedAt": "2026-07-16",
   "annTitle": "“百万英才汇南粤”广州市白云区2026年下半年在广州公开招聘中小学事业编制教师公告",
   "sourceUrl": "https://www.by.gov.cn/gzbyjy/gkmlpt/content/10/10905/post_10905065.html",
-  "id": 820
+  "id": 841
  },
  {
   "school": "汕尾市职业技术学校",
@@ -14775,7 +15153,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 821
+  "id": 842
  },
  {
   "school": "汕尾市职业技术学校",
@@ -14793,7 +15171,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 822
+  "id": 843
  },
  {
   "school": "汕尾市职业技术学校",
@@ -14811,7 +15189,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 823
+  "id": 844
  },
  {
   "school": "汕尾市职业技术学校",
@@ -14829,7 +15207,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 824
+  "id": 845
  },
  {
   "school": "汕尾市阳光学校",
@@ -14847,7 +15225,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 825
+  "id": 846
  },
  {
   "school": "汕尾市阳光学校",
@@ -14865,7 +15243,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 826
+  "id": 847
  },
  {
   "school": "汕尾市阳光学校",
@@ -14883,7 +15261,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 827
+  "id": 848
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14901,7 +15279,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 828
+  "id": 849
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14919,7 +15297,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 829
+  "id": 850
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14937,7 +15315,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 830
+  "id": 851
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14955,7 +15333,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 831
+  "id": 852
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14973,7 +15351,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 832
+  "id": 853
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -14991,7 +15369,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 833
+  "id": 854
  },
  {
   "school": "汕尾市特殊教育学校",
@@ -15009,7 +15387,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 834
+  "id": 855
  },
  {
   "school": "汕尾市市直学校",
@@ -15027,7 +15405,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 835
+  "id": 856
  },
  {
   "school": "汕尾市市直学校",
@@ -15045,7 +15423,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 836
+  "id": 857
  },
  {
   "school": "汕尾市市直学校",
@@ -15063,7 +15441,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 837
+  "id": 858
  },
  {
   "school": "汕尾市市直学校",
@@ -15081,7 +15459,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 838
+  "id": 859
  },
  {
   "school": "汕尾市市直学校",
@@ -15099,7 +15477,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 839
+  "id": 860
  },
  {
   "school": "汕尾市市直学校",
@@ -15117,7 +15495,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 840
+  "id": 861
  },
  {
   "school": "汕尾市市直学校",
@@ -15135,7 +15513,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 841
+  "id": 862
  },
  {
   "school": "汕尾市市直学校",
@@ -15153,7 +15531,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 842
+  "id": 863
  },
  {
   "school": "汕尾市市直学校",
@@ -15171,7 +15549,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 843
+  "id": 864
  },
  {
   "school": "汕尾市市直学校",
@@ -15189,7 +15567,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 844
+  "id": 865
  },
  {
   "school": "汕尾市市直学校",
@@ -15207,7 +15585,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 845
+  "id": 866
  },
  {
   "school": "汕尾市市直学校",
@@ -15225,7 +15603,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 846
+  "id": 867
  },
  {
   "school": "汕尾市市直学校",
@@ -15243,7 +15621,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 847
+  "id": 868
  },
  {
   "school": "汕尾市市直学校",
@@ -15261,7 +15639,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 848
+  "id": 869
  },
  {
   "school": "汕尾市市直学校",
@@ -15279,7 +15657,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 849
+  "id": 870
  },
  {
   "school": "汕尾市市直学校",
@@ -15297,7 +15675,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 850
+  "id": 871
  },
  {
   "school": "汕尾市市直学校",
@@ -15315,7 +15693,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 851
+  "id": 872
  },
  {
   "school": "汕尾市市直学校",
@@ -15333,7 +15711,7 @@
   "recordedAt": "2026-07-11",
   "annTitle": "【百万英才汇南粤】2026年汕尾市市直学校公开招聘教师（第二批）公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255829.html",
-  "id": 852
+  "id": 873
  },
  {
   "school": "人力资源部（党委教师工作部）",
@@ -15351,7 +15729,7 @@
   "recordedAt": "2026-07-10",
   "annTitle": "星海音乐学院2026年第三批公开招聘工作人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4922776.html",
-  "id": 853
+  "id": 874
  },
  {
   "school": "教务部（教师发展中心、网络信息技术中心）",
@@ -15369,7 +15747,7 @@
   "recordedAt": "2026-07-10",
   "annTitle": "星海音乐学院2026年第三批公开招聘工作人员公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4922776.html",
-  "id": 854
+  "id": 875
  },
  {
   "school": "珠海市教育局",
@@ -15387,7 +15765,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 855
+  "id": 876
  },
  {
   "school": "珠海市教育局",
@@ -15405,7 +15783,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 856
+  "id": 877
  },
  {
   "school": "珠海市教育局",
@@ -15423,7 +15801,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 857
+  "id": 878
  },
  {
   "school": "珠海市教育局",
@@ -15441,7 +15819,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 858
+  "id": 879
  },
  {
   "school": "珠海市教育局",
@@ -15459,7 +15837,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 859
+  "id": 880
  },
  {
   "school": "珠海市教育局",
@@ -15477,7 +15855,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 860
+  "id": 881
  },
  {
   "school": "珠海市教育局",
@@ -15495,7 +15873,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 861
+  "id": 882
  },
  {
   "school": "珠海市教育局",
@@ -15513,7 +15891,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 862
+  "id": 883
  },
  {
   "school": "珠海市教育局",
@@ -15531,7 +15909,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 863
+  "id": 884
  },
  {
   "school": "珠海市教育局",
@@ -15549,7 +15927,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 864
+  "id": 885
  },
  {
   "school": "珠海市教育局",
@@ -15567,7 +15945,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 865
+  "id": 886
  },
  {
   "school": "珠海市教育局",
@@ -15585,7 +15963,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 866
+  "id": 887
  },
  {
   "school": "珠海市教育局",
@@ -15603,7 +15981,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 867
+  "id": 888
  },
  {
   "school": "珠海市教育局",
@@ -15621,7 +15999,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 868
+  "id": 889
  },
  {
   "school": "珠海市教育局",
@@ -15639,7 +16017,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 869
+  "id": 890
  },
  {
   "school": "珠海市教育局",
@@ -15657,7 +16035,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 870
+  "id": 891
  },
  {
   "school": "珠海市教育局",
@@ -15675,7 +16053,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 871
+  "id": 892
  },
  {
   "school": "珠海市教育局",
@@ -15693,7 +16071,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 872
+  "id": 893
  },
  {
   "school": "珠海市教育局",
@@ -15711,7 +16089,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 873
+  "id": 894
  },
  {
   "school": "珠海市教育局",
@@ -15729,7 +16107,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 874
+  "id": 895
  },
  {
   "school": "珠海市教育局",
@@ -15747,7 +16125,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 875
+  "id": 896
  },
  {
   "school": "珠海市教育局",
@@ -15765,7 +16143,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 876
+  "id": 897
  },
  {
   "school": "珠海市教育局",
@@ -15783,7 +16161,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 877
+  "id": 898
  },
  {
   "school": "珠海市教育局",
@@ -15801,7 +16179,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 878
+  "id": 899
  },
  {
   "school": "珠海市教育局",
@@ -15819,7 +16197,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 879
+  "id": 900
  },
  {
   "school": "珠海市教育局",
@@ -15837,7 +16215,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 880
+  "id": 901
  },
  {
   "school": "珠海市教育局",
@@ -15855,7 +16233,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 881
+  "id": 902
  },
  {
   "school": "珠海市教育局",
@@ -15873,7 +16251,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 882
+  "id": 903
  },
  {
   "school": "珠海市教育局",
@@ -15891,7 +16269,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 883
+  "id": 904
  },
  {
   "school": "珠海市教育局",
@@ -15909,7 +16287,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 884
+  "id": 905
  },
  {
   "school": "珠海市教育局",
@@ -15927,7 +16305,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 885
+  "id": 906
  },
  {
   "school": "珠海市教育局",
@@ -15945,7 +16323,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 886
+  "id": 907
  },
  {
   "school": "珠海市教育局",
@@ -15963,7 +16341,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 887
+  "id": 908
  },
  {
   "school": "珠海市教育局",
@@ -15981,7 +16359,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 888
+  "id": 909
  },
  {
   "school": "珠海市教育局",
@@ -15999,7 +16377,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 889
+  "id": 910
  },
  {
   "school": "珠海市教育局",
@@ -16017,7 +16395,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 890
+  "id": 911
  },
  {
   "school": "珠海市教育局",
@@ -16035,7 +16413,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 891
+  "id": 912
  },
  {
   "school": "珠海市教育局",
@@ -16053,7 +16431,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 892
+  "id": 913
  },
  {
   "school": "珠海市教育局",
@@ -16071,7 +16449,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 893
+  "id": 914
  },
  {
   "school": "珠海市教育局",
@@ -16089,7 +16467,7 @@
   "recordedAt": "2026-07-09",
   "annTitle": "珠海市教育局2026年暑期面向社会公开招聘所属学校事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3923126.html",
-  "id": 894
+  "id": 915
  },
  {
   "school": "教育科学学院",
@@ -16107,7 +16485,7 @@
   "recordedAt": "2026-07-08",
   "annTitle": "肇庆学院2026年第一批公开招聘高层次和紧缺人才公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4921869.html",
-  "id": 895
+  "id": 916
  },
  {
   "school": "国家发展与安全研究院",
@@ -16125,7 +16503,7 @@
   "recordedAt": "2026-07-08",
   "annTitle": "肇庆学院2026年第一批公开招聘高层次和紧缺人才公告",
   "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4921869.html",
-  "id": 896
+  "id": 917
  },
  {
   "school": "汕尾市市直学校",
@@ -16143,7 +16521,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 897
+  "id": 918
  },
  {
   "school": "汕尾市市直学校",
@@ -16161,7 +16539,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 898
+  "id": 919
  },
  {
   "school": "汕尾市市直学校",
@@ -16179,7 +16557,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 899
+  "id": 920
  },
  {
   "school": "汕尾市市直学校",
@@ -16197,7 +16575,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 900
+  "id": 921
  },
  {
   "school": "汕尾市市直学校",
@@ -16215,7 +16593,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 901
+  "id": 922
  },
  {
   "school": "汕尾市市直学校",
@@ -16233,7 +16611,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 902
+  "id": 923
  },
  {
   "school": "汕尾市市直学校",
@@ -16251,7 +16629,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 903
+  "id": 924
  },
  {
   "school": "汕尾市市直学校",
@@ -16269,7 +16647,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 904
+  "id": 925
  },
  {
   "school": "汕尾市市直学校",
@@ -16287,7 +16665,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 905
+  "id": 926
  },
  {
   "school": "汕尾市市直学校",
@@ -16305,7 +16683,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 906
+  "id": 927
  },
  {
   "school": "汕尾市市直学校",
@@ -16323,7 +16701,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 907
+  "id": 928
  },
  {
   "school": "汕尾市市直学校",
@@ -16341,7 +16719,7 @@
   "recordedAt": "2026-07-01",
   "annTitle": "2026年汕尾市市直学校公开选聘教师公告",
   "sourceUrl": "http://www.shanwei.gov.cn/swjyj/ywyw/tzgg/content/post_1255838.html",
-  "id": 908
+  "id": 929
  },
  {
   "school": "揭阳第一中学；事业；杨老师 0663-8733151",
@@ -16359,7 +16737,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 909
+  "id": 930
  },
  {
   "school": "揭阳第一中学榕江新城学校；事业；涂老师 0663-8170901",
@@ -16377,7 +16755,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 910
+  "id": 931
  },
  {
   "school": "揭阳市实验中学；事业；孙老师13822983325",
@@ -16395,7 +16773,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 911
+  "id": 932
  },
  {
   "school": "揭阳市实验中学；事业；孙老师13822983325",
@@ -16413,7 +16791,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 912
+  "id": 933
  },
  {
   "school": "揭阳第一中学；事业；杨老师 0663-8733151",
@@ -16431,7 +16809,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 913
+  "id": 934
  },
  {
   "school": "揭阳第二中学；事业；林老师13923545693",
@@ -16449,7 +16827,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 914
+  "id": 935
  },
  {
   "school": "揭阳第一中学榕江新城学校；事业；涂老师 0663-8170901",
@@ -16467,7 +16845,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 915
+  "id": 936
  },
  {
   "school": "揭阳市第二实验中学；事业；郑老师，0663-8298958",
@@ -16485,7 +16863,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 916
+  "id": 937
  },
  {
   "school": "揭阳市实验小学；事业；李老师，0663-8233084",
@@ -16503,7 +16881,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 917
+  "id": 938
  },
  {
   "school": "揭阳第一中学；事业；杨老师 0663-8733151",
@@ -16521,7 +16899,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 918
+  "id": 939
  },
  {
   "school": "揭阳市第一幼儿园；事业；王老师，0663-8210126",
@@ -16539,7 +16917,7 @@
   "recordedAt": "2026-06-30",
   "annTitle": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
   "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
-  "id": 919
+  "id": 940
  },
  {
   "school": "广州体育学院·体育教育学院",
@@ -16557,7 +16935,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 920
+  "id": 941
  },
  {
   "school": "广州体育学院·体育教育学院",
@@ -16575,7 +16953,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 921
+  "id": 942
  },
  {
   "school": "广州体育学院·运动训练学院",
@@ -16593,7 +16971,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 922
+  "id": 943
  },
  {
   "school": "广州体育学院·运动训练学院",
@@ -16611,7 +16989,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 923
+  "id": 944
  },
  {
   "school": "广州体育学院·体育艺术学院",
@@ -16629,7 +17007,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 924
+  "id": 945
  },
  {
   "school": "广州体育学院·武术学院",
@@ -16647,7 +17025,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 925
+  "id": 946
  },
  {
   "school": "广州体育学院·武术学院",
@@ -16665,7 +17043,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 926
+  "id": 947
  },
  {
   "school": "广州体育学院·武术学院",
@@ -16683,7 +17061,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 927
+  "id": 948
  },
  {
   "school": "广州体育学院·国家羽毛球学院",
@@ -16701,7 +17079,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 928
+  "id": 949
  },
  {
   "school": "广州体育学院·国家羽毛球学院",
@@ -16719,7 +17097,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 929
+  "id": 950
  },
  {
   "school": "广州体育学院·足球学院",
@@ -16737,7 +17115,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 930
+  "id": 951
  },
  {
   "school": "广州体育学院·休闲与数字体育学院",
@@ -16755,7 +17133,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 931
+  "id": 952
  },
  {
   "school": "广州体育学院·运动与健康学院",
@@ -16773,7 +17151,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 932
+  "id": 953
  },
  {
   "school": "广州体育学院·运动与健康学院",
@@ -16791,7 +17169,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 933
+  "id": 954
  },
  {
   "school": "广州体育学院·广东省人类运动表现科学重点实验室",
@@ -16809,7 +17187,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 934
+  "id": 955
  },
  {
   "school": "广州体育学院·期刊中心",
@@ -16827,7 +17205,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 935
+  "id": 956
  },
  {
   "school": "广州体育学院·马克思主义学院",
@@ -16845,7 +17223,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 936
+  "id": 957
  },
  {
   "school": "广州体育学院·体育教育学院",
@@ -16863,7 +17241,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 937
+  "id": 958
  },
  {
   "school": "广州体育学院·体育艺术学院",
@@ -16881,7 +17259,7 @@
   "recordedAt": "2026-06-26",
   "annTitle": "广州体育学院2026年第二批公开招聘事业单位工作人员公告",
   "sourceUrl": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=49",
-  "id": 938
+  "id": 959
  },
  {
   "school": "珠海市教育局",
@@ -16899,7 +17277,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市第二中学2026年关于招聘博士研究生学历编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918408.html",
-  "id": 939
+  "id": 960
  },
  {
   "school": "珠海市教育局",
@@ -16917,7 +17295,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市第二中学2026年关于招聘博士研究生学历编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918408.html",
-  "id": 940
+  "id": 961
  },
  {
   "school": "珠海市教育局",
@@ -16935,7 +17313,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市第二中学2026年关于招聘博士研究生学历编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918408.html",
-  "id": 941
+  "id": 962
  },
  {
   "school": "珠海市教育局",
@@ -16953,7 +17331,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 942
+  "id": 963
  },
  {
   "school": "珠海市教育局",
@@ -16971,7 +17349,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 943
+  "id": 964
  },
  {
   "school": "珠海市教育局",
@@ -16989,7 +17367,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 944
+  "id": 965
  },
  {
   "school": "珠海市教育局",
@@ -17007,7 +17385,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 945
+  "id": 966
  },
  {
   "school": "珠海市教育局",
@@ -17025,7 +17403,7 @@
   "recordedAt": "2026-06-24",
   "annTitle": "珠海市北京师范大学香山中学2026年夏季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3918404.html",
-  "id": 946
+  "id": 967
  },
  {
   "school": "华南理工大学·机械与汽车 工程学院",
@@ -17043,7 +17421,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 947
+  "id": 968
  },
  {
   "school": "华南理工大学·机械与汽车 工程学院",
@@ -17061,7 +17439,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 948
+  "id": 969
  },
  {
   "school": "华南理工大学·土木与交通 学院",
@@ -17079,7 +17457,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 949
+  "id": 970
  },
  {
   "school": "华南理工大学·土木与交通 学院",
@@ -17097,7 +17475,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 950
+  "id": 971
  },
  {
   "school": "华南理工大学·化学与化工 学院",
@@ -17115,7 +17493,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 951
+  "id": 972
  },
  {
   "school": "华南理工大学·化学与化工 学院",
@@ -17133,7 +17511,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 952
+  "id": 973
  },
  {
   "school": "华南理工大学·物理与光电 学院",
@@ -17151,7 +17529,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 953
+  "id": 974
  },
  {
   "school": "华南理工大学·物理与光电 学院",
@@ -17169,7 +17547,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 954
+  "id": 975
  },
  {
   "school": "华南理工大学·环境与能源 学院",
@@ -17187,7 +17565,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 955
+  "id": 976
  },
  {
   "school": "华南理工大学·软件学院",
@@ -17205,7 +17583,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 956
+  "id": 977
  },
  {
   "school": "华南理工大学·医学院",
@@ -17223,7 +17601,7 @@
   "recordedAt": "2026-06-10",
   "annTitle": "华南理工大学2026年实验技术人员公开招聘启事",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2026/0610/c4457a629645/page.htm",
-  "id": 957
+  "id": 978
  },
  {
   "school": "广东财经大学",
@@ -17241,7 +17619,7 @@
   "recordedAt": "2026-06-05",
   "annTitle": "广东财经大学2026年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0605/c7198a239988/page.htm",
-  "id": 958
+  "id": 979
  },
  {
   "school": "广东财经大学",
@@ -17259,7 +17637,7 @@
   "recordedAt": "2026-06-05",
   "annTitle": "广东财经大学2026年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0605/c7198a239988/page.htm",
-  "id": 959
+  "id": 980
  },
  {
   "school": "广东财经大学",
@@ -17277,7 +17655,7 @@
   "recordedAt": "2026-06-05",
   "annTitle": "广东财经大学2026年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2026/0605/c7198a239988/page.htm",
-  "id": 960
+  "id": 981
  },
  {
   "school": "广州市花都区第一中学",
@@ -17295,7 +17673,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 961
+  "id": 982
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17313,7 +17691,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 962
+  "id": 983
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -17331,7 +17709,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 963
+  "id": 984
  },
  {
   "school": "广州市花都区空港学校",
@@ -17349,7 +17727,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 964
+  "id": 985
  },
  {
   "school": "广州市花都区空港学校",
@@ -17367,7 +17745,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 965
+  "id": 986
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17385,7 +17763,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 966
+  "id": 987
  },
  {
   "school": "广州市花都区秀全外国语学校",
@@ -17403,7 +17781,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 967
+  "id": 988
  },
  {
   "school": "广州大学附属中学花都附属小学",
@@ -17421,7 +17799,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 968
+  "id": 989
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属小学",
@@ -17439,7 +17817,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 969
+  "id": 990
  },
  {
   "school": "广州市花都区第一中学",
@@ -17457,7 +17835,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 970
+  "id": 991
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17475,7 +17853,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 971
+  "id": 992
  },
  {
   "school": "广州市花都区空港学校",
@@ -17493,7 +17871,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 972
+  "id": 993
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17511,7 +17889,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 973
+  "id": 994
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -17529,7 +17907,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 974
+  "id": 995
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属小学",
@@ -17547,7 +17925,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 975
+  "id": 996
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17565,7 +17943,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 976
+  "id": 997
  },
  {
   "school": "广州市花都区第一中学",
@@ -17583,7 +17961,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 977
+  "id": 998
  },
  {
   "school": "广州市花都区秀全外国语学校",
@@ -17601,7 +17979,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 978
+  "id": 999
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -17619,7 +17997,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 979
+  "id": 1000
  },
  {
   "school": "广州市花都区空港学校",
@@ -17637,7 +18015,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 980
+  "id": 1001
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17655,7 +18033,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 981
+  "id": 1002
  },
  {
   "school": "广州大学附属中学花都附属小学",
@@ -17673,7 +18051,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 982
+  "id": 1003
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17691,7 +18069,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 983
+  "id": 1004
  },
  {
   "school": "广州市花都区第一中学",
@@ -17709,7 +18087,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 984
+  "id": 1005
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17727,7 +18105,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 985
+  "id": 1006
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -17745,7 +18123,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 986
+  "id": 1007
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17763,7 +18141,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 987
+  "id": 1008
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -17781,7 +18159,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 988
+  "id": 1009
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -17799,7 +18177,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 989
+  "id": 1010
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17817,7 +18195,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 990
+  "id": 1011
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -17835,7 +18213,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 991
+  "id": 1012
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17853,7 +18231,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 992
+  "id": 1013
  },
  {
   "school": "广州市花都区第一中学",
@@ -17871,7 +18249,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 993
+  "id": 1014
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -17889,7 +18267,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 994
+  "id": 1015
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17907,7 +18285,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 995
+  "id": 1016
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17925,7 +18303,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 996
+  "id": 1017
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17943,7 +18321,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 997
+  "id": 1018
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17961,7 +18339,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 998
+  "id": 1019
  },
  {
   "school": "广州市花都区铁英学校",
@@ -17979,7 +18357,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 999
+  "id": 1020
  },
  {
   "school": "广州市花都区空港学校",
@@ -17997,7 +18375,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1000
+  "id": 1021
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18015,7 +18393,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1001
+  "id": 1022
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18033,7 +18411,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1002
+  "id": 1023
  },
  {
   "school": "广州市花都区第一中学",
@@ -18051,7 +18429,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1003
+  "id": 1024
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -18069,7 +18447,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1004
+  "id": 1025
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18087,7 +18465,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1005
+  "id": 1026
  },
  {
   "school": "广州市花都区空港学校",
@@ -18105,7 +18483,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1006
+  "id": 1027
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18123,7 +18501,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1007
+  "id": 1028
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18141,7 +18519,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1008
+  "id": 1029
  },
  {
   "school": "广州市花都区空港学校",
@@ -18159,7 +18537,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1009
+  "id": 1030
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -18177,7 +18555,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1010
+  "id": 1031
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18195,7 +18573,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1011
+  "id": 1032
  },
  {
   "school": "广州大学附属中学花都附属小学",
@@ -18213,7 +18591,7 @@
   "recordedAt": "2026-06-02",
   "annTitle": "广州市花都区教育系统2026年公开招聘公办学校劳动合同制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10837/post_10837230.html",
-  "id": 1012
+  "id": 1033
  },
  {
   "school": "广州市花都区新华中学",
@@ -18231,7 +18609,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1013
+  "id": 1034
  },
  {
   "school": "广州市花都区职业技术学校",
@@ -18249,7 +18627,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1014
+  "id": 1035
  },
  {
   "school": "广东实验中学花都学校",
@@ -18267,7 +18645,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1015
+  "id": 1036
  },
  {
   "school": "广州市花都区空港学校",
@@ -18285,7 +18663,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1016
+  "id": 1037
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18303,7 +18681,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1017
+  "id": 1038
  },
  {
   "school": "广州市花都区狮岭中学",
@@ -18321,7 +18699,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1018
+  "id": 1039
  },
  {
   "school": "广州市花都区新雅街镜湖学校",
@@ -18339,7 +18717,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1019
+  "id": 1040
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18357,7 +18735,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1020
+  "id": 1041
  },
  {
   "school": "广州市花都区都雅小学",
@@ -18375,7 +18753,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1021
+  "id": 1042
  },
  {
   "school": "广州市花都区风神实验小学",
@@ -18393,7 +18771,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1022
+  "id": 1043
  },
  {
   "school": "广东实验中学花都学校",
@@ -18411,7 +18789,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1023
+  "id": 1044
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18429,7 +18807,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1024
+  "id": 1045
  },
  {
   "school": "广州市花都区空港学校",
@@ -18447,7 +18825,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1025
+  "id": 1046
  },
  {
   "school": "广州市花都区新雅街清㘵初级中学",
@@ -18465,7 +18843,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1026
+  "id": 1047
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18483,7 +18861,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1027
+  "id": 1048
  },
  {
   "school": "广州市花都区秀全外国语学校",
@@ -18501,7 +18879,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1028
+  "id": 1049
  },
  {
   "school": "广州大学附属中学花都附属小学",
@@ -18519,7 +18897,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1029
+  "id": 1050
  },
  {
   "school": "广州市花都区职业技术学校",
@@ -18537,7 +18915,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1030
+  "id": 1051
  },
  {
   "school": "广东实验中学花都学校",
@@ -18555,7 +18933,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1031
+  "id": 1052
  },
  {
   "school": "广州市花都区邝维煜纪念中学",
@@ -18573,7 +18951,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1032
+  "id": 1053
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18591,7 +18969,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1033
+  "id": 1054
  },
  {
   "school": "广州市花都区空港学校",
@@ -18609,7 +18987,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1034
+  "id": 1055
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18627,7 +19005,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1035
+  "id": 1056
  },
  {
   "school": "广州大学附属中学花都附属小学",
@@ -18645,7 +19023,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1036
+  "id": 1057
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18663,7 +19041,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1037
+  "id": 1058
  },
  {
   "school": "广州市花都区新雅街雅瑶小学",
@@ -18681,7 +19059,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1038
+  "id": 1059
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -18699,7 +19077,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1039
+  "id": 1060
  },
  {
   "school": "广东外语外贸大学附属花都学校",
@@ -18717,7 +19095,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1040
+  "id": 1061
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18735,7 +19113,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1041
+  "id": 1062
  },
  {
   "school": "广州市花都区秀雅学校",
@@ -18753,7 +19131,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1042
+  "id": 1063
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -18771,7 +19149,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1043
+  "id": 1064
  },
  {
   "school": "广东实验中学花都学校",
@@ -18789,7 +19167,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1044
+  "id": 1065
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -18807,7 +19185,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1045
+  "id": 1066
  },
  {
   "school": "广东实验中学花都学校",
@@ -18825,7 +19203,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1046
+  "id": 1067
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18843,7 +19221,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1047
+  "id": 1068
  },
  {
   "school": "广东实验中学花都学校",
@@ -18861,7 +19239,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1048
+  "id": 1069
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18879,7 +19257,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1049
+  "id": 1070
  },
  {
   "school": "广州市花都区邝维煜纪念中学附属雅正学校",
@@ -18897,7 +19275,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1050
+  "id": 1071
  },
  {
   "school": "广州市花都区圆玄中学",
@@ -18915,7 +19293,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1051
+  "id": 1072
  },
  {
   "school": "广州市花都区铁英学校",
@@ -18933,7 +19311,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1052
+  "id": 1073
  },
  {
   "school": "广州市花都区职业技术学校",
@@ -18951,7 +19329,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1053
+  "id": 1074
  },
  {
   "school": "广州市花都区空港学校",
@@ -18969,7 +19347,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1054
+  "id": 1075
  },
  {
   "school": "广东实验中学花都学校",
@@ -18987,7 +19365,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1055
+  "id": 1076
  },
  {
   "school": "广州市花都区职业技术学校",
@@ -19005,7 +19383,7 @@
   "recordedAt": "2026-05-28",
   "annTitle": "广州市花都区教育局2026年区内公开招聘公办学校事业编制教师公告",
   "sourceUrl": "https://www.huadu.gov.cn/gzhdjy/gkmlpt/content/10/10832/post_10832449.html",
-  "id": 1056
+  "id": 1077
  },
  {
   "school": "珠海市教育局",
@@ -19023,7 +19401,7 @@
   "recordedAt": "2026-05-07",
   "annTitle": "珠海市北京师范大学香山中学2026年春季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3902833.html",
-  "id": 1057
+  "id": 1078
  },
  {
   "school": "珠海市教育局",
@@ -19041,7 +19419,7 @@
   "recordedAt": "2026-05-07",
   "annTitle": "珠海市北京师范大学香山中学2026年春季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3902833.html",
-  "id": 1058
+  "id": 1079
  },
  {
   "school": "珠海市教育局",
@@ -19059,7 +19437,7 @@
   "recordedAt": "2026-05-07",
   "annTitle": "珠海市北京师范大学香山中学2026年春季面向社会公开招聘事业编制教师公告",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3902833.html",
-  "id": 1059
+  "id": 1080
  },
  {
   "school": "广州中学",
@@ -19077,7 +19455,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1060
+  "id": 1081
  },
  {
   "school": "广州中学",
@@ -19095,7 +19473,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1061
+  "id": 1082
  },
  {
   "school": "广州中学",
@@ -19113,7 +19491,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1062
+  "id": 1083
  },
  {
   "school": "广州中学",
@@ -19131,7 +19509,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1063
+  "id": 1084
  },
  {
   "school": "广州中学",
@@ -19149,7 +19527,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1064
+  "id": 1085
  },
  {
   "school": "广州中学",
@@ -19167,7 +19545,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1065
+  "id": 1086
  },
  {
   "school": "广州中学",
@@ -19185,7 +19563,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1066
+  "id": 1087
  },
  {
   "school": "广州中学",
@@ -19203,7 +19581,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1067
+  "id": 1088
  },
  {
   "school": "广州中学",
@@ -19221,7 +19599,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1068
+  "id": 1089
  },
  {
   "school": "广州中学",
@@ -19239,7 +19617,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1069
+  "id": 1090
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19257,7 +19635,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1070
+  "id": 1091
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19275,7 +19653,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1071
+  "id": 1092
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19293,7 +19671,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1072
+  "id": 1093
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19311,7 +19689,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1073
+  "id": 1094
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19329,7 +19707,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1074
+  "id": 1095
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19347,7 +19725,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1075
+  "id": 1096
  },
  {
   "school": "新开办九年一贯制学校",
@@ -19365,7 +19743,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1076
+  "id": 1097
  },
  {
   "school": "广州市天河外国语学校",
@@ -19383,7 +19761,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1077
+  "id": 1098
  },
  {
   "school": "广州市天河外国语学校",
@@ -19401,7 +19779,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1078
+  "id": 1099
  },
  {
   "school": "广州市天河外国语学校",
@@ -19419,7 +19797,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1079
+  "id": 1100
  },
  {
   "school": "广州市天河外国语学校",
@@ -19437,7 +19815,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1080
+  "id": 1101
  },
  {
   "school": "广州市天河外国语学校",
@@ -19455,7 +19833,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1081
+  "id": 1102
  },
  {
   "school": "广州市天河外国语学校",
@@ -19473,7 +19851,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1082
+  "id": 1103
  },
  {
   "school": "广州市天河外国语学校",
@@ -19491,7 +19869,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1083
+  "id": 1104
  },
  {
   "school": "广州市天河外国语学校",
@@ -19509,7 +19887,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1084
+  "id": 1105
  },
  {
   "school": "广州市天河外国语学校",
@@ -19527,7 +19905,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1085
+  "id": 1106
  },
  {
   "school": "广州市天河外国语学校",
@@ -19545,7 +19923,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1086
+  "id": 1107
  },
  {
   "school": "广州市天河外国语学校",
@@ -19563,7 +19941,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1087
+  "id": 1108
  },
  {
   "school": "广州市天河外国语学校",
@@ -19581,7 +19959,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1088
+  "id": 1109
  },
  {
   "school": "广州市天河外国语学校",
@@ -19599,7 +19977,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1089
+  "id": 1110
  },
  {
   "school": "广州市天河外国语学校",
@@ -19617,7 +19995,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1090
+  "id": 1111
  },
  {
   "school": "广州市天河外国语学校",
@@ -19635,7 +20013,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1091
+  "id": 1112
  },
  {
   "school": "广州市天河外国语学校",
@@ -19653,7 +20031,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1092
+  "id": 1113
  },
  {
   "school": "广州市天河外国语学校",
@@ -19671,7 +20049,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1093
+  "id": 1114
  },
  {
   "school": "广州市天河外国语学校",
@@ -19689,7 +20067,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1094
+  "id": 1115
  },
  {
   "school": "广州市天河外国语学校",
@@ -19707,7 +20085,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1095
+  "id": 1116
  },
  {
   "school": "新开办初级中学",
@@ -19725,7 +20103,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1096
+  "id": 1117
  },
  {
   "school": "新开办初级中学",
@@ -19743,7 +20121,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1097
+  "id": 1118
  },
  {
   "school": "新开办初级中学",
@@ -19761,7 +20139,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1098
+  "id": 1119
  },
  {
   "school": "新开办初级中学",
@@ -19779,7 +20157,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1099
+  "id": 1120
  },
  {
   "school": "新开办初级中学",
@@ -19797,7 +20175,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1100
+  "id": 1121
  },
  {
   "school": "广州市天河中学",
@@ -19815,7 +20193,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1101
+  "id": 1122
  },
  {
   "school": "广州市天河中学",
@@ -19833,7 +20211,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1102
+  "id": 1123
  },
  {
   "school": "广州市天河中学",
@@ -19851,7 +20229,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1103
+  "id": 1124
  },
  {
   "school": "广州市天河中学",
@@ -19869,7 +20247,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1104
+  "id": 1125
  },
  {
   "school": "广州市天河中学",
@@ -19887,7 +20265,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1105
+  "id": 1126
  },
  {
   "school": "广州市第一一三中学",
@@ -19905,7 +20283,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1106
+  "id": 1127
  },
  {
   "school": "广州市第一一三中学",
@@ -19923,7 +20301,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1107
+  "id": 1128
  },
  {
   "school": "广州市第一一三中学",
@@ -19941,7 +20319,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1108
+  "id": 1129
  },
  {
   "school": "广州市第一一三中学",
@@ -19959,7 +20337,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1109
+  "id": 1130
  },
  {
   "school": "广州市第一一三中学",
@@ -19977,7 +20355,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1110
+  "id": 1131
  },
  {
   "school": "广东实验中学天河学校",
@@ -19995,7 +20373,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1111
+  "id": 1132
  },
  {
   "school": "广东实验中学天河学校",
@@ -20013,7 +20391,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1112
+  "id": 1133
  },
  {
   "school": "广东实验中学天河学校",
@@ -20031,7 +20409,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1113
+  "id": 1134
  },
  {
   "school": "广东实验中学天河学校",
@@ -20049,7 +20427,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1114
+  "id": 1135
  },
  {
   "school": "广东实验中学天河学校",
@@ -20067,7 +20445,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1115
+  "id": 1136
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20085,7 +20463,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1116
+  "id": 1137
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20103,7 +20481,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1117
+  "id": 1138
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20121,7 +20499,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1118
+  "id": 1139
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20139,7 +20517,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1119
+  "id": 1140
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20157,7 +20535,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1120
+  "id": 1141
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20175,7 +20553,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1121
+  "id": 1142
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20193,7 +20571,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1122
+  "id": 1143
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20211,7 +20589,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1123
+  "id": 1144
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20229,7 +20607,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1124
+  "id": 1145
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20247,7 +20625,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1125
+  "id": 1146
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20265,7 +20643,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1126
+  "id": 1147
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20283,7 +20661,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1127
+  "id": 1148
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20301,7 +20679,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1128
+  "id": 1149
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20319,7 +20697,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1129
+  "id": 1150
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20337,7 +20715,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1130
+  "id": 1151
  },
  {
   "school": "广州奥林匹克中学、广州市天河职业高级中学、广州市第十八中学、广州市泰安中学、广州市天河区智谷第一实验学校",
@@ -20355,7 +20733,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1131
+  "id": 1152
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20373,7 +20751,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1132
+  "id": 1153
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20391,7 +20769,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1133
+  "id": 1154
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20409,7 +20787,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1134
+  "id": 1155
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20427,7 +20805,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1135
+  "id": 1156
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20445,7 +20823,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1136
+  "id": 1157
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20463,7 +20841,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1137
+  "id": 1158
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20481,7 +20859,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1138
+  "id": 1159
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20499,7 +20877,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1139
+  "id": 1160
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20517,7 +20895,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1140
+  "id": 1161
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20535,7 +20913,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1141
+  "id": 1162
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20553,7 +20931,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1142
+  "id": 1163
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20571,7 +20949,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1143
+  "id": 1164
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20589,7 +20967,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1144
+  "id": 1165
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20607,7 +20985,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1145
+  "id": 1166
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20625,7 +21003,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1146
+  "id": 1167
  },
  {
   "school": "广州市天河区汇景实验学校、广州市天河中学猎德实验学校、广州市天河外国语智谷学校、广州市天荣中学、广州市骏景中学",
@@ -20643,7 +21021,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1147
+  "id": 1168
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20661,7 +21039,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1148
+  "id": 1169
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20679,7 +21057,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1149
+  "id": 1170
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20697,7 +21075,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1150
+  "id": 1171
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20715,7 +21093,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1151
+  "id": 1172
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20733,7 +21111,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1152
+  "id": 1173
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20751,7 +21129,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1153
+  "id": 1174
  },
  {
   "school": "广州市天河区体育东路小学、广州市天河区体育东路小学兴国学校、广州市天河区体育东路小学海明学校、广州市天河区体育东教育集团均和小学、广州市天河区吉山小学、广州市天河区五山小学",
@@ -20769,7 +21147,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1154
+  "id": 1175
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20787,7 +21165,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1155
+  "id": 1176
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20805,7 +21183,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1156
+  "id": 1177
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20823,7 +21201,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1157
+  "id": 1178
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20841,7 +21219,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1158
+  "id": 1179
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20859,7 +21237,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1159
+  "id": 1180
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20877,7 +21255,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1160
+  "id": 1181
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20895,7 +21273,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1161
+  "id": 1182
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20913,7 +21291,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1162
+  "id": 1183
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20931,7 +21309,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1163
+  "id": 1184
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20949,7 +21327,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1164
+  "id": 1185
  },
  {
   "school": "广州市天河区华阳小学、广州市天河区华阳教育集团新塘小学、广州市天河区珠村小学、广州市天河区石牌小学、广州市天河智慧城第一小学",
@@ -20967,7 +21345,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1165
+  "id": 1186
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -20985,7 +21363,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1166
+  "id": 1187
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21003,7 +21381,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1167
+  "id": 1188
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21021,7 +21399,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1168
+  "id": 1189
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21039,7 +21417,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1169
+  "id": 1190
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21057,7 +21435,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1170
+  "id": 1191
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21075,7 +21453,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1171
+  "id": 1192
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21093,7 +21471,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1172
+  "id": 1193
  },
  {
   "school": "广州市天河区天府路小学、广州市天河区华融小学、广州市天河区车陂小学、广州市天河区棠东小学、广州市天河区石东小学、广州市天河区柯木塱小学",
@@ -21111,7 +21489,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1173
+  "id": 1194
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21129,7 +21507,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1174
+  "id": 1195
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21147,7 +21525,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1175
+  "id": 1196
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21165,7 +21543,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1176
+  "id": 1197
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21183,7 +21561,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1177
+  "id": 1198
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21201,7 +21579,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1178
+  "id": 1199
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21219,7 +21597,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1179
+  "id": 1200
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21237,7 +21615,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1180
+  "id": 1201
  },
  {
   "school": "广州市天河区龙口西小学、广州市天河区黄村小学、广州市天河区华景小学、广州市天河区骏景小学、广州市天河区岑村小学",
@@ -21255,7 +21633,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1181
+  "id": 1202
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21273,7 +21651,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1182
+  "id": 1203
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21291,7 +21669,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1183
+  "id": 1204
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21309,7 +21687,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1184
+  "id": 1205
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21327,7 +21705,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1185
+  "id": 1206
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21345,7 +21723,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1186
+  "id": 1207
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21363,7 +21741,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1187
+  "id": 1208
  },
  {
   "school": "广州市天河区先烈东小学、新开办小学、广州市天河区龙岗路小学、广州市天河区沙河小学",
@@ -21381,7 +21759,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1188
+  "id": 1209
  },
  {
   "school": "广州市天河区龙洞小学、广州市天河区华康小学、广州市天河区新元小学、广州市天河区渔沙坦小学",
@@ -21399,7 +21777,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1189
+  "id": 1210
  },
  {
   "school": "广州市天河区龙洞小学、广州市天河区华康小学、广州市天河区新元小学、广州市天河区渔沙坦小学",
@@ -21417,7 +21795,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1190
+  "id": 1211
  },
  {
   "school": "广州市天河区龙洞小学、广州市天河区华康小学、广州市天河区新元小学、广州市天河区渔沙坦小学",
@@ -21435,7 +21813,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1191
+  "id": 1212
  },
  {
   "school": "广州市天河区龙洞小学、广州市天河区华康小学、广州市天河区新元小学、广州市天河区渔沙坦小学",
@@ -21453,7 +21831,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1192
+  "id": 1213
  },
  {
   "school": "广州市天河区启慧学校",
@@ -21471,7 +21849,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1193
+  "id": 1214
  },
  {
   "school": "广州市天河区教育发展研究院",
@@ -21489,7 +21867,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1194
+  "id": 1215
  },
  {
   "school": "广州市天河区教育基建和装备中心",
@@ -21507,7 +21885,7 @@
   "recordedAt": "2026-03-05",
   "annTitle": "广州市天河区教育局直属事业单位2026年春季公开招聘在编教职员公告",
   "sourceUrl": "http://www.thnet.gov.cn/gzjg/qzf/qjyj/tzgg/rszp/content/post_10712396.html",
-  "id": 1195
+  "id": 1216
  },
  {
   "school": "珠海市育德学校",
@@ -21525,7 +21903,7 @@
   "recordedAt": "2025-12-25",
   "annTitle": "珠海市育德学校2025年公开招聘教师公告（第二轮）",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3864981.html",
-  "id": 1196
+  "id": 1217
  },
  {
   "school": "珠海市育德学校",
@@ -21543,7 +21921,7 @@
   "recordedAt": "2025-12-25",
   "annTitle": "珠海市育德学校2025年公开招聘教师公告（第二轮）",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3864981.html",
-  "id": 1197
+  "id": 1218
  },
  {
   "school": "珠海市育德学校",
@@ -21561,7 +21939,7 @@
   "recordedAt": "2025-12-25",
   "annTitle": "珠海市育德学校2025年公开招聘教师公告（第二轮）",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3864981.html",
-  "id": 1198
+  "id": 1219
  },
  {
   "school": "珠海市育德学校",
@@ -21579,7 +21957,7 @@
   "recordedAt": "2025-12-25",
   "annTitle": "珠海市育德学校2025年公开招聘教师公告（第二轮）",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3864981.html",
-  "id": 1199
+  "id": 1220
  },
  {
   "school": "珠海市育德学校",
@@ -21597,7 +21975,7 @@
   "recordedAt": "2025-12-25",
   "annTitle": "珠海市育德学校2025年公开招聘教师公告（第二轮）",
   "sourceUrl": "http://zhjy.zhuhai.gov.cn/ywgz/jsdw/content/post_3864981.html",
-  "id": 1200
+  "id": 1221
  },
  {
   "school": "华南理工大学·吴贤铭智能工程学院",
@@ -21615,7 +21993,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1201
+  "id": 1222
  },
  {
   "school": "华南理工大学·吴贤铭智能工程学院",
@@ -21633,7 +22011,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1202
+  "id": 1223
  },
  {
   "school": "华南理工大学·吴贤铭智能工程学院",
@@ -21651,7 +22029,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1203
+  "id": 1224
  },
  {
   "school": "华南理工大学·吴贤铭智能工程学院",
@@ -21669,7 +22047,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1204
+  "id": 1225
  },
  {
   "school": "华南理工大学·吴贤铭智能工程学院",
@@ -21687,7 +22065,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1205
+  "id": 1226
  },
  {
   "school": "华南理工大学·公共管理学院",
@@ -21705,7 +22083,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1206
+  "id": 1227
  },
  {
   "school": "华南理工大学·公共管理学院",
@@ -21723,7 +22101,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1207
+  "id": 1228
  },
  {
   "school": "华南理工大学·软件学院",
@@ -21741,7 +22119,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1208
+  "id": 1229
  },
  {
   "school": "华南理工大学·软件学院",
@@ -21759,7 +22137,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1209
+  "id": 1230
  },
  {
   "school": "华南理工大学·自动化科学与工程学院",
@@ -21777,7 +22155,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1210
+  "id": 1231
  },
  {
   "school": "华南理工大学·自动化科学与工程学院",
@@ -21795,7 +22173,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1211
+  "id": 1232
  },
  {
   "school": "华南理工大学·自动化科学与工程学院",
@@ -21813,7 +22191,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1212
+  "id": 1233
  },
  {
   "school": "华南理工大学·自动化科学与工程学院",
@@ -21831,7 +22209,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1213
+  "id": 1234
  },
  {
   "school": "华南理工大学·自动化科学与工程学院",
@@ -21849,7 +22227,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1214
+  "id": 1235
  },
  {
   "school": "华南理工大学·未来健康研究院",
@@ -21867,7 +22245,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1215
+  "id": 1236
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21885,7 +22263,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1216
+  "id": 1237
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21903,7 +22281,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1217
+  "id": 1238
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21921,7 +22299,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1218
+  "id": 1239
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21939,7 +22317,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1219
+  "id": 1240
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21957,7 +22335,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1220
+  "id": 1241
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21975,7 +22353,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1221
+  "id": 1242
  },
  {
   "school": "华南理工大学·电力学院",
@@ -21993,7 +22371,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1222
+  "id": 1243
  },
  {
   "school": "华南理工大学·电力学院",
@@ -22011,7 +22389,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1223
+  "id": 1244
  },
  {
   "school": "华南理工大学·电子与信息学院",
@@ -22029,7 +22407,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1224
+  "id": 1245
  },
  {
   "school": "华南理工大学·工商管理学院",
@@ -22047,7 +22425,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1225
+  "id": 1246
  },
  {
   "school": "华南理工大学·工商管理学院",
@@ -22065,7 +22443,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1226
+  "id": 1247
  },
  {
   "school": "华南理工大学·工商管理学院",
@@ -22083,7 +22461,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1227
+  "id": 1248
  },
  {
   "school": "华南理工大学·工商管理学院",
@@ -22101,7 +22479,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1228
+  "id": 1249
  },
  {
   "school": "华南理工大学·计算机科学与工程学院",
@@ -22119,7 +22497,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1229
+  "id": 1250
  },
  {
   "school": "华南理工大学·计算机科学与工程学院",
@@ -22137,7 +22515,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1230
+  "id": 1251
  },
  {
   "school": "华南理工大学·计算机科学与工程学院",
@@ -22155,7 +22533,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1231
+  "id": 1252
  },
  {
   "school": "华南理工大学·经济与金融学院",
@@ -22173,7 +22551,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1232
+  "id": 1253
  },
  {
   "school": "华南理工大学·设计学院",
@@ -22191,7 +22569,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1233
+  "id": 1254
  },
  {
   "school": "华南理工大学·设计学院",
@@ -22209,7 +22587,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1234
+  "id": 1255
  },
  {
   "school": "华南理工大学·设计学院",
@@ -22227,7 +22605,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1235
+  "id": 1256
  },
  {
   "school": "华南理工大学·设计学院",
@@ -22245,7 +22623,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1236
+  "id": 1257
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -22263,7 +22641,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1237
+  "id": 1258
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -22281,7 +22659,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1238
+  "id": 1259
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -22299,7 +22677,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1239
+  "id": 1260
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -22317,7 +22695,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1240
+  "id": 1261
  },
  {
   "school": "华南理工大学·粤港澳大湾区发展广州智库",
@@ -22335,7 +22713,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1241
+  "id": 1262
  },
  {
   "school": "华南理工大学·粤港澳大湾区发展广州智库",
@@ -22353,7 +22731,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1242
+  "id": 1263
  },
  {
   "school": "华南理工大学·资产经营有限公司",
@@ -22371,7 +22749,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1243
+  "id": 1264
  },
  {
   "school": "华南理工大学·电力学院",
@@ -22389,7 +22767,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1244
+  "id": 1265
  },
  {
   "school": "华南理工大学·生物医学科学与工程学院",
@@ -22407,7 +22785,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1245
+  "id": 1266
  },
  {
   "school": "华南理工大学·先进技术研究院",
@@ -22425,7 +22803,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1246
+  "id": 1267
  },
  {
   "school": "华南理工大学·先进技术研究院",
@@ -22443,7 +22821,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1247
+  "id": 1268
  },
  {
   "school": "华南理工大学·生物科学与工程学院",
@@ -22461,7 +22839,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1248
+  "id": 1269
  },
  {
   "school": "华南理工大学·生物科学与工程学院",
@@ -22479,7 +22857,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1249
+  "id": 1270
  },
  {
   "school": "华南理工大学·生物科学与工程学院",
@@ -22497,7 +22875,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1250
+  "id": 1271
  },
  {
   "school": "华南理工大学·生物科学与工程学院",
@@ -22515,7 +22893,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1251
+  "id": 1272
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -22533,7 +22911,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1252
+  "id": 1273
  },
  {
   "school": "华南理工大学·医学院",
@@ -22551,7 +22929,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1253
+  "id": 1274
  },
  {
   "school": "华南理工大学·医学院",
@@ -22569,7 +22947,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1254
+  "id": 1275
  },
  {
   "school": "华南理工大学·医学院",
@@ -22587,7 +22965,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1255
+  "id": 1276
  },
  {
   "school": "华南理工大学·医学院",
@@ -22605,7 +22983,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1256
+  "id": 1277
  },
  {
   "school": "华南理工大学·医学院",
@@ -22623,7 +23001,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1257
+  "id": 1278
  },
  {
   "school": "华南理工大学·医学院",
@@ -22641,7 +23019,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1258
+  "id": 1279
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -22659,7 +23037,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1259
+  "id": 1280
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22677,7 +23055,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1260
+  "id": 1281
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22695,7 +23073,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1261
+  "id": 1282
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22713,7 +23091,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1262
+  "id": 1283
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22731,7 +23109,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1263
+  "id": 1284
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22749,7 +23127,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1264
+  "id": 1285
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22767,7 +23145,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1265
+  "id": 1286
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22785,7 +23163,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1266
+  "id": 1287
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -22803,7 +23181,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1267
+  "id": 1288
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -22821,7 +23199,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1268
+  "id": 1289
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -22839,7 +23217,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1269
+  "id": 1290
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -22857,7 +23235,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1270
+  "id": 1291
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -22875,7 +23253,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1271
+  "id": 1292
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -22893,7 +23271,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1272
+  "id": 1293
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -22911,7 +23289,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1273
+  "id": 1294
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -22929,7 +23307,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1274
+  "id": 1295
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -22947,7 +23325,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1275
+  "id": 1296
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -22965,7 +23343,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1276
+  "id": 1297
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -22983,7 +23361,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1277
+  "id": 1298
  },
  {
   "school": "华南理工大学·体育学院",
@@ -23001,7 +23379,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1278
+  "id": 1299
  },
  {
   "school": "华南理工大学·未来技术学院",
@@ -23019,7 +23397,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1279
+  "id": 1300
  },
  {
   "school": "华南理工大学·未来技术学院",
@@ -23037,7 +23415,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1280
+  "id": 1301
  },
  {
   "school": "华南理工大学·物理与光电学院",
@@ -23055,7 +23433,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1281
+  "id": 1302
  },
  {
   "school": "华南理工大学·电子商务系",
@@ -23073,7 +23451,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1282
+  "id": 1303
  },
  {
   "school": "华南理工大学·建筑学院",
@@ -23091,7 +23469,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1283
+  "id": 1304
  },
  {
   "school": "华南理工大学·微电子学院",
@@ -23109,7 +23487,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1284
+  "id": 1305
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23127,7 +23505,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1285
+  "id": 1306
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23145,7 +23523,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1286
+  "id": 1307
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23163,7 +23541,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1287
+  "id": 1308
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23181,7 +23559,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1288
+  "id": 1309
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23199,7 +23577,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1289
+  "id": 1310
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23217,7 +23595,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1290
+  "id": 1311
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23235,7 +23613,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1291
+  "id": 1312
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23253,7 +23631,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1292
+  "id": 1313
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23271,7 +23649,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1293
+  "id": 1314
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23289,7 +23667,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1294
+  "id": 1315
  },
  {
   "school": "华南理工大学·食品科学与工程学院",
@@ -23307,7 +23685,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1295
+  "id": 1316
  },
  {
   "school": "华南理工大学医院",
@@ -23325,7 +23703,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1296
+  "id": 1317
  },
  {
   "school": "华南理工大学·艺术学院",
@@ -23343,7 +23721,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1297
+  "id": 1318
  },
  {
   "school": "华南理工大学·化学与化工学院",
@@ -23361,7 +23739,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1298
+  "id": 1319
  },
  {
   "school": "华南理工大学·化学与化工学院",
@@ -23379,7 +23757,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1299
+  "id": 1320
  },
  {
   "school": "华南理工大学·化学与化工学院",
@@ -23397,7 +23775,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1300
+  "id": 1321
  },
  {
   "school": "华南理工大学·化学与化工学院",
@@ -23415,7 +23793,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1301
+  "id": 1322
  },
  {
   "school": "华南理工大学·未来技术学院",
@@ -23433,7 +23811,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1302
+  "id": 1323
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23451,7 +23829,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1303
+  "id": 1324
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23469,7 +23847,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1304
+  "id": 1325
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23487,7 +23865,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1305
+  "id": 1326
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23505,7 +23883,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1306
+  "id": 1327
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23523,7 +23901,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1307
+  "id": 1328
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23541,7 +23919,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1308
+  "id": 1329
  },
  {
   "school": "华南理工大学·材料科学与工程学院",
@@ -23559,7 +23937,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1309
+  "id": 1330
  },
  {
   "school": "华南理工大学·建筑学院",
@@ -23577,7 +23955,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1310
+  "id": 1331
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -23595,7 +23973,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1311
+  "id": 1332
  },
  {
   "school": "华南理工大学·轻工科学与工程学院",
@@ -23613,7 +23991,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1312
+  "id": 1333
  },
  {
   "school": "华南理工大学·分析测试中心",
@@ -23631,7 +24009,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1313
+  "id": 1334
  },
  {
   "school": "华南理工大学·物理与光电学院",
@@ -23649,7 +24027,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1314
+  "id": 1335
  },
  {
   "school": "华南理工大学·物理与光电学院",
@@ -23667,7 +24045,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1315
+  "id": 1336
  },
  {
   "school": "华南理工大学·设计学院",
@@ -23685,7 +24063,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1316
+  "id": 1337
  },
  {
   "school": "华南理工大学·前沿软物质学院",
@@ -23703,7 +24081,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1317
+  "id": 1338
  },
  {
   "school": "华南理工大学·计算机科学与工程学院",
@@ -23721,7 +24099,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1318
+  "id": 1339
  },
  {
   "school": "华南理工大学·土木与交通学院",
@@ -23739,7 +24117,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1319
+  "id": 1340
  },
  {
   "school": "华南理工大学·物理与光电学院",
@@ -23757,7 +24135,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1320
+  "id": 1341
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23775,7 +24153,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1321
+  "id": 1342
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23793,7 +24171,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1322
+  "id": 1343
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23811,7 +24189,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1323
+  "id": 1344
  },
  {
   "school": "华南理工大学·机械与汽车工程学院",
@@ -23829,7 +24207,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1324
+  "id": 1345
  },
  {
   "school": "华南理工大学·软件学院",
@@ -23847,7 +24225,7 @@
   "recordedAt": "2025-06-17",
   "annTitle": "华南理工大学2025年度应届毕业生科研助理岗位招聘启事(实时更新）",
   "sourceUrl": "https://www2.scut.edu.cn/hr/2025/0617/c4457a621755/page.htm",
-  "id": 1325
+  "id": 1346
  },
  {
   "school": "广东财经大学",
@@ -23865,7 +24243,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1326
+  "id": 1347
  },
  {
   "school": "广东财经大学",
@@ -23883,7 +24261,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1327
+  "id": 1348
  },
  {
   "school": "广东财经大学",
@@ -23901,7 +24279,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1328
+  "id": 1349
  },
  {
   "school": "广东财经大学",
@@ -23919,7 +24297,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1329
+  "id": 1350
  },
  {
   "school": "广东财经大学",
@@ -23937,7 +24315,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1330
+  "id": 1351
  },
  {
   "school": "广东财经大学",
@@ -23955,7 +24333,7 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1331
+  "id": 1352
  },
  {
   "school": "广东财经大学",
@@ -23973,6 +24351,6 @@
   "recordedAt": "2025-03-10",
   "annTitle": "广东财经大学2025年公开招聘辅导员公告",
   "sourceUrl": "https://rsc.gdufe.edu.cn/2025/0310/c12801a216677/page.htm",
-  "id": 1332
+  "id": 1353
  }
 ]
