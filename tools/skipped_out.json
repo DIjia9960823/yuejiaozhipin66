@@ -735,7 +735,7 @@
   "id": 1036,
   "title": "广州航海学院2026年公开招聘专职教学督导员的公告",
   "sourceUrl": "https://rsc.gzmtu.edu.cn/info/1003/2032.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1037,
@@ -928,6 +928,12 @@
   "title": "广东外语外贸大学南国商学院2026年二级教学单位正副职招聘启事",
   "sourceUrl": "https://www.gwng.edu.cn/rsc/2026/0701/c992a110045/page.htm",
   "reason": "页面没有岗位表附件"
+ },
+ {
+  "id": 1097,
+  "title": "2026年揭阳市直学校赴外地院校公开招聘教师公告",
+  "sourceUrl": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_1030810.html",
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1100,
