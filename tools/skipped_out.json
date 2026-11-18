@@ -171,7 +171,7 @@
   "id": 866,
   "title": "华南农业大学离退休工作处招聘公告",
   "sourceUrl": "https://hr.scau.edu.cn/2026/1104/c15207a450648/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 869,
@@ -1767,7 +1767,7 @@
   "id": 1315,
   "title": "2025-09-22 广州工商学院中青年高层次人才招聘启事",
   "sourceUrl": "http://www.gzgs.edu.cn/rsc/info/1152/2112.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1316,
@@ -2049,7 +2049,7 @@
   "id": 1363,
   "title": "华南农业大学2025年人才引进和博士后招聘公告",
   "sourceUrl": "https://hr.scau.edu.cn/2025/0317/c15207a402512/page.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 1365,
