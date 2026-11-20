@@ -153,7 +153,7 @@
   "id": 863,
   "title": "关于东莞理工学院2026年公开招聘专职辅",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/8223.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 864,
@@ -171,7 +171,7 @@
   "id": 866,
   "title": "华南农业大学离退休工作处招聘公告",
   "sourceUrl": "https://hr.scau.edu.cn/2026/1104/c15207a450648/page.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 869,
@@ -381,7 +381,7 @@
   "id": 919,
   "title": "广东科技学院公开招聘心理咨询中心干事公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20261009/6989.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 920,
@@ -393,7 +393,7 @@
   "id": 921,
   "title": "广东科技学院公开招聘紧缺人才公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260725/6983.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 922,
@@ -483,7 +483,7 @@
   "id": 943,
   "title": "计算机与软件学院科研项目助理招聘启事",
   "sourceUrl": "https://www.suit-sz.edu.cn/info/1102/18689.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 944,
@@ -654,6 +654,12 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 1004,
+  "title": "江门市艺术中学公开选聘教师公告",
+  "sourceUrl": "http://www.jiangmen.gov.cn/bmpd/jmsjyj/zwgk/tzgg/content/post_3532531.html",
+  "reason": "页面没有岗位表附件"
+ },
+ {
   "id": 1007,
   "title": "202608/06广州中医药大学2026年第二批公开招聘工作人员公告",
   "sourceUrl": "https://www.gzucm.edu.cn/info/1461/121891.htm",
@@ -735,13 +741,13 @@
   "id": 1036,
   "title": "广州航海学院2026年公开招聘专职教学督导员的公告",
   "sourceUrl": "https://rsc.gzmtu.edu.cn/info/1003/2032.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1037,
   "title": "广东科技学院办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250809/5897.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1041,
@@ -975,7 +981,7 @@
   "id": 1111,
   "title": "东莞理工学院2026年公开招聘专职辅导员",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/8013.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1114,
@@ -987,7 +993,7 @@
   "id": 1115,
   "title": "东莞理工学院2026年公开招聘专职辅导员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/8003.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1118,
@@ -1101,7 +1107,7 @@
   "id": 1156,
   "title": "中山大学中法核工程与技术学院数学教师招聘公告",
   "sourceUrl": "https://rcb.sysu.edu.cn/article/746",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 1157,
@@ -1371,7 +1377,7 @@
   "id": 1247,
   "title": "华南师范大学2026年公开招聘工作人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260408/1015.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "附件解析不出岗位; 华南师范大学2026年公开招聘工作人员岗位表.xls: HTTPError"
  },
  {
   "id": 1248,
@@ -1425,7 +1431,7 @@
   "id": 1256,
   "title": "关于校内招聘国际学院教学秘书的公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7763.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1257,
@@ -1473,7 +1479,7 @@
   "id": 1265,
   "title": "华南师范大学2026年公开招聘医务人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260304/1010.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘医务人员岗位需求表.x: HTTPError"
  },
  {
   "id": 1266,
@@ -1515,7 +1521,7 @@
   "id": 1272,
   "title": "华南师范大学2026年公开招聘幼儿教师公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260127/1006.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘幼儿教师岗位需求表.x: HTTPError"
  },
  {
   "id": 1273,
@@ -1539,13 +1545,13 @@
   "id": 1276,
   "title": "华南师范大学2026年公开招聘教辅人员公告",
   "sourceUrl": "https://rsc.scnu.edu.cn/a/20260116/1005.html",
-  "reason": "页面没有岗位表附件"
+  "reason": "附件解析不出岗位; 附件1：华南师范大学2026年公开招聘教学辅助人员岗位需求表: HTTPError"
  },
  {
   "id": 1277,
   "title": "广东科技学院品牌中心公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20260114/5929.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1278,
@@ -1557,7 +1563,7 @@
   "id": 1279,
   "title": "东莞理工学院2025年第二批招聘聘用人员资格审查结果及有关事项公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7583.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1280,
@@ -1641,7 +1647,7 @@
   "id": 1294,
   "title": "关于校内招聘国际设计学院（筹）教学秘书的公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7503.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1295,
@@ -1653,7 +1659,7 @@
   "id": 1296,
   "title": "东莞理工学院2025年第二批招聘聘用人员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1016/7493.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1297,
@@ -1767,7 +1773,7 @@
   "id": 1315,
   "title": "2025-09-22 广州工商学院中青年高层次人才招聘启事",
   "sourceUrl": "http://www.gzgs.edu.cn/rsc/info/1152/2112.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1316,
@@ -1803,7 +1809,7 @@
   "id": 1321,
   "title": "广东科技学院2025年秋季公开招聘博士研究生公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250710/4896.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 1322,
@@ -1893,7 +1899,7 @@
   "id": 1336,
   "title": "东莞理工学院2025年第一批招聘聘用人员公告",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/7033.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1337,
@@ -1923,7 +1929,7 @@
   "id": 1342,
   "title": "广东科技学院教师发展中心诚聘工作人员",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20250617/3887.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1343,
@@ -2001,7 +2007,7 @@
   "id": 1355,
   "title": "东莞理工学院产业兼职教师选聘公告（第一批）",
   "sourceUrl": "https://rs.dgut.edu.cn/info/1018/6803.htm",
-  "reason": "公告页打不开: TooManyRedirects"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1356,
@@ -2049,7 +2055,7 @@
   "id": 1363,
   "title": "华南农业大学2025年人才引进和博士后招聘公告",
   "sourceUrl": "https://hr.scau.edu.cn/2025/0317/c15207a402512/page.htm",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1365,
@@ -2127,13 +2133,13 @@
   "id": 1377,
   "title": "广东科技学院国际教育学院诚聘英才",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20241212/3839.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1378,
   "title": "广东博思云科教技术有限公司国际教育事务部诚聘英才",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20241212/3838.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 1379,
@@ -2175,13 +2181,13 @@
   "id": 1385,
   "title": "广东科技学院学校办公室公开招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240603/3777.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1386,
   "title": "广东南博教育研究院招聘工作人员公告",
   "sourceUrl": "https://www.gdust.edu.cn/rsc/rsc/20240319/3754.html",
-  "reason": "公告页打不开: ConnectionError"
+  "reason": "页面没有岗位表附件"
  },
  {
   "id": 1387,
