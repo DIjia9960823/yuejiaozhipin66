@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 12:21",
+  "updated": "2026-11-23 19:04",
   "sources": {
     "梅州市教育局": {
       "city": "梅州",
@@ -8,7 +8,7 @@
       "status": "disabled",
       "reason": "已停用",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 0
     },
@@ -20,7 +20,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 3 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 3
     },
@@ -32,7 +32,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 13 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 13
     },
@@ -44,7 +44,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 13 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 13
     },
@@ -56,7 +56,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 23 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 23
     },
@@ -68,7 +68,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 13 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 13
     },
@@ -80,7 +80,7 @@
       "count": 0,
       "skipped": true,
       "reason": "连续失败 13 次，本次自动跳过（点「体检数据源」可复查）",
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "",
       "fail_streak": 13
     },
@@ -91,19 +91,8 @@
       "status": "empty",
       "reason": "栏目里没有招聘类文章",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "汕头市教育局": {
-      "city": "汕头",
-      "name": "汕头市教育局",
-      "home": "https://www.shantou.gov.cn/edu/",
-      "status": "empty",
-      "reason": "栏目里没有招聘类文章",
-      "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州市教育局": {
@@ -113,41 +102,19 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "肇庆市教育局": {
-      "city": "肇庆",
-      "name": "肇庆市教育局",
-      "home": "https://www.zhaoqing.gov.cn/zqjyj/",
+    "汕头市教育局": {
+      "city": "汕头",
+      "name": "汕头市教育局",
+      "home": "https://www.shantou.gov.cn/edu/",
       "status": "empty",
       "reason": "栏目里没有招聘类文章",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "湛江市教育局": {
-      "city": "湛江",
-      "name": "湛江市教育局",
-      "home": "https://www.zhanjiang.gov.cn/zhjedu/",
-      "status": "ok",
-      "reason": "",
-      "count": 3,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "江门市教育局": {
-      "city": "江门",
-      "name": "江门市教育局",
-      "home": "https://www.jiangmen.gov.cn/bmpd/jmsjyj/",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "韶关市教育局": {
@@ -157,20 +124,42 @@
       "status": "ok",
       "reason": "",
       "count": 3,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "河源市教育局": {
-      "city": "河源",
-      "name": "河源市教育局",
-      "home": "http://www.heyuan.gov.cn/bmjy/hysjyj/",
-      "status": "empty",
-      "reason": "栏目里没有招聘类文章",
-      "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+    "湛江市教育局": {
+      "city": "湛江",
+      "name": "湛江市教育局",
+      "home": "https://www.zhanjiang.gov.cn/zhjedu/",
+      "status": "ok",
+      "reason": "",
+      "count": 5,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
+    },
+    "江门市教育局": {
+      "city": "江门",
+      "name": "江门市教育局",
+      "home": "https://www.jiangmen.gov.cn/bmpd/jmsjyj/",
+      "status": "ok",
+      "reason": "",
+      "count": 1,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "惠州市教育局": {
+      "city": "惠州",
+      "name": "惠州市教育局",
+      "home": "https://jyj.huizhou.gov.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
     },
     "珠海市教育局": {
       "city": "珠海",
@@ -178,9 +167,9 @@
       "home": "https://zhjy.zhuhai.gov.cn/",
       "status": "ok",
       "reason": "",
-      "count": 9,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 7,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "茂名市教育局": {
@@ -190,9 +179,31 @@
       "status": "empty",
       "reason": "栏目里没有招聘类文章",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
+    },
+    "河源市教育局": {
+      "city": "河源",
+      "name": "河源市教育局",
+      "home": "http://www.heyuan.gov.cn/bmjy/hysjyj/",
+      "status": "empty",
+      "reason": "栏目里没有招聘类文章",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "佛山市教育局": {
+      "city": "佛山",
+      "name": "佛山市教育局",
+      "home": "https://edu.foshan.gov.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
     },
     "汕尾市教育局": {
       "city": "汕尾",
@@ -201,8 +212,8 @@
       "status": "ok",
       "reason": "",
       "count": 2,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "东莞市教育局": {
@@ -212,20 +223,20 @@
       "status": "empty",
       "reason": "栏目里没有招聘类文章",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "中山市教育和体育局": {
-      "city": "中山",
-      "name": "中山市教育和体育局",
-      "home": "https://jtj.zs.gov.cn/",
-      "status": "empty",
-      "reason": "栏目里没有招聘类文章",
+    "肇庆市教育局": {
+      "city": "肇庆",
+      "name": "肇庆市教育局",
+      "home": "https://www.zhaoqing.gov.cn/zqjyj/",
+      "status": "fail",
+      "reason": "无法连接",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "广东省教育厅": {
       "city": "广东",
@@ -234,31 +245,31 @@
       "status": "empty",
       "reason": "栏目里没有招聘类文章",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "揭阳市教育局": {
-      "city": "揭阳",
-      "name": "揭阳市教育局",
-      "home": "http://www.jieyang.gov.cn/jyj/",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
+    "中山市教育和体育局": {
+      "city": "中山",
+      "name": "中山市教育和体育局",
+      "home": "https://jtj.zs.gov.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "潮州市教育局": {
       "city": "潮州",
       "name": "潮州市教育局",
       "home": "https://www.chaozhou.gov.cn/zwgk/szfgz/sjyj/index.html",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "云浮市教育局": {
       "city": "云浮",
@@ -267,20 +278,20 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "惠州市教育局": {
-      "city": "惠州",
-      "name": "惠州市教育局",
-      "home": "https://jyj.huizhou.gov.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 7,
-      "last_run": "2026-11-10 12:21",
+    "揭阳市教育局": {
+      "city": "揭阳",
+      "name": "揭阳市教育局",
+      "home": "http://www.jieyang.gov.cn/jyj/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "广东省人社厅": {
       "city": "广东",
@@ -289,19 +300,8 @@
       "status": "ok",
       "reason": "",
       "count": 10,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "佛山市教育局": {
-      "city": "佛山",
-      "name": "佛山市教育局",
-      "home": "https://edu.foshan.gov.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 19,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "暨南大学": {
@@ -311,20 +311,31 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "广东工业大学": {
+      "city": "高校",
+      "name": "广东工业大学",
+      "home": "https://hr.gdut.edu.cn/",
+      "status": "ok",
+      "reason": "",
+      "count": 4,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "华南理工大学": {
       "city": "高校",
       "name": "华南理工大学",
       "home": "https://www2.scut.edu.cn/hr/",
-      "status": "ok",
-      "reason": "",
-      "count": 8,
-      "last_run": "2026-11-10 12:21",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "华南师范大学": {
       "city": "高校",
@@ -333,19 +344,8 @@
       "status": "ok",
       "reason": "",
       "count": 12,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "华南农业大学": {
-      "city": "高校",
-      "name": "华南农业大学",
-      "home": "https://hr.scau.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 2,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广东外语外贸大学": {
@@ -355,19 +355,19 @@
       "status": "ok",
       "reason": "",
       "count": 10,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "南方医科大学": {
+    "广州大学": {
       "city": "高校",
-      "name": "南方医科大学",
-      "home": "https://portal.smu.edu.cn/renshi/",
+      "name": "广州大学",
+      "home": "https://rsc.gzhu.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 7,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 14,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广东海洋大学": {
@@ -377,30 +377,30 @@
       "status": "ok",
       "reason": "",
       "count": 2,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "广东医科大学": {
+    "华南农业大学": {
       "city": "高校",
-      "name": "广东医科大学",
-      "home": "https://rsc.gdmu.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 4,
-      "last_run": "2026-11-10 12:21",
+      "name": "华南农业大学",
+      "home": "https://hr.scau.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
-    "深圳大学": {
+    "南方医科大学": {
       "city": "高校",
-      "name": "深圳大学",
-      "home": "https://hr.szu.edu.cn/",
+      "name": "南方医科大学",
+      "home": "https://portal.smu.edu.cn/renshi/",
       "status": "ok",
       "reason": "",
-      "count": 26,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 8,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广东技术师范大学": {
@@ -410,20 +410,20 @@
       "status": "ok",
       "reason": "",
       "count": 11,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "广东金融学院": {
+    "广东医科大学": {
       "city": "高校",
-      "name": "广东金融学院",
-      "home": "https://rsc.gduf.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
+      "name": "广东医科大学",
+      "home": "https://rsc.gdmu.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
     "广东财经大学": {
       "city": "高校",
@@ -432,96 +432,41 @@
       "status": "ok",
       "reason": "",
       "count": 22,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "广东第二师范学院": {
+    "深圳大学": {
       "city": "高校",
-      "name": "广东第二师范学院",
-      "home": "https://www.gdei.edu.cn/",
+      "name": "深圳大学",
+      "home": "https://hr.szu.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 14,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "星海音乐学院": {
-      "city": "高校",
-      "name": "星海音乐学院",
-      "home": "https://rsc.xhcom.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 6,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 26,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "惠州学院": {
       "city": "高校",
       "name": "惠州学院",
       "home": "https://rsc.hzu.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 5,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "广州大学": {
-      "city": "高校",
-      "name": "广州大学",
-      "home": "https://rsc.gzhu.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 12,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "岭南师范学院": {
-      "city": "高校",
-      "name": "岭南师范学院",
-      "home": "https://d.lingnan.edu.cn/rsc/",
-      "status": "ok",
-      "reason": "",
-      "count": 4,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "肇庆学院": {
-      "city": "高校",
-      "name": "肇庆学院",
-      "home": "https://rsc.zqu.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 13,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "顺德职业技术大学": {
-      "city": "高校",
-      "name": "顺德职业技术大学",
-      "home": "https://rsc.sdpt.edu.cn/",
-      "status": "empty",
-      "reason": "候选公告全部被过滤（多为名单/公示类）",
+      "status": "fail",
+      "reason": "无法连接",
       "count": 0,
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
+      "fail_streak": 1
     },
-    "韶关学院": {
+    "广东金融学院": {
       "city": "高校",
-      "name": "韶关学院",
-      "home": "https://rsc.sgu.edu.cn/",
+      "name": "广东金融学院",
+      "home": "https://rsc.gduf.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 9,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 1,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州中医药大学": {
@@ -531,20 +476,75 @@
       "status": "ok",
       "reason": "",
       "count": 5,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "深圳技术大学": {
+    "广东第二师范学院": {
       "city": "高校",
-      "name": "深圳技术大学",
-      "home": "https://hr.sztu.edu.cn/",
+      "name": "广东第二师范学院",
+      "home": "https://www.gdei.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "肇庆学院": {
+      "city": "高校",
+      "name": "肇庆学院",
+      "home": "https://rsc.zqu.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 13,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
+    },
+    "星海音乐学院": {
+      "city": "高校",
+      "name": "星海音乐学院",
+      "home": "https://rsc.xhcom.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "五邑大学": {
+      "city": "高校",
+      "name": "五邑大学",
+      "home": "https://www.wyu.edu.cn/hr/",
+      "status": "ok",
+      "reason": "",
+      "count": 6,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "韶关学院": {
+      "city": "高校",
+      "name": "韶关学院",
+      "home": "https://rsc.sgu.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "岭南师范学院": {
+      "city": "高校",
+      "name": "岭南师范学院",
+      "home": "https://d.lingnan.edu.cn/rsc/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
     },
     "东莞理工学院": {
       "city": "高校",
@@ -552,20 +552,9 @@
       "home": "https://rs.dgut.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 7,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "广州软件学院（民办）": {
-      "city": "广州",
-      "name": "广州软件学院（民办）",
-      "home": "https://www.gzus.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 6,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广东交通职业技术学院": {
@@ -575,19 +564,41 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "广东工业大学": {
+    "深圳技术大学": {
       "city": "高校",
-      "name": "广东工业大学",
-      "home": "https://hr.gdut.edu.cn/",
+      "name": "深圳技术大学",
+      "home": "https://hr.sztu.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 3,
-      "last_run": "2026-11-10 12:21",
+      "count": 1,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "顺德职业技术大学": {
+      "city": "高校",
+      "name": "顺德职业技术大学",
+      "home": "https://rsc.sdpt.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "广东科技学院（民办）": {
+      "city": "东莞",
+      "name": "广东科技学院（民办）",
+      "home": "https://www.gdust.edu.cn/",
+      "status": "ok",
+      "reason": "",
+      "count": 11,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州华商学院（民办）": {
@@ -597,8 +608,8 @@
       "status": "ok",
       "reason": "",
       "count": 15,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州应用科技学院（民办）": {
@@ -608,8 +619,8 @@
       "status": "ok",
       "reason": "",
       "count": 8,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州工商学院（民办）": {
@@ -619,8 +630,8 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广东文理职业学院（民办）": {
@@ -630,41 +641,19 @@
       "status": "ok",
       "reason": "",
       "count": 4,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "广东理工学院（民办）": {
-      "city": "肇庆",
-      "name": "广东理工学院（民办）",
-      "home": "https://www.gdlgxy.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 6,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "海珠区教育局": {
       "city": "广州",
       "name": "海珠区教育局",
       "home": "http://www.haizhu.gov.cn/gzhzjy/gkmlpt/index",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "广外南国商学院（民办）": {
-      "city": "广州",
-      "name": "广外南国商学院（民办）",
-      "home": "https://www.gwng.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 13,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "status": "empty",
+      "reason": "栏目里没有招聘类文章",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "番禺区教育局": {
@@ -674,8 +663,41 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "广外南国商学院（民办）": {
+      "city": "广州",
+      "name": "广外南国商学院（民办）",
+      "home": "https://www.gwng.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
       "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "广东理工学院（民办）": {
+      "city": "肇庆",
+      "name": "广东理工学院（民办）",
+      "home": "https://www.gdlgxy.edu.cn/",
+      "status": "fail",
+      "reason": "无法连接",
+      "count": 0,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-10 12:21",
+      "fail_streak": 1
+    },
+    "花都区教育局": {
+      "city": "广州",
+      "name": "花都区教育局",
+      "home": "http://www.huadu.gov.cn/gzhdjy/gkmlpt/index",
+      "status": "ok",
+      "reason": "",
+      "count": 3,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "荔湾区教育局": {
@@ -685,41 +707,8 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "广东创新科技职业学院（民办）": {
-      "city": "东莞",
-      "name": "广东创新科技职业学院（民办）",
-      "home": "http://www.gdcxxy.edu.cn/",
-      "status": "ok",
-      "reason": "",
-      "count": 8,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "南沙区教育局": {
-      "city": "广州",
-      "name": "南沙区教育局",
-      "home": "http://www.gzns.gov.cn/gznsjy/gkmlpt/index",
-      "status": "ok",
-      "reason": "",
-      "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "花都区教育局": {
-      "city": "广州",
-      "name": "花都区教育局",
-      "home": "http://www.huadu.gov.cn/gzhdjy/gkmlpt/index",
-      "status": "ok",
-      "reason": "",
-      "count": 3,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "白云区教育局": {
@@ -729,8 +718,19 @@
       "status": "ok",
       "reason": "",
       "count": 1,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "南沙区教育局": {
+      "city": "广州",
+      "name": "南沙区教育局",
+      "home": "http://www.gzns.gov.cn/gznsjy/gkmlpt/index",
+      "status": "ok",
+      "reason": "",
+      "count": 1,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "广州理工学院（民办）": {
@@ -740,8 +740,8 @@
       "status": "ok",
       "reason": "",
       "count": 17,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
     "天河区教育局": {
@@ -751,30 +751,30 @@
       "status": "ok",
       "reason": "",
       "count": 2,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     },
-    "广东科技学院（民办）": {
+    "广州软件学院（民办）": {
+      "city": "广州",
+      "name": "广州软件学院（民办）",
+      "home": "https://www.gzus.edu.cn/",
+      "status": "ok",
+      "reason": "",
+      "count": 1,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
+      "fail_streak": 0
+    },
+    "广东创新科技职业学院（民办）": {
       "city": "东莞",
-      "name": "广东科技学院（民办）",
-      "home": "https://www.gdust.edu.cn/",
+      "name": "广东创新科技职业学院（民办）",
+      "home": "http://www.gdcxxy.edu.cn/",
       "status": "ok",
       "reason": "",
-      "count": 10,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
-      "fail_streak": 0
-    },
-    "五邑大学": {
-      "city": "高校",
-      "name": "五邑大学",
-      "home": "https://www.wyu.edu.cn/hr/",
-      "status": "ok",
-      "reason": "",
-      "count": 5,
-      "last_run": "2026-11-10 12:21",
-      "last_ok": "2026-11-10 12:21",
+      "count": 8,
+      "last_run": "2026-11-23 19:04",
+      "last_ok": "2026-11-23 19:04",
       "fail_streak": 0
     }
   }
