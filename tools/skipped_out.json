@@ -528,6 +528,18 @@
   "reason": "页面没有岗位表附件"
  },
  {
+  "id": 101,
+  "title": "广东松山职业技术学院2026年公开招聘博士研究生公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4945757.html",
+  "reason": "附件解析不出岗位; 广东松山职业技术学院2026年公开招聘博士研究生岗位表: ConnectionError"
+ },
+ {
+  "id": 102,
+  "title": "广东建设职业技术学院2026年公开招聘博士研究生公告",
+  "sourceUrl": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4943820.html",
+  "reason": "附件解析不出岗位; 附件：1.广东建设职业技术学院2026年公开招聘博士研究生岗: ReadTimeout"
+ },
+ {
   "id": 104,
   "title": "广州城建职业学院学生处（清远校区）职员招聘公告",
   "sourceUrl": "https://rsw.gzccc.edu.cn/info/1028/3659.htm",
@@ -903,7 +915,7 @@
   "id": 187,
   "title": "广东海洋大学2026年公开招聘工作人员资格复审通知",
   "sourceUrl": "https://rsc.gdou.edu.cn/info/1003/2542.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 188,
@@ -939,7 +951,7 @@
   "id": 193,
   "title": "广州理工学院2026年春季专任教师招聘公告",
   "sourceUrl": "https://www.gzist.edu.cn/info/1376/22453.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 194,
@@ -957,7 +969,7 @@
   "id": 196,
   "title": "广东海洋大学2026年博士后招聘公告",
   "sourceUrl": "https://rsc.gdou.edu.cn/info/1003/2481.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ConnectionError"
  },
  {
   "id": 197,
@@ -1305,7 +1317,7 @@
   "id": 255,
   "title": "广州理工学院2025年第三批专任教师招聘启事",
   "sourceUrl": "https://www.gzist.edu.cn/info/1376/20963.htm",
-  "reason": "页面没有岗位表附件"
+  "reason": "公告页打不开: ReadTimeout"
  },
  {
   "id": 256,
